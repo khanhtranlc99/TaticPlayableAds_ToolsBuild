@@ -1,0 +1,1314 @@
+{
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 43,
+      "max": [
+        35.18763732910156,
+        42.664100646972656,
+        50.750526428222656
+      ],
+      "min": [
+        -52.67237854003906,
+        -42.63275146484375,
+        -52.236717224121094
+      ],
+      "name": "Scene/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 43,
+      "name": "Scene/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 43,
+      "name": "Scene/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5123,
+      "count": 156,
+      "name": "Scene/INDICES",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 59,
+      "max": [
+        20.580734252929688,
+        26.48025131225586,
+        17.499114990234375
+      ],
+      "min": [
+        -21.18029022216797,
+        -26.309593200683594,
+        -15.439605712890625
+      ],
+      "name": "Scene/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 59,
+      "name": "Scene/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 59,
+      "name": "Scene/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5123,
+      "count": 252,
+      "name": "Scene/INDICES",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5126,
+      "count": 68,
+      "max": [
+        26.652000427246094,
+        46.3610725402832,
+        27.351272583007813
+      ],
+      "min": [
+        -27.54669952392578,
+        -46.93892288208008,
+        -25.624069213867188
+      ],
+      "name": "Scene/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 4,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 68,
+      "name": "Scene/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 4,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 68,
+      "name": "Scene/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 5,
+      "componentType": 5123,
+      "count": 282,
+      "name": "Scene/INDICES",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 6,
+      "componentType": 5126,
+      "count": 65,
+      "max": [
+        52.082191467285156,
+        42.66412353515625,
+        52.259857177734375
+      ],
+      "min": [
+        -52.190086364746094,
+        -42.664100646972656,
+        -52.236724853515625
+      ],
+      "name": "Scene/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 6,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 65,
+      "name": "Scene/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 6,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 65,
+      "name": "Scene/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 7,
+      "componentType": 5123,
+      "count": 264,
+      "name": "Scene/INDICES",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 8,
+      "componentType": 5126,
+      "count": 59,
+      "max": [
+        30.771484375,
+        29.57278823852539,
+        37.31031799316406
+      ],
+      "min": [
+        -32.69683837890625,
+        -29.572776794433594,
+        -37.10252380371094
+      ],
+      "name": "Scene/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 8,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 59,
+      "name": "Scene/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 8,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 59,
+      "name": "Scene/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 9,
+      "componentType": 5123,
+      "count": 246,
+      "name": "Scene/INDICES",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 10,
+      "componentType": 5126,
+      "count": 58,
+      "max": [
+        37.362510681152344,
+        42.67387008666992,
+        42.59245300292969
+      ],
+      "min": [
+        -37.362510681152344,
+        -42.67385482788086,
+        -39.22050476074219
+      ],
+      "name": "Scene/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 10,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 58,
+      "name": "Scene/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 10,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 58,
+      "name": "Scene/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 11,
+      "componentType": 5123,
+      "count": 240,
+      "name": "Scene/INDICES",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 12,
+      "componentType": 5126,
+      "count": 67,
+      "max": [
+        32.57386779785156,
+        43.05012512207031,
+        40.609161376953125
+      ],
+      "min": [
+        -33.78584289550781,
+        -43.45507049560547,
+        -41.141143798828125
+      ],
+      "name": "Scene/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 12,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 67,
+      "name": "Scene/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 12,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 67,
+      "name": "Scene/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 13,
+      "componentType": 5123,
+      "count": 270,
+      "name": "Scene/INDICES",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 14,
+      "componentType": 5126,
+      "count": 81,
+      "max": [
+        21.199878692626953,
+        26.589130401611328,
+        17.672149658203125
+      ],
+      "min": [
+        -21.199878692626953,
+        -26.589130401611328,
+        -17.672149658203125
+      ],
+      "name": "Scene/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 14,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 81,
+      "name": "Scene/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 14,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 81,
+      "name": "Scene/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 15,
+      "componentType": 5123,
+      "count": 264,
+      "name": "Scene/INDICES",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 16,
+      "componentType": 5126,
+      "count": 32,
+      "max": [
+        11.576156616210938,
+        24.011486053466797,
+        12.271347045898438
+      ],
+      "min": [
+        -11.920211791992188,
+        -35.67118453979492,
+        -12.402481079101563
+      ],
+      "name": "Scene/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 16,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 32,
+      "name": "Scene/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 16,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 32,
+      "name": "Scene/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 17,
+      "componentType": 5123,
+      "count": 126,
+      "name": "Scene/INDICES",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 18,
+      "componentType": 5126,
+      "count": 50,
+      "max": [
+        21.199878692626953,
+        26.589130401611328,
+        14.177581787109375
+      ],
+      "min": [
+        -21.199878692626953,
+        -22.65563201904297,
+        -17.672149658203125
+      ],
+      "name": "Scene/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 18,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 50,
+      "name": "Scene/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 18,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 50,
+      "name": "Scene/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 19,
+      "componentType": 5123,
+      "count": 132,
+      "name": "Scene/INDICES",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 20,
+      "componentType": 5126,
+      "count": 42,
+      "max": [
+        15.651172637939453,
+        26.589130401611328,
+        15.416473388671875
+      ],
+      "min": [
+        -21.199878692626953,
+        0.13655471801757813,
+        -13.622955322265625
+      ],
+      "name": "Scene/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 20,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 42,
+      "name": "Scene/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 20,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 42,
+      "name": "Scene/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 21,
+      "componentType": 5123,
+      "count": 99,
+      "name": "Scene/INDICES",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 22,
+      "componentType": 5126,
+      "count": 28,
+      "max": [
+        11.576126098632813,
+        24.01148796081543,
+        12.271331787109375
+      ],
+      "min": [
+        -11.920211791992188,
+        -35.67118453979492,
+        -12.402496337890625
+      ],
+      "name": "Scene/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 22,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 28,
+      "name": "Scene/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 22,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 28,
+      "name": "Scene/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 23,
+      "componentType": 5123,
+      "count": 132,
+      "name": "Scene/INDICES",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 24,
+      "componentType": 5126,
+      "count": 81,
+      "max": [
+        21.199878692626953,
+        26.589130401611328,
+        17.672149658203125
+      ],
+      "min": [
+        -21.199878692626953,
+        -26.589130401611328,
+        -17.672149658203125
+      ],
+      "name": "Scene/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 24,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 81,
+      "name": "Scene/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 24,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 81,
+      "name": "Scene/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 25,
+      "componentType": 5123,
+      "count": 264,
+      "name": "Scene/INDICES",
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "copyright": "Copyright (c) 2018-2020 Chukong Technologies Inc.",
+    "generator": "FBX-glTF-conv",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 1376,
+      "byteStride": 32,
+      "name": "Scene",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 312,
+      "byteOffset": 1376,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1888,
+      "byteOffset": 1688,
+      "byteStride": 32,
+      "name": "Scene",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 504,
+      "byteOffset": 3576,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 2176,
+      "byteOffset": 4080,
+      "byteStride": 32,
+      "name": "Scene",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 564,
+      "byteOffset": 6256,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 2080,
+      "byteOffset": 6820,
+      "byteStride": 32,
+      "name": "Scene",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 528,
+      "byteOffset": 8900,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1888,
+      "byteOffset": 9428,
+      "byteStride": 32,
+      "name": "Scene",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 492,
+      "byteOffset": 11316,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1856,
+      "byteOffset": 11808,
+      "byteStride": 32,
+      "name": "Scene",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 480,
+      "byteOffset": 13664,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 2144,
+      "byteOffset": 14144,
+      "byteStride": 32,
+      "name": "Scene",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 540,
+      "byteOffset": 16288,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 2592,
+      "byteOffset": 16828,
+      "byteStride": 32,
+      "name": "Scene",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 528,
+      "byteOffset": 19420,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1024,
+      "byteOffset": 19948,
+      "byteStride": 32,
+      "name": "Scene",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 252,
+      "byteOffset": 20972,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1600,
+      "byteOffset": 21224,
+      "byteStride": 32,
+      "name": "Scene",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 264,
+      "byteOffset": 22824,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1344,
+      "byteOffset": 23088,
+      "byteStride": 32,
+      "name": "Scene",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 198,
+      "byteOffset": 24432,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 896,
+      "byteOffset": 24630,
+      "byteStride": 32,
+      "name": "Scene",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 264,
+      "byteOffset": 25526,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 2592,
+      "byteOffset": 25790,
+      "byteStride": 32,
+      "name": "Scene",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 528,
+      "byteOffset": 28382,
+      "target": 34963
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 28910,
+      "uri": "out.bin"
+    }
+  ],
+  "extras": {
+    "FBX-glTF-conv": {
+      "animationFrameRate": 30.0,
+      "fbxFileHeaderInfo": {
+        "creationTimeStamp": {
+          "day": 25,
+          "hour": 23,
+          "millisecond": 277,
+          "minute": 50,
+          "month": 3,
+          "second": 26,
+          "year": 2024
+        },
+        "creator": "FBX SDK/FBX Plugins version 2020.3.4",
+        "sceneInfo": {
+          "author": "Unity Technologies",
+          "comment": "",
+          "keywords": "Nodes Meshes Materials Textures Cameras Lights Skins Animation",
+          "original": {
+            "applicationName": "Unity FBX Exporter",
+            "applicationVendor": "",
+            "applicationVersion": "5.1.1",
+            "fileName": ""
+          },
+          "revision": "1.0",
+          "subject": "",
+          "title": "Created by FBX Exporter from Unity Technologies",
+          "url": "D:\\test\\assets\\Game\\Mesh\\mountain_below.fbx"
+        }
+      }
+    }
+  },
+  "materials": [
+    {
+      "extras": {
+        "FBX-glTF-conv": {
+          "raw": {
+            "properties": {
+              "ambient": {
+                "value": [
+                  0.0,
+                  0.0,
+                  0.0
+                ]
+              },
+              "ambientFactor": {
+                "value": 1.0
+              },
+              "bump": {
+                "value": [
+                  0.0,
+                  0.0,
+                  0.0
+                ]
+              },
+              "bumpFactor": {
+                "value": 1.0
+              },
+              "diffuse": {
+                "value": [
+                  0.803921639919281,
+                  0.815686345100403,
+                  0.964705944061279
+                ]
+              },
+              "diffuseFactor": {
+                "value": 1.0
+              },
+              "displacementColor": {
+                "value": [
+                  0.0,
+                  0.0,
+                  0.0
+                ]
+              },
+              "displacementFactor": {
+                "value": 1.0
+              },
+              "emissive": {
+                "value": [
+                  0.0,
+                  0.0,
+                  0.0
+                ]
+              },
+              "emissiveFactor": {
+                "value": 1.0
+              },
+              "normalMap": {
+                "value": [
+                  0.0,
+                  0.0,
+                  0.0
+                ]
+              },
+              "shadingModel": "Lambert",
+              "transparencyFactor": {
+                "value": 0.0
+              },
+              "transparentColor": {
+                "value": [
+                  0.0,
+                  0.0,
+                  0.0
+                ]
+              },
+              "vectorDisplacementColor": {
+                "value": [
+                  0.0,
+                  0.0,
+                  0.0
+                ]
+              },
+              "vectorDisplacementFactor": {
+                "value": 1.0
+              }
+            },
+            "type": "lambert"
+          }
+        }
+      },
+      "name": "New_Material"
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Scene",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "material": 0
+        }
+      ]
+    },
+    {
+      "name": "Scene",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 5,
+            "POSITION": 4,
+            "TEXCOORD_0": 6
+          },
+          "indices": 7,
+          "material": 0
+        }
+      ]
+    },
+    {
+      "name": "Scene",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 9,
+            "POSITION": 8,
+            "TEXCOORD_0": 10
+          },
+          "indices": 11,
+          "material": 0
+        }
+      ]
+    },
+    {
+      "name": "Scene",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 13,
+            "POSITION": 12,
+            "TEXCOORD_0": 14
+          },
+          "indices": 15,
+          "material": 0
+        }
+      ]
+    },
+    {
+      "name": "Scene",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 17,
+            "POSITION": 16,
+            "TEXCOORD_0": 18
+          },
+          "indices": 19,
+          "material": 0
+        }
+      ]
+    },
+    {
+      "name": "Scene",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 21,
+            "POSITION": 20,
+            "TEXCOORD_0": 22
+          },
+          "indices": 23,
+          "material": 0
+        }
+      ]
+    },
+    {
+      "name": "Scene",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 25,
+            "POSITION": 24,
+            "TEXCOORD_0": 26
+          },
+          "indices": 27,
+          "material": 0
+        }
+      ]
+    },
+    {
+      "name": "Scene",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 29,
+            "POSITION": 28,
+            "TEXCOORD_0": 30
+          },
+          "indices": 31,
+          "material": 0
+        }
+      ]
+    },
+    {
+      "name": "Scene",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 33,
+            "POSITION": 32,
+            "TEXCOORD_0": 34
+          },
+          "indices": 35,
+          "material": 0
+        }
+      ]
+    },
+    {
+      "name": "Scene",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 37,
+            "POSITION": 36,
+            "TEXCOORD_0": 38
+          },
+          "indices": 39,
+          "material": 0
+        }
+      ]
+    },
+    {
+      "name": "Scene",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 41,
+            "POSITION": 40,
+            "TEXCOORD_0": 42
+          },
+          "indices": 43,
+          "material": 0
+        }
+      ]
+    },
+    {
+      "name": "Scene",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 45,
+            "POSITION": 44,
+            "TEXCOORD_0": 46
+          },
+          "indices": 47,
+          "material": 0
+        }
+      ]
+    },
+    {
+      "name": "Scene",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 49,
+            "POSITION": 48,
+            "TEXCOORD_0": 50
+          },
+          "indices": 51,
+          "material": 0
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "name": "mountain_below"
+    },
+    {
+      "mesh": 0,
+      "name": "moutain_below1",
+      "rotation": [
+        -0.0914321094751358,
+        0.9219797253608704,
+        -0.09051710367202759,
+        0.3652399480342865
+      ],
+      "scale": [
+        0.06263720989227295,
+        0.09155643731355667,
+        0.06263720989227295
+      ],
+      "translation": [
+        -19.94659423828125,
+        2.04931640625,
+        -11.051595687866211
+      ]
+    },
+    {
+      "mesh": 1,
+      "name": "moutain_below2",
+      "rotation": [
+        -0.16590219736099243,
+        0.49499499797821045,
+        -0.008899921551346779,
+        0.8528640866279602
+      ],
+      "scale": [
+        0.06829959899187088,
+        0.09712227433919907,
+        0.06829959899187088
+      ],
+      "translation": [
+        -17.22751808166504,
+        1.3377126455307007,
+        -7.711575508117676
+      ]
+    },
+    {
+      "mesh": 2,
+      "name": "moutain_below3",
+      "rotation": [
+        -0.147286519408226,
+        0.8737949728965759,
+        -0.07470126450061798,
+        0.45739346742630005
+      ],
+      "scale": [
+        0.06263720989227295,
+        0.06263720989227295,
+        0.06263720989227295
+      ],
+      "translation": [
+        -20.350051879882813,
+        2.1170077323913574,
+        -5.047192096710205
+      ]
+    },
+    {
+      "mesh": 3,
+      "name": "moutain_below4",
+      "rotation": [
+        -0.14298388361930847,
+        0.7444959282875061,
+        -0.027526266872882843,
+        0.6515548229217529
+      ],
+      "scale": [
+        0.06263720989227295,
+        0.07121790945529938,
+        0.06263720989227295
+      ],
+      "translation": [
+        -22.017894744873047,
+        1.552803874015808,
+        0.27514246106147766
+      ]
+    },
+    {
+      "mesh": 4,
+      "name": "moutain_below5",
+      "rotation": [
+        -0.1669800728559494,
+        0.9678365588188171,
+        0.1343618780374527,
+        -0.13174569606781006
+      ],
+      "scale": [
+        0.04241219162940979,
+        0.1256534457206726,
+        0.05706673488020897
+      ],
+      "translation": [
+        -19.65707778930664,
+        2.0754406452178955,
+        5.000202178955078
+      ]
+    },
+    {
+      "mesh": 5,
+      "name": "moutain_below6",
+      "rotation": [
+        -0.05114005133509636,
+        0.8376167416572571,
+        0.1756952404975891,
+        0.5146980285644531
+      ],
+      "scale": [
+        0.06263720989227295,
+        0.0883646011352539,
+        0.06263720989227295
+      ],
+      "translation": [
+        -20.598731994628906,
+        2.4561498165130615,
+        9.424074172973633
+      ]
+    },
+    {
+      "mesh": 6,
+      "name": "moutain_below7",
+      "rotation": [
+        0.09952733665704727,
+        -0.4368351399898529,
+        0.05592786893248558,
+        0.8922675848007202
+      ],
+      "scale": [
+        0.06469221413135529,
+        0.0787762850522995,
+        0.0516124852001667
+      ],
+      "translation": [
+        -18.47867202758789,
+        2.594388484954834,
+        13.459678649902344
+      ]
+    },
+    {
+      "mesh": 7,
+      "name": "moutain_below8",
+      "rotation": [
+        0.0,
+        0.490893691778183,
+        0.0,
+        0.8712194561958313
+      ],
+      "scale": [
+        0.02611900493502617,
+        0.024902500212192535,
+        0.02611900493502617
+      ],
+      "translation": [
+        -15.419265747070313,
+        -0.184261292219162,
+        -7.942543029785156
+      ]
+    },
+    {
+      "mesh": 8,
+      "name": "moutain_below9",
+      "rotation": [
+        -0.08559439331293106,
+        0.8258563876152039,
+        -0.3770582675933838,
+        -0.410441130399704
+      ],
+      "scale": [
+        0.05155123397707939,
+        0.09828618168830872,
+        0.05155123397707939
+      ],
+      "translation": [
+        -18.29965591430664,
+        1.5187994241714478,
+        -3.6455166339874268
+      ]
+    },
+    {
+      "mesh": 9,
+      "name": "moutain_below10",
+      "rotation": [
+        0.2744409143924713,
+        0.5370194315910339,
+        0.10679611563682556,
+        0.790497899055481
+      ],
+      "scale": [
+        0.05528053641319275,
+        0.0359693318605423,
+        0.05528053641319275
+      ],
+      "translation": [
+        -18.03531837463379,
+        -0.21558479964733124,
+        0.8020073175430298
+      ]
+    },
+    {
+      "mesh": 10,
+      "name": "moutain_below11",
+      "rotation": [
+        0.0,
+        0.490893691778183,
+        0.0,
+        0.8712194561958313
+      ],
+      "scale": [
+        0.02611900493502617,
+        0.024902500212192535,
+        0.02611900493502617
+      ],
+      "translation": [
+        -15.068135261535645,
+        -0.184261292219162,
+        6.017992973327637
+      ]
+    },
+    {
+      "mesh": 11,
+      "name": "moutain_below12",
+      "rotation": [
+        0.20837552845478058,
+        -0.33566901087760925,
+        0.03216977044939995,
+        0.9180800914764404
+      ],
+      "scale": [
+        0.055258553475141525,
+        0.09563995152711868,
+        0.055258553475141525
+      ],
+      "translation": [
+        -17.133243560791016,
+        2.675682783126831,
+        7.4854416847229
+      ]
+    },
+    {
+      "mesh": 12,
+      "name": "moutain_below13",
+      "rotation": [
+        0.0,
+        0.04133113473653793,
+        0.0,
+        0.9991455078125
+      ],
+      "scale": [
+        0.017734767869114876,
+        0.016908762976527214,
+        0.017734767869114876
+      ],
+      "translation": [
+        -15.39158821105957,
+        0.03460696339607239,
+        12.68460750579834
+      ]
+    }
+  ],
+  "scenes": [
+    {
+      "name": "Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}

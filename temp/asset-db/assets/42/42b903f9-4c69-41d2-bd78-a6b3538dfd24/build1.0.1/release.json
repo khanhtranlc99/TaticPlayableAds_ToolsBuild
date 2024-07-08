@@ -1,0 +1,129 @@
+[
+    1,
+    [
+        "eajBpOAHFC5IrkHvLcWsgl@6c48a",
+        "c89m0XNRpI2qEsAhLShXXE"
+    ],
+    [
+        "mainTexture",
+        "_effectAsset"
+    ],
+    [
+        [
+            "cc.Material",
+            [
+                "_name",
+                "_techIdx",
+                "_states",
+                "_defines",
+                "_props"
+            ],
+            -1,
+            12
+        ]
+    ],
+    [
+        [
+            0,
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ]
+    ],
+    [
+        [
+            0,
+            "Arrow",
+            1,
+            [
+                {
+                    "rasterizerState": {},
+                    "depthStencilState": {},
+                    "blendState": {
+                        "targets": [
+                            {}
+                        ]
+                    }
+                },
+                {
+                    "rasterizerState": {},
+                    "depthStencilState": {},
+                    "blendState": {
+                        "targets": [
+                            {}
+                        ]
+                    }
+                },
+                {
+                    "rasterizerState": {},
+                    "depthStencilState": {},
+                    "blendState": {
+                        "targets": [
+                            {}
+                        ]
+                    }
+                }
+            ],
+            [
+                {},
+                {},
+                {}
+            ],
+            [
+                [
+                    [
+                        {
+                            "roughness": 0.169
+                        },
+                        "tilingOffset",
+                        8,
+                        [
+                            2,
+                            3.9,
+                            1,
+                            0,
+                            0
+                        ],
+                        "mainColor",
+                        8,
+                        [
+                            4,
+                            16777215
+                        ],
+                        "emissive",
+                        8,
+                        [
+                            4,
+                            16777215
+                        ],
+                        "mainTexture",
+                        6,
+                        0
+                    ],
+                    {},
+                    {}
+                ],
+                11,
+                0,
+                0
+            ]
+        ]
+    ],
+    0,
+    0,
+    [
+        0,
+        0
+    ],
+    [
+        0,
+        1
+    ],
+    [
+        0,
+        1
+    ]
+]

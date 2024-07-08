@@ -1,0 +1,67 @@
+[
+    1,
+    [
+        "c89m0XNRpI2qEsAhLShXXE"
+    ],
+    [
+        "_effectAsset"
+    ],
+    [
+        [
+            "cc.Material",
+            [
+                "_name",
+                "_props",
+                "_states",
+                "_defines"
+            ],
+            -1
+        ]
+    ],
+    [
+        [
+            0,
+            0,
+            1,
+            2,
+            3,
+            5
+        ]
+    ],
+    [
+        [
+            0,
+            "Map_01_M",
+            [
+                {
+                    "occlusion": 0
+                }
+            ],
+            [
+                {
+                    "rasterizerState": {},
+                    "blendState": {
+                        "targets": [
+                            {}
+                        ]
+                    },
+                    "depthStencilState": {}
+                }
+            ],
+            [
+                {}
+            ]
+        ]
+    ],
+    0,
+    0,
+    [
+        0
+    ],
+    [
+        0
+    ],
+    [
+        0
+    ]
+]

@@ -1,0 +1,15 @@
+{
+  "version": "2.3.8",
+  "sourceTimeStamp": 1711297873434.3938,
+  "outputTimeStamps": {
+    "Map_01_texture.png": 1711297983661.7942,
+    "log.json": 1711297984066.7686,
+    "out.gltf": 1711297984065.7712,
+    "out.bin": 1711297984058.7905,
+    ".fbm/390914B3/Map_01_obj.fbm/Map_01_texture.png": 1711297983661.7942
+  },
+  "options": {
+    "smartMaterialEnabled": true,
+    "matchMeshNames": false
+  }
+}

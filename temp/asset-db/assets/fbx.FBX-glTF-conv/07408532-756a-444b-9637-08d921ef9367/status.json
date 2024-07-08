@@ -1,0 +1,15 @@
+{
+  "version": "2.3.8",
+  "sourceTimeStamp": 1711297873381.0283,
+  "outputTimeStamps": {
+    "log.json": 1711297985635.8057,
+    "out.bin": 1711297985624.8342,
+    "unit_color_orange.png": 1711297985529.5742,
+    "out.gltf": 1711297985632.8137,
+    ".fbm/5F9B1A32/Infantry_rig.fbm/unit_color_orange.png": 1711297985529.5742
+  },
+  "options": {
+    "smartMaterialEnabled": true,
+    "matchMeshNames": false
+  }
+}

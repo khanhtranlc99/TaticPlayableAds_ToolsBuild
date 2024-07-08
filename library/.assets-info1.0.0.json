@@ -1,0 +1,462 @@
+{
+  "version": "1.0.0",
+  "map": {
+    "D:\\test\\assets\\Game": {
+      "time": 1711297873618.0215,
+      "uuid": "3d8bf1d8-fb7e-41ef-b301-02813fd63821"
+    },
+    "D:\\test\\assets\\Game\\folder": {
+      "time": 1711385845128.4824,
+      "uuid": "4cf3e07a-999d-43fa-9ab6-0b16021fa10b"
+    },
+    "D:\\test\\assets\\Game\\Mesh": {
+      "time": 1711387141198.1028,
+      "uuid": "6578f5c2-5446-427a-86ed-ad95e1a02d05"
+    },
+    "D:\\test\\assets\\Game\\Prefab": {
+      "time": 1711297873389.009,
+      "uuid": "8676cd1d-6fa1-4225-89d3-f88672b822df"
+    },
+    "D:\\test\\assets\\Game\\Script": {
+      "time": 1711297873396.495,
+      "uuid": "2c387391-25b5-4a81-b7b5-3a22ed49d0be"
+    },
+    "D:\\test\\assets\\Game\\folder\\House": {
+      "time": 1711297873412.4524,
+      "uuid": "5f517bfa-9f56-48c6-b749-d16c6ed6c3ea"
+    },
+    "D:\\test\\assets\\Game\\folder\\Material": {
+      "time": 1711385908079.2166,
+      "uuid": "9dbabb4c-3177-4584-a713-001b5a5d988e"
+    },
+    "D:\\test\\assets\\Game\\folder\\xanh_co_map": {
+      "time": 1711386557980.3018,
+      "uuid": "c3671477-814e-4ae2-b06b-e5b15040188b"
+    },
+    "D:\\test\\assets\\Game\\Mesh\\tactic_playableads_pack": {
+      "time": 1711297873382.0254,
+      "uuid": "16592d0d-da7b-400b-8ba1-e310bc0d7a72"
+    },
+    "D:\\test\\assets\\Game\\Script\\ApplyLineShader.ts": {
+      "time": 1711297873390.0042,
+      "uuid": "47c918e1-c881-4306-afdc-dd3a08fb9345"
+    },
+    "D:\\test\\assets\\Game\\Script\\ElementLine.ts": {
+      "time": 1711297873391.0017,
+      "uuid": "aff2a691-c648-45f0-882d-e929a5a75b0b"
+    },
+    "D:\\test\\assets\\Game\\Script\\GamePlayController.ts": {
+      "time": 1711297873391.0017,
+      "uuid": "fdb76de6-4209-4d41-bd35-5dad3a5afcec"
+    },
+    "D:\\test\\assets\\Game\\Script\\InputController.ts": {
+      "time": 1711297873392.0002,
+      "uuid": "12838c14-796c-4d4c-bd42-4ce428d8a8c6"
+    },
+    "D:\\test\\assets\\Game\\Script\\LineRender.ts": {
+      "time": 1711297873392.9963,
+      "uuid": "cad17f7b-b27a-4465-bd9d-5705ca65245a"
+    },
+    "D:\\test\\assets\\Game\\Script\\PlayerContain.ts": {
+      "time": 1711297873393.5002,
+      "uuid": "caa47909-086c-4860-a3a2-f6f5206284a6"
+    },
+    "D:\\test\\assets\\Game\\Script\\SimplePool.ts": {
+      "time": 1711297873393.5002,
+      "uuid": "6f2d7f20-b0f6-430f-a988-b56e5f902495"
+    },
+    "D:\\test\\assets\\Game\\Script\\SolderTower.ts": {
+      "time": 1711381842250.7646,
+      "uuid": "3f05308e-644c-4716-a154-24f5c269aef9"
+    },
+    "D:\\test\\assets\\Game\\Script\\SoliderUnit.ts": {
+      "time": 1711297873394.5,
+      "uuid": "2568dcff-445f-4922-9f92-d84356f8be56"
+    },
+    "D:\\test\\assets\\Game\\Script\\Test.ts": {
+      "time": 1711297873395.4978,
+      "uuid": "4d900c61-f48f-4b23-8c23-4c9429ec8f96"
+    },
+    "D:\\test\\assets\\Game\\Script\\TestColider.ts": {
+      "time": 1711297873395.4978,
+      "uuid": "46669c0a-2555-48ac-86e1-898842adab62"
+    },
+    "D:\\test\\assets\\Game\\Script\\TestLine.ts": {
+      "time": 1711297873395.4978,
+      "uuid": "e329368e-bd1e-4108-ad5d-85a46cb116c9"
+    },
+    "D:\\test\\assets\\Game\\Script\\TouchDetection.ts": {
+      "time": 1711297873396.495,
+      "uuid": "987c6de8-0dbb-46b7-aa05-039067694c7e"
+    },
+    "D:\\test\\assets\\Game.meta": {
+      "time": 1711297873362.077
+    },
+    "D:\\test\\assets\\Game\\folder.meta": {
+      "time": 1711297873396.495
+    },
+    "D:\\test\\assets\\Game\\Mesh.meta": {
+      "time": 1711297873363.073
+    },
+    "D:\\test\\assets\\Game\\Prefab.meta": {
+      "time": 1711297873382.0254
+    },
+    "D:\\test\\assets\\Game\\Script.meta": {
+      "time": 1711297873390.0042
+    },
+    "D:\\test\\assets\\Game\\folder\\House.meta": {
+      "time": 1711297873405.471
+    },
+    "D:\\test\\assets\\Game\\folder\\Material.meta": {
+      "time": 1711297873413.45
+    },
+    "D:\\test\\assets\\Game\\folder\\xanh_co_map.meta": {
+      "time": 1711297873419.4355
+    },
+    "D:\\test\\assets\\Game\\Mesh\\tactic_playableads_pack.meta": {
+      "time": 1711297873363.073
+    },
+    "D:\\test\\assets\\Game\\Script\\ApplyLineShader.ts.meta": {
+      "time": 1711297873391.0017
+    },
+    "D:\\test\\assets\\Game\\Script\\ElementLine.ts.meta": {
+      "time": 1711297873391.0017
+    },
+    "D:\\test\\assets\\Game\\Script\\GamePlayController.ts.meta": {
+      "time": 1711297873392.0002
+    },
+    "D:\\test\\assets\\Game\\Script\\InputController.ts.meta": {
+      "time": 1711297873392.0002
+    },
+    "D:\\test\\assets\\Game\\Script\\LineRender.ts.meta": {
+      "time": 1711297873392.9963
+    },
+    "D:\\test\\assets\\Game\\Script\\PlayerContain.ts.meta": {
+      "time": 1711297873393.5002
+    },
+    "D:\\test\\assets\\Game\\Script\\SimplePool.ts.meta": {
+      "time": 1711297873393.5002
+    },
+    "D:\\test\\assets\\Game\\Script\\SolderTower.ts.meta": {
+      "time": 1711297873394.5
+    },
+    "D:\\test\\assets\\Game\\Script\\SoliderUnit.ts.meta": {
+      "time": 1711297873394.5
+    },
+    "D:\\test\\assets\\Game\\Script\\Test.ts.meta": {
+      "time": 1711297873395.4978
+    },
+    "D:\\test\\assets\\Game\\Script\\TestColider.ts.meta": {
+      "time": 1711297873395.4978
+    },
+    "D:\\test\\assets\\Game\\Script\\TestLine.ts.meta": {
+      "time": 1711297873396.495
+    },
+    "D:\\test\\assets\\Game\\Script\\TouchDetection.ts.meta": {
+      "time": 1711297873396.495
+    },
+    "D:\\test\\assets\\Game\\scene.scene": {
+      "time": 1711389066972.569,
+      "uuid": "f4eebca5-c82f-43fe-8f51-acde438a336b"
+    },
+    "D:\\test\\assets\\Game\\folder\\Arrow_attack.png": {
+      "time": 1711297873399.5276,
+      "uuid": "ea8c1a4e-0071-42e4-8ae4-1ef2dc5ac825"
+    },
+    "D:\\test\\assets\\Game\\folder\\Arrow_attack_black.png": {
+      "time": 1711297873400.487,
+      "uuid": "61f1d403-c292-48d8-90b1-ac3b9593ab77"
+    },
+    "D:\\test\\assets\\Game\\folder\\Arrow_attack_green.png": {
+      "time": 1711297873401.484,
+      "uuid": "1f619891-75a6-4e63-b681-b39c201cfac1"
+    },
+    "D:\\test\\assets\\Game\\folder\\Arrow_attack_red.png": {
+      "time": 1711297873401.484,
+      "uuid": "b7fd4882-f609-4709-92c4-b6ed0e59bb87"
+    },
+    "D:\\test\\assets\\Game\\folder\\Arrow_attack_yellow.png": {
+      "time": 1711297873402.479,
+      "uuid": "228dce8c-e878-4aa9-bdb7-e41dad497caf"
+    },
+    "D:\\test\\assets\\Game\\folder\\bg button 5.png": {
+      "time": 1711297873418.438,
+      "uuid": "9997851d-c4cd-432e-818c-28799d93094d"
+    },
+    "D:\\test\\assets\\Game\\folder\\Square.png": {
+      "time": 1711297873418.438,
+      "uuid": "11b0837d-7035-4e4f-b75c-b3c61bcbcf0c"
+    },
+    "D:\\test\\assets\\Game\\folder\\victory.png": {
+      "time": 1711358156000,
+      "uuid": "20ca7ed2-8f80-47c9-b324-cfba6e71c42d"
+    },
+    "D:\\test\\assets\\Game\\Prefab\\Cube.prefab": {
+      "time": 1711297873382.0254,
+      "uuid": "3abb4606-936e-4b3d-ab08-cce231c8f631"
+    },
+    "D:\\test\\assets\\Game\\Prefab\\House_pack-003.prefab": {
+      "time": 1711297873384.0203,
+      "uuid": "2e1534e9-dda8-4f3c-8920-086b01a2dc79"
+    },
+    "D:\\test\\assets\\Game\\Prefab\\SoliderPrefab.prefab": {
+      "time": 1711297873389.009,
+      "uuid": "e59d5a7d-028a-4d70-821b-764e0584fd8b"
+    },
+    "D:\\test\\assets\\Game\\folder\\House\\house.fbx": {
+      "time": 1711297873412.4524,
+      "uuid": "118581fc-8454-4aac-9a89-cda44a4f202e"
+    },
+    "D:\\test\\assets\\Game\\folder\\House\\House_pack.fbx": {
+      "time": 1711297873407.4656,
+      "uuid": "66dde63f-2cb4-46c0-b76c-9dc2d77ba120"
+    },
+    "D:\\test\\assets\\Game\\folder\\House\\RT_RockThrow_pack.fbx": {
+      "time": 1711297873409.4602,
+      "uuid": "d531c5b7-9e49-49b3-ab7e-52538ae9ddb0"
+    },
+    "D:\\test\\assets\\Game\\folder\\Material\\Arrow.mtl": {
+      "time": 1711297873413.45,
+      "uuid": "42b903f9-4c69-41d2-bd78-a6b3538dfd24"
+    },
+    "D:\\test\\assets\\Game\\folder\\Material\\Blue.mtl": {
+      "time": 1711297873413.45,
+      "uuid": "fd8b3143-dde9-4c5f-a5b1-f8dabbdf2624"
+    },
+    "D:\\test\\assets\\Game\\folder\\Material\\Brown.mtl": {
+      "time": 1711387440051.08,
+      "uuid": "1ae228c3-1240-4d27-9e54-dfd2681610b1"
+    },
+    "D:\\test\\assets\\Game\\folder\\Material\\Gray.mtl": {
+      "time": 1711297873415.4438,
+      "uuid": "4cfd3b05-8eba-43a5-afff-27dfeccaa1eb"
+    },
+    "D:\\test\\assets\\Game\\folder\\Material\\Green.mtl": {
+      "time": 1711297873415.4438,
+      "uuid": "f48a54b6-c338-41c4-85d4-8d7ac075ab7d"
+    },
+    "D:\\test\\assets\\Game\\folder\\Material\\material-001.mtl": {
+      "time": 1711297873417.439,
+      "uuid": "9a7a8f28-c4c1-43d6-9df2-1cbe98f77513"
+    },
+    "D:\\test\\assets\\Game\\folder\\Material\\material-002.mtl": {
+      "time": 1711297873417.439,
+      "uuid": "d98858d3-7ebe-48e0-ae23-44853a5343f6"
+    },
+    "D:\\test\\assets\\Game\\folder\\Material\\Red.mtl": {
+      "time": 1711297873415.4438,
+      "uuid": "3dea2e8c-54f6-4d3b-9652-5b0c18f96d6a"
+    },
+    "D:\\test\\assets\\Game\\folder\\Material\\White.mtl": {
+      "time": 1711297873416.4414,
+      "uuid": "b9de85bf-33b2-4ad0-8080-d6b0485c7286"
+    },
+    "D:\\test\\assets\\Game\\folder\\Material\\Yellow.mtl": {
+      "time": 1711297873416.4414,
+      "uuid": "93476884-4904-4d5d-8be5-567cd6577d34"
+    },
+    "D:\\test\\assets\\Game\\folder\\xanh_co_map\\Map_01_obj.fbx": {
+      "time": 1711297873434.3938,
+      "uuid": "b252885d-b968-408e-a856-56a1def7ebe8"
+    },
+    "D:\\test\\assets\\Game\\folder\\xanh_co_map\\Map_01_texture.png": {
+      "time": 1711297873442.372,
+      "uuid": "4816673c-8286-4dd6-afb8-d6116b7ec1d2"
+    },
+    "D:\\test\\assets\\Game\\folder\\xanh_co_map\\pinetree 1.fbx": {
+      "time": 1711297873445.364,
+      "uuid": "b4d6a354-3c05-4af2-b8e0-7c4d6659508e"
+    },
+    "D:\\test\\assets\\Game\\folder\\xanh_co_map\\xanh_co_map.fbx": {
+      "time": 1711297873453.375,
+      "uuid": "040fd627-1083-443a-949a-b57358edc256"
+    },
+    "D:\\test\\assets\\Game\\folder\\xanh_co_map\\xanh_co_resize2.psd": {
+      "time": 1711297873613.0654,
+      "uuid": "4ead8419-0056-46d0-85f9-8063fd6fae57"
+    },
+    "D:\\test\\assets\\Game\\folder\\xanh_co_map\\xanh_co_Tex.png": {
+      "time": 1711297873450.351,
+      "uuid": "baff2d07-258c-4704-b972-e4498f1cf246"
+    },
+    "D:\\test\\assets\\Game\\Mesh\\tactic_playableads_pack\\Char_die.fbx": {
+      "time": 1711297873369.0576,
+      "uuid": "266f64a8-2af3-4689-bd55-622cf5bd0406"
+    },
+    "D:\\test\\assets\\Game\\Mesh\\tactic_playableads_pack\\Char_idle.fbx": {
+      "time": 1711297873373.0469,
+      "uuid": "a2058c3e-a938-4168-a9d0-0b96c42f9f89"
+    },
+    "D:\\test\\assets\\Game\\Mesh\\tactic_playableads_pack\\Char_run.fbx": {
+      "time": 1711297873376.0403,
+      "uuid": "edeef1b5-86e4-45bb-9ca7-f64e63455594"
+    },
+    "D:\\test\\assets\\Game\\Mesh\\tactic_playableads_pack\\Infantry_rig.fbx": {
+      "time": 1711297873381.0283,
+      "uuid": "07408532-756a-444b-9637-08d921ef9367"
+    },
+    "D:\\test\\assets\\Game\\scene.scene.meta": {
+      "time": 1711297873618.0215
+    },
+    "D:\\test\\assets\\Game\\folder\\Arrow_attack_green.png.meta": {
+      "time": 1711297873401.484
+    },
+    "D:\\test\\assets\\Game\\folder\\Arrow_attack.png.meta": {
+      "time": 1711297873399.5276
+    },
+    "D:\\test\\assets\\Game\\folder\\Arrow_attack_black.png.meta": {
+      "time": 1711297873400.487
+    },
+    "D:\\test\\assets\\Game\\folder\\Arrow_attack_red.png.meta": {
+      "time": 1711297873401.484
+    },
+    "D:\\test\\assets\\Game\\folder\\Arrow_attack_yellow.png.meta": {
+      "time": 1711297873402.479
+    },
+    "D:\\test\\assets\\Game\\Prefab\\Cube.prefab.meta": {
+      "time": 1711297873382.0254
+    },
+    "D:\\test\\assets\\Game\\folder\\bg button 5.png.meta": {
+      "time": 1711297873418.438
+    },
+    "D:\\test\\assets\\Game\\Prefab\\House_pack-003.prefab.meta": {
+      "time": 1711297873385.018
+    },
+    "D:\\test\\assets\\Game\\folder\\Square.png.meta": {
+      "time": 1711297873418.438
+    },
+    "D:\\test\\assets\\Game\\Prefab\\SoliderPrefab.prefab.meta": {
+      "time": 1711297873389.009
+    },
+    "D:\\test\\assets\\Game\\folder\\Material\\Blue.mtl.meta": {
+      "time": 1711297873414.447
+    },
+    "D:\\test\\assets\\Game\\folder\\Material\\Arrow.mtl.meta": {
+      "time": 1711297873413.45
+    },
+    "D:\\test\\assets\\Game\\folder\\Material\\Gray.mtl.meta": {
+      "time": 1711297873415.4438
+    },
+    "D:\\test\\assets\\Game\\folder\\Material\\Brown.mtl.meta": {
+      "time": 1711297873414.447
+    },
+    "D:\\test\\assets\\Game\\folder\\Material\\Green.mtl.meta": {
+      "time": 1711297873415.4438
+    },
+    "D:\\test\\assets\\Game\\folder\\victory.png.meta": {
+      "time": 1711297873419.4355
+    },
+    "D:\\test\\assets\\Game\\folder\\Material\\material-001.mtl.meta": {
+      "time": 1711297873417.439
+    },
+    "D:\\test\\assets\\Game\\folder\\Material\\White.mtl.meta": {
+      "time": 1711297873416.4414
+    },
+    "D:\\test\\assets\\Game\\folder\\Material\\material-002.mtl.meta": {
+      "time": 1711297873417.439
+    },
+    "D:\\test\\assets\\Game\\folder\\Material\\Red.mtl.meta": {
+      "time": 1711297873416.4414
+    },
+    "D:\\test\\assets\\Game\\folder\\Material\\Yellow.mtl.meta": {
+      "time": 1711297873416.4414
+    },
+    "D:\\test\\assets\\Game\\folder\\xanh_co_map\\Map_01_texture.png.meta": {
+      "time": 1711297873442.372
+    },
+    "D:\\test\\assets\\Game\\folder\\House\\RT_RockThrow_pack.fbx.meta": {
+      "time": 1711297873409.4602
+    },
+    "D:\\test\\assets\\Game\\folder\\xanh_co_map\\pinetree 1.fbx.meta": {
+      "time": 1711297873446.3623
+    },
+    "D:\\test\\assets\\Game\\folder\\House\\house.fbx.meta": {
+      "time": 1711297873413.45
+    },
+    "D:\\test\\assets\\Game\\folder\\House\\House_pack.fbx.meta": {
+      "time": 1711297873408.4631
+    },
+    "D:\\test\\assets\\Game\\folder\\xanh_co_map\\Map_01_obj.fbx.meta": {
+      "time": 1711384772854.4219
+    },
+    "D:\\test\\assets\\Game\\folder\\xanh_co_map\\xanh_co_Tex.png.meta": {
+      "time": 1711297873451.35
+    },
+    "D:\\test\\assets\\Game\\folder\\xanh_co_map\\xanh_co_resize2.psd.meta": {
+      "time": 1711297873615.0574
+    },
+    "D:\\test\\assets\\Game\\folder\\xanh_co_map\\xanh_co_map.fbx.meta": {
+      "time": 1711297873453.375
+    },
+    "D:\\test\\assets\\Game\\Mesh\\tactic_playableads_pack\\Char_run.fbx.meta": {
+      "time": 1711297873377.0361
+    },
+    "D:\\test\\assets\\Game\\Mesh\\tactic_playableads_pack\\Char_die.fbx.meta": {
+      "time": 1711297873369.0576
+    },
+    "D:\\test\\assets\\Game\\Mesh\\tactic_playableads_pack\\Char_idle.fbx.meta": {
+      "time": 1711297873373.0469
+    },
+    "D:\\test\\assets\\Game\\Mesh\\tactic_playableads_pack\\Infantry_rig.fbx.meta": {
+      "time": 1711297873382.0254
+    },
+    "D:\\test\\assets\\Game\\folder\\Material\\Map.mtl.meta": {
+      "time": 1711385908095.1733
+    },
+    "D:\\test\\assets\\Game\\folder\\Material\\Map.mtl": {
+      "time": 1711386601460.5034,
+      "uuid": "2feba71a-b3ce-4886-a80b-e4134c9abf52"
+    },
+    "D:\\test\\assets\\Game\\folder\\xanh_co_map\\123456 1 (1).png.meta": {
+      "time": 1711386557993.2678
+    },
+    "D:\\test\\assets\\Game\\folder\\xanh_co_map\\123456 1 (1).png": {
+      "time": 1711361218000,
+      "uuid": "aae1b72f-a220-438d-950f-4242e00c09ff"
+    },
+    "D:\\test\\assets\\Game\\Mesh\\mountain_below.fbx.meta": {
+      "time": 1711387141528.8457
+    },
+    "D:\\test\\assets\\Game\\Mesh\\mountain_below.fbx": {
+      "time": 1711385426295.5288,
+      "uuid": "3cae5177-f4de-494c-8c86-d251671c0187"
+    }
+  },
+  "missing": {
+    "ac7f2f0f-6163-40cd-97e2-112e1c80a7a2": {
+      "path": "D:\\test\\assets\\Game\\folder\\Group 452.png",
+      "time": 1711297873405.471,
+      "removeTime": 1711382686370
+    },
+    "ec3e1fc9-dff5-4b46-a262-a2950e6d05e2": {
+      "path": "D:\\test\\assets\\Game\\folder\\123456.png",
+      "time": 1711297873399.5276,
+      "removeTime": 1711382783247
+    },
+    "c8510fb6-e99a-4138-b099-d84b54e0a3b9": {
+      "path": "D:\\test\\assets\\Game\\folder\\123456.png",
+      "time": 1711382813283.8406,
+      "removeTime": 1711382935280
+    },
+    "a2054245-1177-4caf-8bee-b3904e199889": {
+      "path": "D:\\test\\assets\\Game\\folder\\123456.png",
+      "time": 1711358516000,
+      "removeTime": 1711385845389
+    },
+    "54a7dd0a-5530-45f3-ab0c-a5254ee02c9e": {
+      "path": "D:\\test\\assets\\Game\\folder\\xanh_co_map\\xanh_co_resize2.png",
+      "time": 1711297873458.3298,
+      "removeTime": 1711383435407
+    },
+    "655bcda6-ddf3-45b1-8f96-ecf9be2ff28e": {
+      "path": "D:\\test\\assets\\Game\\folder\\123456 1.png",
+      "time": 1711359316000,
+      "removeTime": 1711384876163
+    },
+    "46782abc-8976-4bcd-899e-255fcb64ced1": {
+      "path": "D:\\test\\assets\\Game\\folder\\xanh_co_map\\123456 1 (1).png",
+      "time": 1711361218000,
+      "removeTime": 1711386535877
+    }
+  }
+}

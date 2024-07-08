@@ -1,0 +1,90 @@
+{
+  "__version__": "1.0.1",
+  "builder": {
+    "common": {
+      "polyfills": {
+        "asyncFunctions": true
+      },
+      "buildPath": "project://build",
+      "outputName": "web-mobile",
+      "mainBundleCompressionType": "merge_dep",
+      "platform": "web-mobile",
+      "useSplashScreen": false
+    },
+    "taskOptionsMap": {
+      "1711298024921": {
+        "orientation": "auto",
+        "embedWebDebugger": false,
+        "cullEngineAsmJsModule": false,
+        "__version__": "1.0.1"
+      },
+      "1711298296874": {
+        "orientation": "auto",
+        "embedWebDebugger": false,
+        "cullEngineAsmJsModule": false,
+        "__version__": "1.0.1"
+      },
+      "1711300810977": {
+        "orientation": "auto",
+        "embedWebDebugger": false,
+        "cullEngineAsmJsModule": false,
+        "__version__": "1.0.1"
+      },
+      "1711382191602": {
+        "orientation": "auto",
+        "embedWebDebugger": false,
+        "cullEngineAsmJsModule": false,
+        "__version__": "1.0.1"
+      },
+      "1711383011661": {
+        "orientation": "auto",
+        "embedWebDebugger": false,
+        "cullEngineAsmJsModule": false,
+        "__version__": "1.0.1"
+      },
+      "1711383872256": {
+        "orientation": "auto",
+        "embedWebDebugger": false,
+        "cullEngineAsmJsModule": false,
+        "__version__": "1.0.1"
+      },
+      "1711387605695": {
+        "orientation": "auto",
+        "embedWebDebugger": false,
+        "cullEngineAsmJsModule": false,
+        "__version__": "1.0.1"
+      },
+      "1711387989700": {
+        "orientation": "auto",
+        "embedWebDebugger": false,
+        "cullEngineAsmJsModule": false,
+        "__version__": "1.0.1"
+      },
+      "1711388165877": {
+        "orientation": "auto",
+        "embedWebDebugger": false,
+        "cullEngineAsmJsModule": false,
+        "__version__": "1.0.1"
+      },
+      "1711388636465": {
+        "orientation": "auto",
+        "embedWebDebugger": false,
+        "cullEngineAsmJsModule": false,
+        "__version__": "1.0.1"
+      },
+      "1711389105372": {
+        "orientation": "auto",
+        "embedWebDebugger": false,
+        "cullEngineAsmJsModule": false,
+        "__version__": "1.0.1"
+      },
+      "1720429641775": {
+        "orientation": "auto",
+        "embedWebDebugger": false,
+        "cullEngineAsmJsModule": false,
+        "__version__": "1.0.1"
+      }
+    },
+    "__version__": "1.3.6"
+  }
+}

@@ -1,0 +1,1948 @@
+{
+  "3d8bf1d8-fb7e-41ef-b301-02813fd63821": {
+    "url": "db://assets/Game",
+    "value": {}
+  },
+  "4cf3e07a-999d-43fa-9ab6-0b16021fa10b": {
+    "url": "db://assets/Game/folder",
+    "value": {}
+  },
+  "6578f5c2-5446-427a-86ed-ad95e1a02d05": {
+    "url": "db://assets/Game/Mesh",
+    "value": {}
+  },
+  "8676cd1d-6fa1-4225-89d3-f88672b822df": {
+    "url": "db://assets/Game/Prefab",
+    "value": {}
+  },
+  "2c387391-25b5-4a81-b7b5-3a22ed49d0be": {
+    "url": "db://assets/Game/Script",
+    "value": {}
+  },
+  "5f517bfa-9f56-48c6-b749-d16c6ed6c3ea": {
+    "url": "db://assets/Game/folder/House",
+    "value": {}
+  },
+  "9dbabb4c-3177-4584-a713-001b5a5d988e": {
+    "url": "db://assets/Game/folder/Material",
+    "value": {}
+  },
+  "c3671477-814e-4ae2-b06b-e5b15040188b": {
+    "url": "db://assets/Game/folder/xanh_co_map",
+    "value": {}
+  },
+  "16592d0d-da7b-400b-8ba1-e310bc0d7a72": {
+    "url": "db://assets/Game/Mesh/tactic_playableads_pack",
+    "value": {}
+  },
+  "47c918e1-c881-4306-afdc-dd3a08fb9345": {
+    "url": "db://assets/Game/Script/ApplyLineShader.ts",
+    "value": {}
+  },
+  "aff2a691-c648-45f0-882d-e929a5a75b0b": {
+    "url": "db://assets/Game/Script/ElementLine.ts",
+    "value": {}
+  },
+  "fdb76de6-4209-4d41-bd35-5dad3a5afcec": {
+    "url": "db://assets/Game/Script/GamePlayController.ts",
+    "value": {}
+  },
+  "12838c14-796c-4d4c-bd42-4ce428d8a8c6": {
+    "url": "db://assets/Game/Script/InputController.ts",
+    "value": {}
+  },
+  "cad17f7b-b27a-4465-bd9d-5705ca65245a": {
+    "url": "db://assets/Game/Script/LineRender.ts",
+    "value": {}
+  },
+  "caa47909-086c-4860-a3a2-f6f5206284a6": {
+    "url": "db://assets/Game/Script/PlayerContain.ts",
+    "value": {}
+  },
+  "6f2d7f20-b0f6-430f-a988-b56e5f902495": {
+    "url": "db://assets/Game/Script/SimplePool.ts",
+    "value": {}
+  },
+  "3f05308e-644c-4716-a154-24f5c269aef9": {
+    "url": "db://assets/Game/Script/SolderTower.ts",
+    "value": {}
+  },
+  "2568dcff-445f-4922-9f92-d84356f8be56": {
+    "url": "db://assets/Game/Script/SoliderUnit.ts",
+    "value": {}
+  },
+  "4d900c61-f48f-4b23-8c23-4c9429ec8f96": {
+    "url": "db://assets/Game/Script/Test.ts",
+    "value": {}
+  },
+  "46669c0a-2555-48ac-86e1-898842adab62": {
+    "url": "db://assets/Game/Script/TestColider.ts",
+    "value": {}
+  },
+  "e329368e-bd1e-4108-ad5d-85a46cb116c9": {
+    "url": "db://assets/Game/Script/TestLine.ts",
+    "value": {}
+  },
+  "987c6de8-0dbb-46b7-aa05-039067694c7e": {
+    "url": "db://assets/Game/Script/TouchDetection.ts",
+    "value": {}
+  },
+  "f4eebca5-c82f-43fe-8f51-acde438a336b": {
+    "url": "db://assets/Game/scene.scene",
+    "value": {
+      "depends": [
+        "f4eebca5-c82f-43fe-8f51-acde438a336b",
+        "2feba71a-b3ce-4886-a80b-e4134c9abf52",
+        "1263d74c-8167-4928-91a6-4e2672411f47@2e76e",
+        "4cfd3b05-8eba-43a5-afff-27dfeccaa1eb",
+        "66dde63f-2cb4-46c0-b76c-9dc2d77ba120@3a7b3",
+        "42b903f9-4c69-41d2-bd78-a6b3538dfd24",
+        "1263d74c-8167-4928-91a6-4e2672411f47@a804a",
+        "66dde63f-2cb4-46c0-b76c-9dc2d77ba120@9bf81",
+        "66dde63f-2cb4-46c0-b76c-9dc2d77ba120@5789b",
+        "b9de85bf-33b2-4ad0-8080-d6b0485c7286",
+        "66dde63f-2cb4-46c0-b76c-9dc2d77ba120@10677",
+        "66dde63f-2cb4-46c0-b76c-9dc2d77ba120@9f9f4",
+        "66dde63f-2cb4-46c0-b76c-9dc2d77ba120@cfb56",
+        "66dde63f-2cb4-46c0-b76c-9dc2d77ba120@349d8",
+        "fd8b3143-dde9-4c5f-a5b1-f8dabbdf2624",
+        "66dde63f-2cb4-46c0-b76c-9dc2d77ba120@07cbd",
+        "081cab31-dccd-428e-8652-f2404cc81c47",
+        "ea8c1a4e-0071-42e4-8ae4-1ef2dc5ac825@6c48a",
+        "e59d5a7d-028a-4d70-821b-764e0584fd8b",
+        "61f1d403-c292-48d8-90b1-ac3b9593ab77@6c48a",
+        "20ca7ed2-8f80-47c9-b324-cfba6e71c42d@f9941",
+        "9997851d-c4cd-432e-818c-28799d93094d@f9941",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8@f9941",
+        "951249e0-9f16-456d-8b85-a6ca954da16b@f9941",
+        "11b0837d-7035-4e4f-b75c-b3c61bcbcf0c@f9941",
+        "3dea2e8c-54f6-4d3b-9652-5b0c18f96d6a",
+        "b7fd4882-f609-4709-92c4-b6ed0e59bb87@6c48a",
+        "f48a54b6-c338-41c4-85d4-8d7ac075ab7d",
+        "1f619891-75a6-4e63-b681-b39c201cfac1@6c48a",
+        "93476884-4904-4d5d-8be5-567cd6577d34",
+        "228dce8c-e878-4aa9-bdb7-e41dad497caf@6c48a",
+        "d032ac98-05e1-4090-88bb-eb640dcb5fc1@b47c0",
+        "6f01cf7f-81bf-4a7e-bd5d-0afc19696480@b47c0"
+      ],
+      "dependScripts": [
+        "12838c14-796c-4d4c-bd42-4ce428d8a8c6",
+        "aff2a691-c648-45f0-882d-e929a5a75b0b",
+        "3f05308e-644c-4716-a154-24f5c269aef9",
+        "caa47909-086c-4860-a3a2-f6f5206284a6",
+        "fdb76de6-4209-4d41-bd35-5dad3a5afcec",
+        "4d900c61-f48f-4b23-8c23-4c9429ec8f96"
+      ]
+    }
+  },
+  "ec3e1fc9-dff5-4b46-a262-a2950e6d05e2": {
+    "url": "db://assets/Game/folder/123456.png",
+    "value": {}
+  },
+  "ea8c1a4e-0071-42e4-8ae4-1ef2dc5ac825": {
+    "url": "db://assets/Game/folder/Arrow_attack.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "61f1d403-c292-48d8-90b1-ac3b9593ab77": {
+    "url": "db://assets/Game/folder/Arrow_attack_black.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "1f619891-75a6-4e63-b681-b39c201cfac1": {
+    "url": "db://assets/Game/folder/Arrow_attack_green.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "b7fd4882-f609-4709-92c4-b6ed0e59bb87": {
+    "url": "db://assets/Game/folder/Arrow_attack_red.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "1f619891-75a6-4e63-b681-b39c201cfac1@6c48a": {
+    "url": "db://assets/Game/folder/Arrow_attack_green.png@6c48a",
+    "value": {
+      "depends": [
+        "1f619891-75a6-4e63-b681-b39c201cfac1"
+      ]
+    }
+  },
+  "228dce8c-e878-4aa9-bdb7-e41dad497caf": {
+    "url": "db://assets/Game/folder/Arrow_attack_yellow.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "ea8c1a4e-0071-42e4-8ae4-1ef2dc5ac825@6c48a": {
+    "url": "db://assets/Game/folder/Arrow_attack.png@6c48a",
+    "value": {
+      "depends": [
+        "ea8c1a4e-0071-42e4-8ae4-1ef2dc5ac825"
+      ]
+    }
+  },
+  "9997851d-c4cd-432e-818c-28799d93094d": {
+    "url": "db://assets/Game/folder/bg button 5.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "61f1d403-c292-48d8-90b1-ac3b9593ab77@6c48a": {
+    "url": "db://assets/Game/folder/Arrow_attack_black.png@6c48a",
+    "value": {
+      "depends": [
+        "61f1d403-c292-48d8-90b1-ac3b9593ab77"
+      ]
+    }
+  },
+  "ac7f2f0f-6163-40cd-97e2-112e1c80a7a2": {
+    "url": "db://assets/Game/folder/Group 452.png",
+    "value": {}
+  },
+  "b7fd4882-f609-4709-92c4-b6ed0e59bb87@6c48a": {
+    "url": "db://assets/Game/folder/Arrow_attack_red.png@6c48a",
+    "value": {
+      "depends": [
+        "b7fd4882-f609-4709-92c4-b6ed0e59bb87"
+      ]
+    }
+  },
+  "11b0837d-7035-4e4f-b75c-b3c61bcbcf0c": {
+    "url": "db://assets/Game/folder/Square.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "9997851d-c4cd-432e-818c-28799d93094d@6c48a": {
+    "url": "db://assets/Game/folder/bg button 5.png@6c48a",
+    "value": {
+      "depends": [
+        "9997851d-c4cd-432e-818c-28799d93094d"
+      ]
+    }
+  },
+  "228dce8c-e878-4aa9-bdb7-e41dad497caf@6c48a": {
+    "url": "db://assets/Game/folder/Arrow_attack_yellow.png@6c48a",
+    "value": {
+      "depends": [
+        "228dce8c-e878-4aa9-bdb7-e41dad497caf"
+      ]
+    }
+  },
+  "20ca7ed2-8f80-47c9-b324-cfba6e71c42d": {
+    "url": "db://assets/Game/folder/victory.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "ec3e1fc9-dff5-4b46-a262-a2950e6d05e2@6c48a": {
+    "url": "db://assets/Game/folder/123456.png@6c48a",
+    "value": {
+      "depends": [
+        "ec3e1fc9-dff5-4b46-a262-a2950e6d05e2"
+      ]
+    }
+  },
+  "3abb4606-936e-4b3d-ab08-cce231c8f631": {
+    "url": "db://assets/Game/Prefab/Cube.prefab",
+    "value": {
+      "depends": [
+        "620b6bf3-0369-4560-837f-2a2c00b73c26",
+        "1263d74c-8167-4928-91a6-4e2672411f47@a804a"
+      ],
+      "dependScripts": []
+    }
+  },
+  "11b0837d-7035-4e4f-b75c-b3c61bcbcf0c@6c48a": {
+    "url": "db://assets/Game/folder/Square.png@6c48a",
+    "value": {
+      "depends": [
+        "11b0837d-7035-4e4f-b75c-b3c61bcbcf0c"
+      ]
+    }
+  },
+  "2e1534e9-dda8-4f3c-8920-086b01a2dc79": {
+    "url": "db://assets/Game/Prefab/House_pack-003.prefab",
+    "value": {
+      "depends": [
+        "66dde63f-2cb4-46c0-b76c-9dc2d77ba120@9bf81",
+        "66dde63f-2cb4-46c0-b76c-9dc2d77ba120@cfb56",
+        "66dde63f-2cb4-46c0-b76c-9dc2d77ba120@349d8",
+        "b568d375-5f81-4637-b345-bea328578110",
+        "66dde63f-2cb4-46c0-b76c-9dc2d77ba120@07cbd",
+        "66dde63f-2cb4-46c0-b76c-9dc2d77ba120@9f9f4",
+        "66dde63f-2cb4-46c0-b76c-9dc2d77ba120@3e4f1",
+        "66dde63f-2cb4-46c0-b76c-9dc2d77ba120@3a7b3",
+        "66dde63f-2cb4-46c0-b76c-9dc2d77ba120@5789b",
+        "66dde63f-2cb4-46c0-b76c-9dc2d77ba120@10677",
+        "081cab31-dccd-428e-8652-f2404cc81c47",
+        "ea8c1a4e-0071-42e4-8ae4-1ef2dc5ac825@6c48a",
+        "42b903f9-4c69-41d2-bd78-a6b3538dfd24",
+        "1263d74c-8167-4928-91a6-4e2672411f47@a804a"
+      ],
+      "dependScripts": [
+        "aff2a691-c648-45f0-882d-e929a5a75b0b",
+        "3f05308e-644c-4716-a154-24f5c269aef9"
+      ]
+    }
+  },
+  "9997851d-c4cd-432e-818c-28799d93094d@f9941": {
+    "url": "db://assets/Game/folder/bg button 5.png@f9941",
+    "value": {
+      "depends": [
+        "9997851d-c4cd-432e-818c-28799d93094d@6c48a"
+      ]
+    }
+  },
+  "e59d5a7d-028a-4d70-821b-764e0584fd8b": {
+    "url": "db://assets/Game/Prefab/SoliderPrefab.prefab",
+    "value": {
+      "depends": [
+        "07408532-756a-444b-9637-08d921ef9367@888a3",
+        "07408532-756a-444b-9637-08d921ef9367@2b866",
+        "07408532-756a-444b-9637-08d921ef9367@438fe",
+        "edeef1b5-86e4-45bb-9ca7-f64e63455594@cf5ee",
+        "a2058c3e-a938-4168-a9d0-0b96c42f9f89@1f586",
+        "266f64a8-2af3-4689-bd55-622cf5bd0406@b4251"
+      ],
+      "dependScripts": [
+        "2568dcff-445f-4922-9f92-d84356f8be56"
+      ]
+    }
+  },
+  "ac7f2f0f-6163-40cd-97e2-112e1c80a7a2@6c48a": {
+    "url": "db://assets/Game/folder/Group 452.png@6c48a",
+    "value": {
+      "depends": [
+        "ac7f2f0f-6163-40cd-97e2-112e1c80a7a2"
+      ]
+    }
+  },
+  "118581fc-8454-4aac-9a89-cda44a4f202e": {
+    "url": "db://assets/Game/folder/House/house.fbx",
+    "value": {}
+  },
+  "11b0837d-7035-4e4f-b75c-b3c61bcbcf0c@f9941": {
+    "url": "db://assets/Game/folder/Square.png@f9941",
+    "value": {
+      "depends": [
+        "11b0837d-7035-4e4f-b75c-b3c61bcbcf0c@6c48a"
+      ]
+    }
+  },
+  "66dde63f-2cb4-46c0-b76c-9dc2d77ba120": {
+    "url": "db://assets/Game/folder/House/House_pack.fbx",
+    "value": {}
+  },
+  "ac7f2f0f-6163-40cd-97e2-112e1c80a7a2@f9941": {
+    "url": "db://assets/Game/folder/Group 452.png@f9941",
+    "value": {
+      "depends": [
+        "ac7f2f0f-6163-40cd-97e2-112e1c80a7a2@6c48a"
+      ]
+    }
+  },
+  "d531c5b7-9e49-49b3-ab7e-52538ae9ddb0": {
+    "url": "db://assets/Game/folder/House/RT_RockThrow_pack.fbx",
+    "value": {}
+  },
+  "42b903f9-4c69-41d2-bd78-a6b3538dfd24": {
+    "url": "db://assets/Game/folder/Material/Arrow.mtl",
+    "value": {
+      "depends": [
+        "c8f66d17-351a-48da-a12c-0212d28575c4",
+        "ea8c1a4e-0071-42e4-8ae4-1ef2dc5ac825@6c48a"
+      ]
+    }
+  },
+  "fd8b3143-dde9-4c5f-a5b1-f8dabbdf2624": {
+    "url": "db://assets/Game/folder/Material/Blue.mtl",
+    "value": {
+      "depends": [
+        "c8f66d17-351a-48da-a12c-0212d28575c4"
+      ]
+    }
+  },
+  "1ae228c3-1240-4d27-9e54-dfd2681610b1": {
+    "url": "db://assets/Game/folder/Material/Brown.mtl",
+    "value": {
+      "depends": [
+        "c8f66d17-351a-48da-a12c-0212d28575c4",
+        "ec3e1fc9-dff5-4b46-a262-a2950e6d05e2@6c48a"
+      ]
+    }
+  },
+  "4cfd3b05-8eba-43a5-afff-27dfeccaa1eb": {
+    "url": "db://assets/Game/folder/Material/Gray.mtl",
+    "value": {
+      "depends": [
+        "c8f66d17-351a-48da-a12c-0212d28575c4"
+      ]
+    }
+  },
+  "20ca7ed2-8f80-47c9-b324-cfba6e71c42d@6c48a": {
+    "url": "db://assets/Game/folder/victory.png@6c48a",
+    "value": {
+      "depends": [
+        "20ca7ed2-8f80-47c9-b324-cfba6e71c42d"
+      ]
+    }
+  },
+  "f48a54b6-c338-41c4-85d4-8d7ac075ab7d": {
+    "url": "db://assets/Game/folder/Material/Green.mtl",
+    "value": {
+      "depends": [
+        "c8f66d17-351a-48da-a12c-0212d28575c4"
+      ]
+    }
+  },
+  "9a7a8f28-c4c1-43d6-9df2-1cbe98f77513": {
+    "url": "db://assets/Game/folder/Material/material-001.mtl",
+    "value": {
+      "depends": [
+        "c8f66d17-351a-48da-a12c-0212d28575c4"
+      ]
+    }
+  },
+  "20ca7ed2-8f80-47c9-b324-cfba6e71c42d@f9941": {
+    "url": "db://assets/Game/folder/victory.png@f9941",
+    "value": {
+      "depends": [
+        "20ca7ed2-8f80-47c9-b324-cfba6e71c42d@6c48a"
+      ]
+    }
+  },
+  "d98858d3-7ebe-48e0-ae23-44853a5343f6": {
+    "url": "db://assets/Game/folder/Material/material-002.mtl",
+    "value": {
+      "depends": [
+        "c8f66d17-351a-48da-a12c-0212d28575c4",
+        "ea8c1a4e-0071-42e4-8ae4-1ef2dc5ac825@6c48a"
+      ]
+    }
+  },
+  "3dea2e8c-54f6-4d3b-9652-5b0c18f96d6a": {
+    "url": "db://assets/Game/folder/Material/Red.mtl",
+    "value": {
+      "depends": [
+        "c8f66d17-351a-48da-a12c-0212d28575c4"
+      ]
+    }
+  },
+  "b9de85bf-33b2-4ad0-8080-d6b0485c7286": {
+    "url": "db://assets/Game/folder/Material/White.mtl",
+    "value": {
+      "depends": [
+        "c8f66d17-351a-48da-a12c-0212d28575c4"
+      ]
+    }
+  },
+  "93476884-4904-4d5d-8be5-567cd6577d34": {
+    "url": "db://assets/Game/folder/Material/Yellow.mtl",
+    "value": {
+      "depends": [
+        "c8f66d17-351a-48da-a12c-0212d28575c4"
+      ]
+    }
+  },
+  "b252885d-b968-408e-a856-56a1def7ebe8": {
+    "url": "db://assets/Game/folder/xanh_co_map/Map_01_obj.fbx",
+    "value": {}
+  },
+  "4816673c-8286-4dd6-afb8-d6116b7ec1d2": {
+    "url": "db://assets/Game/folder/xanh_co_map/Map_01_texture.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "d531c5b7-9e49-49b3-ab7e-52538ae9ddb0@80194": {
+    "url": "db://assets/Game/folder/House/RT_RockThrow_pack.fbx@80194",
+    "value": {
+      "depends": [
+        "d531c5b7-9e49-49b3-ab7e-52538ae9ddb0@3e4f1",
+        "d531c5b7-9e49-49b3-ab7e-52538ae9ddb0@2af61",
+        "d531c5b7-9e49-49b3-ab7e-52538ae9ddb0@b732c",
+        "d531c5b7-9e49-49b3-ab7e-52538ae9ddb0@9bf81",
+        "d531c5b7-9e49-49b3-ab7e-52538ae9ddb0@cf5ed",
+        "d531c5b7-9e49-49b3-ab7e-52538ae9ddb0@509e3",
+        "d531c5b7-9e49-49b3-ab7e-52538ae9ddb0@5435a",
+        "d531c5b7-9e49-49b3-ab7e-52538ae9ddb0@e4a65",
+        "d531c5b7-9e49-49b3-ab7e-52538ae9ddb0@2dcfa",
+        "d531c5b7-9e49-49b3-ab7e-52538ae9ddb0@9e572",
+        "d531c5b7-9e49-49b3-ab7e-52538ae9ddb0@d3131",
+        "d531c5b7-9e49-49b3-ab7e-52538ae9ddb0@90c58",
+        "d531c5b7-9e49-49b3-ab7e-52538ae9ddb0@8fe72",
+        "d531c5b7-9e49-49b3-ab7e-52538ae9ddb0@faab7"
+      ]
+    }
+  },
+  "4816673c-8286-4dd6-afb8-d6116b7ec1d2@6c48a": {
+    "url": "db://assets/Game/folder/xanh_co_map/Map_01_texture.png@6c48a",
+    "value": {
+      "depends": [
+        "4816673c-8286-4dd6-afb8-d6116b7ec1d2"
+      ]
+    }
+  },
+  "b4d6a354-3c05-4af2-b8e0-7c4d6659508e": {
+    "url": "db://assets/Game/folder/xanh_co_map/pinetree 1.fbx",
+    "value": {}
+  },
+  "66dde63f-2cb4-46c0-b76c-9dc2d77ba120@10677": {
+    "url": "db://assets/Game/folder/House/House_pack.fbx@10677",
+    "value": {
+      "depends": []
+    }
+  },
+  "118581fc-8454-4aac-9a89-cda44a4f202e@30022": {
+    "url": "db://assets/Game/folder/House/house.fbx@30022",
+    "value": {
+      "depends": []
+    }
+  },
+  "d531c5b7-9e49-49b3-ab7e-52538ae9ddb0@2af61": {
+    "url": "db://assets/Game/folder/House/RT_RockThrow_pack.fbx@2af61",
+    "value": {
+      "depends": []
+    }
+  },
+  "66dde63f-2cb4-46c0-b76c-9dc2d77ba120@e8d4a": {
+    "url": "db://assets/Game/folder/House/House_pack.fbx@e8d4a",
+    "value": {
+      "depends": []
+    }
+  },
+  "118581fc-8454-4aac-9a89-cda44a4f202e@88126": {
+    "url": "db://assets/Game/folder/House/house.fbx@88126",
+    "value": {
+      "depends": []
+    }
+  },
+  "d531c5b7-9e49-49b3-ab7e-52538ae9ddb0@b732c": {
+    "url": "db://assets/Game/folder/House/RT_RockThrow_pack.fbx@b732c",
+    "value": {
+      "depends": []
+    }
+  },
+  "66dde63f-2cb4-46c0-b76c-9dc2d77ba120@635cf": {
+    "url": "db://assets/Game/folder/House/House_pack.fbx@635cf",
+    "value": {
+      "depends": []
+    }
+  },
+  "118581fc-8454-4aac-9a89-cda44a4f202e@91537": {
+    "url": "db://assets/Game/folder/House/house.fbx@91537",
+    "value": {
+      "depends": []
+    }
+  },
+  "d531c5b7-9e49-49b3-ab7e-52538ae9ddb0@cf5ed": {
+    "url": "db://assets/Game/folder/House/RT_RockThrow_pack.fbx@cf5ed",
+    "value": {
+      "depends": []
+    }
+  },
+  "66dde63f-2cb4-46c0-b76c-9dc2d77ba120@c8219": {
+    "url": "db://assets/Game/folder/House/House_pack.fbx@c8219",
+    "value": {
+      "depends": []
+    }
+  },
+  "118581fc-8454-4aac-9a89-cda44a4f202e@c032c": {
+    "url": "db://assets/Game/folder/House/house.fbx@c032c",
+    "value": {
+      "depends": []
+    }
+  },
+  "b252885d-b968-408e-a856-56a1def7ebe8@9e6e8": {
+    "url": "db://assets/Game/folder/xanh_co_map/Map_01_obj.fbx@9e6e8",
+    "value": {
+      "depends": []
+    }
+  },
+  "d531c5b7-9e49-49b3-ab7e-52538ae9ddb0@509e3": {
+    "url": "db://assets/Game/folder/House/RT_RockThrow_pack.fbx@509e3",
+    "value": {
+      "depends": []
+    }
+  },
+  "66dde63f-2cb4-46c0-b76c-9dc2d77ba120@78f99": {
+    "url": "db://assets/Game/folder/House/House_pack.fbx@78f99",
+    "value": {
+      "depends": []
+    }
+  },
+  "118581fc-8454-4aac-9a89-cda44a4f202e@ddfae": {
+    "url": "db://assets/Game/folder/House/house.fbx@ddfae",
+    "value": {
+      "depends": []
+    }
+  },
+  "d531c5b7-9e49-49b3-ab7e-52538ae9ddb0@5435a": {
+    "url": "db://assets/Game/folder/House/RT_RockThrow_pack.fbx@5435a",
+    "value": {
+      "depends": []
+    }
+  },
+  "66dde63f-2cb4-46c0-b76c-9dc2d77ba120@0d2eb": {
+    "url": "db://assets/Game/folder/House/House_pack.fbx@0d2eb",
+    "value": {
+      "depends": []
+    }
+  },
+  "118581fc-8454-4aac-9a89-cda44a4f202e@da843": {
+    "url": "db://assets/Game/folder/House/house.fbx@da843",
+    "value": {
+      "depends": []
+    }
+  },
+  "d531c5b7-9e49-49b3-ab7e-52538ae9ddb0@e4a65": {
+    "url": "db://assets/Game/folder/House/RT_RockThrow_pack.fbx@e4a65",
+    "value": {
+      "depends": []
+    }
+  },
+  "66dde63f-2cb4-46c0-b76c-9dc2d77ba120@da5b4": {
+    "url": "db://assets/Game/folder/House/House_pack.fbx@da5b4",
+    "value": {
+      "depends": []
+    }
+  },
+  "118581fc-8454-4aac-9a89-cda44a4f202e@ec59d": {
+    "url": "db://assets/Game/folder/House/house.fbx@ec59d",
+    "value": {
+      "depends": []
+    }
+  },
+  "d531c5b7-9e49-49b3-ab7e-52538ae9ddb0@2dcfa": {
+    "url": "db://assets/Game/folder/House/RT_RockThrow_pack.fbx@2dcfa",
+    "value": {
+      "depends": []
+    }
+  },
+  "66dde63f-2cb4-46c0-b76c-9dc2d77ba120@182f3": {
+    "url": "db://assets/Game/folder/House/House_pack.fbx@182f3",
+    "value": {
+      "depends": []
+    }
+  },
+  "118581fc-8454-4aac-9a89-cda44a4f202e@0477f": {
+    "url": "db://assets/Game/folder/House/house.fbx@0477f",
+    "value": {
+      "depends": []
+    }
+  },
+  "d531c5b7-9e49-49b3-ab7e-52538ae9ddb0@9e572": {
+    "url": "db://assets/Game/folder/House/RT_RockThrow_pack.fbx@9e572",
+    "value": {
+      "depends": []
+    }
+  },
+  "66dde63f-2cb4-46c0-b76c-9dc2d77ba120@b5faa": {
+    "url": "db://assets/Game/folder/House/House_pack.fbx@b5faa",
+    "value": {
+      "depends": []
+    }
+  },
+  "118581fc-8454-4aac-9a89-cda44a4f202e@785b6": {
+    "url": "db://assets/Game/folder/House/house.fbx@785b6",
+    "value": {
+      "depends": []
+    }
+  },
+  "d531c5b7-9e49-49b3-ab7e-52538ae9ddb0@d3131": {
+    "url": "db://assets/Game/folder/House/RT_RockThrow_pack.fbx@d3131",
+    "value": {
+      "depends": []
+    }
+  },
+  "66dde63f-2cb4-46c0-b76c-9dc2d77ba120@a4080": {
+    "url": "db://assets/Game/folder/House/House_pack.fbx@a4080",
+    "value": {
+      "depends": []
+    }
+  },
+  "118581fc-8454-4aac-9a89-cda44a4f202e@2b60a": {
+    "url": "db://assets/Game/folder/House/house.fbx@2b60a",
+    "value": {
+      "depends": []
+    }
+  },
+  "d531c5b7-9e49-49b3-ab7e-52538ae9ddb0@90c58": {
+    "url": "db://assets/Game/folder/House/RT_RockThrow_pack.fbx@90c58",
+    "value": {
+      "depends": []
+    }
+  },
+  "118581fc-8454-4aac-9a89-cda44a4f202e@3de78": {
+    "url": "db://assets/Game/folder/House/house.fbx@3de78",
+    "value": {
+      "depends": []
+    }
+  },
+  "66dde63f-2cb4-46c0-b76c-9dc2d77ba120@cfb56": {
+    "url": "db://assets/Game/folder/House/House_pack.fbx@cfb56",
+    "value": {
+      "depends": []
+    }
+  },
+  "d531c5b7-9e49-49b3-ab7e-52538ae9ddb0@8fe72": {
+    "url": "db://assets/Game/folder/House/RT_RockThrow_pack.fbx@8fe72",
+    "value": {
+      "depends": []
+    }
+  },
+  "118581fc-8454-4aac-9a89-cda44a4f202e@f5c45": {
+    "url": "db://assets/Game/folder/House/house.fbx@f5c45",
+    "value": {
+      "depends": []
+    }
+  },
+  "66dde63f-2cb4-46c0-b76c-9dc2d77ba120@349d8": {
+    "url": "db://assets/Game/folder/House/House_pack.fbx@349d8",
+    "value": {
+      "depends": []
+    }
+  },
+  "118581fc-8454-4aac-9a89-cda44a4f202e@2cd49": {
+    "url": "db://assets/Game/folder/House/house.fbx@2cd49",
+    "value": {
+      "depends": []
+    }
+  },
+  "d531c5b7-9e49-49b3-ab7e-52538ae9ddb0@faab7": {
+    "url": "db://assets/Game/folder/House/RT_RockThrow_pack.fbx@faab7",
+    "value": {
+      "depends": []
+    }
+  },
+  "66dde63f-2cb4-46c0-b76c-9dc2d77ba120@07cbd": {
+    "url": "db://assets/Game/folder/House/House_pack.fbx@07cbd",
+    "value": {
+      "depends": []
+    }
+  },
+  "118581fc-8454-4aac-9a89-cda44a4f202e@212b6": {
+    "url": "db://assets/Game/folder/House/house.fbx@212b6",
+    "value": {
+      "depends": []
+    }
+  },
+  "66dde63f-2cb4-46c0-b76c-9dc2d77ba120@9f9f4": {
+    "url": "db://assets/Game/folder/House/House_pack.fbx@9f9f4",
+    "value": {
+      "depends": []
+    }
+  },
+  "d531c5b7-9e49-49b3-ab7e-52538ae9ddb0@e61a9": {
+    "url": "db://assets/Game/folder/House/RT_RockThrow_pack.fbx@e61a9",
+    "value": {
+      "depends": []
+    }
+  },
+  "118581fc-8454-4aac-9a89-cda44a4f202e@07006": {
+    "url": "db://assets/Game/folder/House/house.fbx@07006",
+    "value": {
+      "depends": []
+    }
+  },
+  "66dde63f-2cb4-46c0-b76c-9dc2d77ba120@3a7b3": {
+    "url": "db://assets/Game/folder/House/House_pack.fbx@3a7b3",
+    "value": {
+      "depends": []
+    }
+  },
+  "d531c5b7-9e49-49b3-ab7e-52538ae9ddb0@3c372": {
+    "url": "db://assets/Game/folder/House/RT_RockThrow_pack.fbx@3c372",
+    "value": {
+      "depends": [
+        "d531c5b7-9e49-49b3-ab7e-52538ae9ddb0@e61a9"
+      ]
+    }
+  },
+  "d531c5b7-9e49-49b3-ab7e-52538ae9ddb0@3e4f1": {
+    "url": "db://assets/Game/folder/House/RT_RockThrow_pack.fbx@3e4f1",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b"
+      ]
+    }
+  },
+  "118581fc-8454-4aac-9a89-cda44a4f202e@36eb9": {
+    "url": "db://assets/Game/folder/House/house.fbx@36eb9",
+    "value": {
+      "depends": []
+    }
+  },
+  "66dde63f-2cb4-46c0-b76c-9dc2d77ba120@5789b": {
+    "url": "db://assets/Game/folder/House/House_pack.fbx@5789b",
+    "value": {
+      "depends": []
+    }
+  },
+  "d531c5b7-9e49-49b3-ab7e-52538ae9ddb0@9bf81": {
+    "url": "db://assets/Game/folder/House/RT_RockThrow_pack.fbx@9bf81",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b"
+      ]
+    }
+  },
+  "040fd627-1083-443a-949a-b57358edc256": {
+    "url": "db://assets/Game/folder/xanh_co_map/xanh_co_map.fbx",
+    "value": {}
+  },
+  "66dde63f-2cb4-46c0-b76c-9dc2d77ba120@ff420": {
+    "url": "db://assets/Game/folder/House/House_pack.fbx@ff420",
+    "value": {
+      "depends": []
+    }
+  },
+  "118581fc-8454-4aac-9a89-cda44a4f202e@799c8": {
+    "url": "db://assets/Game/folder/House/house.fbx@799c8",
+    "value": {
+      "depends": []
+    }
+  },
+  "66dde63f-2cb4-46c0-b76c-9dc2d77ba120@8796e": {
+    "url": "db://assets/Game/folder/House/House_pack.fbx@8796e",
+    "value": {
+      "depends": []
+    }
+  },
+  "118581fc-8454-4aac-9a89-cda44a4f202e@c8702": {
+    "url": "db://assets/Game/folder/House/house.fbx@c8702",
+    "value": {
+      "depends": []
+    }
+  },
+  "b4d6a354-3c05-4af2-b8e0-7c4d6659508e@aef62": {
+    "url": "db://assets/Game/folder/xanh_co_map/pinetree 1.fbx@aef62",
+    "value": {
+      "depends": []
+    }
+  },
+  "66dde63f-2cb4-46c0-b76c-9dc2d77ba120@fe410": {
+    "url": "db://assets/Game/folder/House/House_pack.fbx@fe410",
+    "value": {
+      "depends": []
+    }
+  },
+  "118581fc-8454-4aac-9a89-cda44a4f202e@0d556": {
+    "url": "db://assets/Game/folder/House/house.fbx@0d556",
+    "value": {
+      "depends": []
+    }
+  },
+  "66dde63f-2cb4-46c0-b76c-9dc2d77ba120@9177b": {
+    "url": "db://assets/Game/folder/House/House_pack.fbx@9177b",
+    "value": {
+      "depends": []
+    }
+  },
+  "b4d6a354-3c05-4af2-b8e0-7c4d6659508e@4e7b6": {
+    "url": "db://assets/Game/folder/xanh_co_map/pinetree 1.fbx@4e7b6",
+    "value": {
+      "depends": []
+    }
+  },
+  "b4d6a354-3c05-4af2-b8e0-7c4d6659508e@a8536": {
+    "url": "db://assets/Game/folder/xanh_co_map/pinetree 1.fbx@a8536",
+    "value": {
+      "depends": [
+        "b4d6a354-3c05-4af2-b8e0-7c4d6659508e@4e7b6"
+      ]
+    }
+  },
+  "b4d6a354-3c05-4af2-b8e0-7c4d6659508e@b743e": {
+    "url": "db://assets/Game/folder/xanh_co_map/pinetree 1.fbx@b743e",
+    "value": {
+      "depends": [
+        "c8f66d17-351a-48da-a12c-0212d28575c4"
+      ]
+    }
+  },
+  "66dde63f-2cb4-46c0-b76c-9dc2d77ba120@488fa": {
+    "url": "db://assets/Game/folder/House/House_pack.fbx@488fa",
+    "value": {
+      "depends": []
+    }
+  },
+  "b4d6a354-3c05-4af2-b8e0-7c4d6659508e@ec34a": {
+    "url": "db://assets/Game/folder/xanh_co_map/pinetree 1.fbx@ec34a",
+    "value": {
+      "depends": [
+        "b4d6a354-3c05-4af2-b8e0-7c4d6659508e@b743e",
+        "b4d6a354-3c05-4af2-b8e0-7c4d6659508e@aef62"
+      ]
+    }
+  },
+  "118581fc-8454-4aac-9a89-cda44a4f202e@48b02": {
+    "url": "db://assets/Game/folder/House/house.fbx@48b02",
+    "value": {
+      "depends": []
+    }
+  },
+  "54a7dd0a-5530-45f3-ab0c-a5254ee02c9e": {
+    "url": "db://assets/Game/folder/xanh_co_map/xanh_co_resize2.png",
+    "value": {}
+  },
+  "66dde63f-2cb4-46c0-b76c-9dc2d77ba120@c6d21": {
+    "url": "db://assets/Game/folder/House/House_pack.fbx@c6d21",
+    "value": {
+      "depends": []
+    }
+  },
+  "118581fc-8454-4aac-9a89-cda44a4f202e@7d6ab": {
+    "url": "db://assets/Game/folder/House/house.fbx@7d6ab",
+    "value": {
+      "depends": [
+        "118581fc-8454-4aac-9a89-cda44a4f202e@48b02"
+      ]
+    }
+  },
+  "118581fc-8454-4aac-9a89-cda44a4f202e@3e4f1": {
+    "url": "db://assets/Game/folder/House/house.fbx@3e4f1",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b"
+      ]
+    }
+  },
+  "118581fc-8454-4aac-9a89-cda44a4f202e@87aed": {
+    "url": "db://assets/Game/folder/House/house.fbx@87aed",
+    "value": {
+      "depends": [
+        "118581fc-8454-4aac-9a89-cda44a4f202e@3e4f1",
+        "118581fc-8454-4aac-9a89-cda44a4f202e@c032c",
+        "118581fc-8454-4aac-9a89-cda44a4f202e@88126",
+        "118581fc-8454-4aac-9a89-cda44a4f202e@ddfae",
+        "118581fc-8454-4aac-9a89-cda44a4f202e@da843",
+        "118581fc-8454-4aac-9a89-cda44a4f202e@ec59d",
+        "118581fc-8454-4aac-9a89-cda44a4f202e@0477f",
+        "118581fc-8454-4aac-9a89-cda44a4f202e@785b6",
+        "118581fc-8454-4aac-9a89-cda44a4f202e@2b60a",
+        "118581fc-8454-4aac-9a89-cda44a4f202e@3de78",
+        "118581fc-8454-4aac-9a89-cda44a4f202e@91537",
+        "118581fc-8454-4aac-9a89-cda44a4f202e@f5c45",
+        "118581fc-8454-4aac-9a89-cda44a4f202e@2cd49",
+        "118581fc-8454-4aac-9a89-cda44a4f202e@212b6",
+        "118581fc-8454-4aac-9a89-cda44a4f202e@07006",
+        "118581fc-8454-4aac-9a89-cda44a4f202e@36eb9",
+        "118581fc-8454-4aac-9a89-cda44a4f202e@799c8",
+        "118581fc-8454-4aac-9a89-cda44a4f202e@30022",
+        "118581fc-8454-4aac-9a89-cda44a4f202e@c8702",
+        "118581fc-8454-4aac-9a89-cda44a4f202e@0d556"
+      ]
+    }
+  },
+  "4ead8419-0056-46d0-85f9-8063fd6fae57": {
+    "url": "db://assets/Game/folder/xanh_co_map/xanh_co_resize2.psd",
+    "value": {
+      "depends": []
+    }
+  },
+  "66dde63f-2cb4-46c0-b76c-9dc2d77ba120@e61a9": {
+    "url": "db://assets/Game/folder/House/House_pack.fbx@e61a9",
+    "value": {
+      "depends": []
+    }
+  },
+  "66dde63f-2cb4-46c0-b76c-9dc2d77ba120@3c372": {
+    "url": "db://assets/Game/folder/House/House_pack.fbx@3c372",
+    "value": {
+      "depends": [
+        "66dde63f-2cb4-46c0-b76c-9dc2d77ba120@e61a9"
+      ]
+    }
+  },
+  "66dde63f-2cb4-46c0-b76c-9dc2d77ba120@9bf81": {
+    "url": "db://assets/Game/folder/House/House_pack.fbx@9bf81",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b"
+      ]
+    }
+  },
+  "66dde63f-2cb4-46c0-b76c-9dc2d77ba120@3e4f1": {
+    "url": "db://assets/Game/folder/House/House_pack.fbx@3e4f1",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b"
+      ]
+    }
+  },
+  "66dde63f-2cb4-46c0-b76c-9dc2d77ba120@972ba": {
+    "url": "db://assets/Game/folder/House/House_pack.fbx@972ba",
+    "value": {
+      "depends": [
+        "66dde63f-2cb4-46c0-b76c-9dc2d77ba120@9bf81",
+        "66dde63f-2cb4-46c0-b76c-9dc2d77ba120@3e4f1",
+        "66dde63f-2cb4-46c0-b76c-9dc2d77ba120@e8d4a",
+        "66dde63f-2cb4-46c0-b76c-9dc2d77ba120@635cf",
+        "66dde63f-2cb4-46c0-b76c-9dc2d77ba120@c8219",
+        "66dde63f-2cb4-46c0-b76c-9dc2d77ba120@78f99",
+        "66dde63f-2cb4-46c0-b76c-9dc2d77ba120@0d2eb",
+        "66dde63f-2cb4-46c0-b76c-9dc2d77ba120@da5b4",
+        "66dde63f-2cb4-46c0-b76c-9dc2d77ba120@182f3",
+        "66dde63f-2cb4-46c0-b76c-9dc2d77ba120@b5faa",
+        "66dde63f-2cb4-46c0-b76c-9dc2d77ba120@a4080",
+        "66dde63f-2cb4-46c0-b76c-9dc2d77ba120@cfb56",
+        "66dde63f-2cb4-46c0-b76c-9dc2d77ba120@349d8",
+        "66dde63f-2cb4-46c0-b76c-9dc2d77ba120@07cbd",
+        "66dde63f-2cb4-46c0-b76c-9dc2d77ba120@9f9f4",
+        "66dde63f-2cb4-46c0-b76c-9dc2d77ba120@3a7b3",
+        "66dde63f-2cb4-46c0-b76c-9dc2d77ba120@5789b",
+        "66dde63f-2cb4-46c0-b76c-9dc2d77ba120@10677",
+        "66dde63f-2cb4-46c0-b76c-9dc2d77ba120@ff420",
+        "66dde63f-2cb4-46c0-b76c-9dc2d77ba120@8796e",
+        "66dde63f-2cb4-46c0-b76c-9dc2d77ba120@fe410",
+        "66dde63f-2cb4-46c0-b76c-9dc2d77ba120@9177b",
+        "66dde63f-2cb4-46c0-b76c-9dc2d77ba120@488fa",
+        "66dde63f-2cb4-46c0-b76c-9dc2d77ba120@c6d21"
+      ]
+    }
+  },
+  "baff2d07-258c-4704-b972-e4498f1cf246": {
+    "url": "db://assets/Game/folder/xanh_co_map/xanh_co_Tex.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "b252885d-b968-408e-a856-56a1def7ebe8@b896e": {
+    "url": "db://assets/Game/folder/xanh_co_map/Map_01_obj.fbx@b896e",
+    "value": {
+      "depends": []
+    }
+  },
+  "b252885d-b968-408e-a856-56a1def7ebe8@5189c": {
+    "url": "db://assets/Game/folder/xanh_co_map/Map_01_obj.fbx@5189c",
+    "value": {
+      "depends": [
+        "b252885d-b968-408e-a856-56a1def7ebe8@b896e"
+      ]
+    }
+  },
+  "b252885d-b968-408e-a856-56a1def7ebe8@b743e": {
+    "url": "db://assets/Game/folder/xanh_co_map/Map_01_obj.fbx@b743e",
+    "value": {
+      "depends": [
+        "1baf0fc9-befa-459c-8bdd-af1a450a0319",
+        "a2054245-1177-4caf-8bee-b3904e199889@6c48a"
+      ]
+    }
+  },
+  "b252885d-b968-408e-a856-56a1def7ebe8@ba012": {
+    "url": "db://assets/Game/folder/xanh_co_map/Map_01_obj.fbx@ba012",
+    "value": {
+      "depends": [
+        "b252885d-b968-408e-a856-56a1def7ebe8@b743e",
+        "b252885d-b968-408e-a856-56a1def7ebe8@9e6e8"
+      ]
+    }
+  },
+  "266f64a8-2af3-4689-bd55-622cf5bd0406": {
+    "url": "db://assets/Game/Mesh/tactic_playableads_pack/Char_die.fbx",
+    "value": {
+      "depends": []
+    }
+  },
+  "54a7dd0a-5530-45f3-ab0c-a5254ee02c9e@6c48a": {
+    "url": "db://assets/Game/folder/xanh_co_map/xanh_co_resize2.png@6c48a",
+    "value": {
+      "depends": [
+        "54a7dd0a-5530-45f3-ab0c-a5254ee02c9e"
+      ]
+    }
+  },
+  "a2058c3e-a938-4168-a9d0-0b96c42f9f89": {
+    "url": "db://assets/Game/Mesh/tactic_playableads_pack/Char_idle.fbx",
+    "value": {
+      "depends": []
+    }
+  },
+  "baff2d07-258c-4704-b972-e4498f1cf246@6c48a": {
+    "url": "db://assets/Game/folder/xanh_co_map/xanh_co_Tex.png@6c48a",
+    "value": {
+      "depends": [
+        "baff2d07-258c-4704-b972-e4498f1cf246"
+      ]
+    }
+  },
+  "edeef1b5-86e4-45bb-9ca7-f64e63455594": {
+    "url": "db://assets/Game/Mesh/tactic_playableads_pack/Char_run.fbx",
+    "value": {
+      "depends": []
+    }
+  },
+  "040fd627-1083-443a-949a-b57358edc256@13933": {
+    "url": "db://assets/Game/folder/xanh_co_map/xanh_co_map.fbx@13933",
+    "value": {
+      "depends": []
+    }
+  },
+  "040fd627-1083-443a-949a-b57358edc256@18762": {
+    "url": "db://assets/Game/folder/xanh_co_map/xanh_co_map.fbx@18762",
+    "value": {
+      "depends": []
+    }
+  },
+  "040fd627-1083-443a-949a-b57358edc256@56699": {
+    "url": "db://assets/Game/folder/xanh_co_map/xanh_co_map.fbx@56699",
+    "value": {
+      "depends": []
+    }
+  },
+  "040fd627-1083-443a-949a-b57358edc256@83389": {
+    "url": "db://assets/Game/folder/xanh_co_map/xanh_co_map.fbx@83389",
+    "value": {
+      "depends": []
+    }
+  },
+  "040fd627-1083-443a-949a-b57358edc256@87740": {
+    "url": "db://assets/Game/folder/xanh_co_map/xanh_co_map.fbx@87740",
+    "value": {
+      "depends": []
+    }
+  },
+  "040fd627-1083-443a-949a-b57358edc256@98301": {
+    "url": "db://assets/Game/folder/xanh_co_map/xanh_co_map.fbx@98301",
+    "value": {
+      "depends": []
+    }
+  },
+  "040fd627-1083-443a-949a-b57358edc256@c9c87": {
+    "url": "db://assets/Game/folder/xanh_co_map/xanh_co_map.fbx@c9c87",
+    "value": {
+      "depends": []
+    }
+  },
+  "040fd627-1083-443a-949a-b57358edc256@4c0c8": {
+    "url": "db://assets/Game/folder/xanh_co_map/xanh_co_map.fbx@4c0c8",
+    "value": {
+      "depends": []
+    }
+  },
+  "040fd627-1083-443a-949a-b57358edc256@cdb29": {
+    "url": "db://assets/Game/folder/xanh_co_map/xanh_co_map.fbx@cdb29",
+    "value": {
+      "depends": []
+    }
+  },
+  "040fd627-1083-443a-949a-b57358edc256@e4ef8": {
+    "url": "db://assets/Game/folder/xanh_co_map/xanh_co_map.fbx@e4ef8",
+    "value": {
+      "depends": []
+    }
+  },
+  "040fd627-1083-443a-949a-b57358edc256@cdff4": {
+    "url": "db://assets/Game/folder/xanh_co_map/xanh_co_map.fbx@cdff4",
+    "value": {
+      "depends": []
+    }
+  },
+  "040fd627-1083-443a-949a-b57358edc256@0df8e": {
+    "url": "db://assets/Game/folder/xanh_co_map/xanh_co_map.fbx@0df8e",
+    "value": {
+      "depends": []
+    }
+  },
+  "040fd627-1083-443a-949a-b57358edc256@64df3": {
+    "url": "db://assets/Game/folder/xanh_co_map/xanh_co_map.fbx@64df3",
+    "value": {
+      "depends": []
+    }
+  },
+  "040fd627-1083-443a-949a-b57358edc256@beec4": {
+    "url": "db://assets/Game/folder/xanh_co_map/xanh_co_map.fbx@beec4",
+    "value": {
+      "depends": []
+    }
+  },
+  "040fd627-1083-443a-949a-b57358edc256@2510b": {
+    "url": "db://assets/Game/folder/xanh_co_map/xanh_co_map.fbx@2510b",
+    "value": {
+      "depends": []
+    }
+  },
+  "040fd627-1083-443a-949a-b57358edc256@7bdeb": {
+    "url": "db://assets/Game/folder/xanh_co_map/xanh_co_map.fbx@7bdeb",
+    "value": {
+      "depends": []
+    }
+  },
+  "040fd627-1083-443a-949a-b57358edc256@8c64b": {
+    "url": "db://assets/Game/folder/xanh_co_map/xanh_co_map.fbx@8c64b",
+    "value": {
+      "depends": []
+    }
+  },
+  "040fd627-1083-443a-949a-b57358edc256@c94f4": {
+    "url": "db://assets/Game/folder/xanh_co_map/xanh_co_map.fbx@c94f4",
+    "value": {
+      "depends": []
+    }
+  },
+  "040fd627-1083-443a-949a-b57358edc256@6aa6a": {
+    "url": "db://assets/Game/folder/xanh_co_map/xanh_co_map.fbx@6aa6a",
+    "value": {
+      "depends": []
+    }
+  },
+  "040fd627-1083-443a-949a-b57358edc256@0a919": {
+    "url": "db://assets/Game/folder/xanh_co_map/xanh_co_map.fbx@0a919",
+    "value": {
+      "depends": []
+    }
+  },
+  "040fd627-1083-443a-949a-b57358edc256@969f8": {
+    "url": "db://assets/Game/folder/xanh_co_map/xanh_co_map.fbx@969f8",
+    "value": {
+      "depends": []
+    }
+  },
+  "040fd627-1083-443a-949a-b57358edc256@e757f": {
+    "url": "db://assets/Game/folder/xanh_co_map/xanh_co_map.fbx@e757f",
+    "value": {
+      "depends": []
+    }
+  },
+  "040fd627-1083-443a-949a-b57358edc256@7b4e8": {
+    "url": "db://assets/Game/folder/xanh_co_map/xanh_co_map.fbx@7b4e8",
+    "value": {
+      "depends": []
+    }
+  },
+  "040fd627-1083-443a-949a-b57358edc256@9b83f": {
+    "url": "db://assets/Game/folder/xanh_co_map/xanh_co_map.fbx@9b83f",
+    "value": {
+      "depends": []
+    }
+  },
+  "040fd627-1083-443a-949a-b57358edc256@43d1f": {
+    "url": "db://assets/Game/folder/xanh_co_map/xanh_co_map.fbx@43d1f",
+    "value": {
+      "depends": []
+    }
+  },
+  "040fd627-1083-443a-949a-b57358edc256@35e9d": {
+    "url": "db://assets/Game/folder/xanh_co_map/xanh_co_map.fbx@35e9d",
+    "value": {
+      "depends": []
+    }
+  },
+  "040fd627-1083-443a-949a-b57358edc256@01d19": {
+    "url": "db://assets/Game/folder/xanh_co_map/xanh_co_map.fbx@01d19",
+    "value": {
+      "depends": []
+    }
+  },
+  "040fd627-1083-443a-949a-b57358edc256@7a094": {
+    "url": "db://assets/Game/folder/xanh_co_map/xanh_co_map.fbx@7a094",
+    "value": {
+      "depends": []
+    }
+  },
+  "040fd627-1083-443a-949a-b57358edc256@bc9d0": {
+    "url": "db://assets/Game/folder/xanh_co_map/xanh_co_map.fbx@bc9d0",
+    "value": {
+      "depends": []
+    }
+  },
+  "040fd627-1083-443a-949a-b57358edc256@7f8a8": {
+    "url": "db://assets/Game/folder/xanh_co_map/xanh_co_map.fbx@7f8a8",
+    "value": {
+      "depends": []
+    }
+  },
+  "040fd627-1083-443a-949a-b57358edc256@dbc45": {
+    "url": "db://assets/Game/folder/xanh_co_map/xanh_co_map.fbx@dbc45",
+    "value": {
+      "depends": []
+    }
+  },
+  "040fd627-1083-443a-949a-b57358edc256@dcbe6": {
+    "url": "db://assets/Game/folder/xanh_co_map/xanh_co_map.fbx@dcbe6",
+    "value": {
+      "depends": []
+    }
+  },
+  "040fd627-1083-443a-949a-b57358edc256@78a71": {
+    "url": "db://assets/Game/folder/xanh_co_map/xanh_co_map.fbx@78a71",
+    "value": {
+      "depends": []
+    }
+  },
+  "040fd627-1083-443a-949a-b57358edc256@ebf0e": {
+    "url": "db://assets/Game/folder/xanh_co_map/xanh_co_map.fbx@ebf0e",
+    "value": {
+      "depends": []
+    }
+  },
+  "040fd627-1083-443a-949a-b57358edc256@0ea00": {
+    "url": "db://assets/Game/folder/xanh_co_map/xanh_co_map.fbx@0ea00",
+    "value": {
+      "depends": []
+    }
+  },
+  "040fd627-1083-443a-949a-b57358edc256@b9b0b": {
+    "url": "db://assets/Game/folder/xanh_co_map/xanh_co_map.fbx@b9b0b",
+    "value": {
+      "depends": []
+    }
+  },
+  "040fd627-1083-443a-949a-b57358edc256@12eba": {
+    "url": "db://assets/Game/folder/xanh_co_map/xanh_co_map.fbx@12eba",
+    "value": {
+      "depends": []
+    }
+  },
+  "040fd627-1083-443a-949a-b57358edc256@591d3": {
+    "url": "db://assets/Game/folder/xanh_co_map/xanh_co_map.fbx@591d3",
+    "value": {
+      "depends": []
+    }
+  },
+  "040fd627-1083-443a-949a-b57358edc256@f0644": {
+    "url": "db://assets/Game/folder/xanh_co_map/xanh_co_map.fbx@f0644",
+    "value": {
+      "depends": []
+    }
+  },
+  "040fd627-1083-443a-949a-b57358edc256@983c8": {
+    "url": "db://assets/Game/folder/xanh_co_map/xanh_co_map.fbx@983c8",
+    "value": {
+      "depends": []
+    }
+  },
+  "040fd627-1083-443a-949a-b57358edc256@083b5": {
+    "url": "db://assets/Game/folder/xanh_co_map/xanh_co_map.fbx@083b5",
+    "value": {
+      "depends": []
+    }
+  },
+  "040fd627-1083-443a-949a-b57358edc256@7262b": {
+    "url": "db://assets/Game/folder/xanh_co_map/xanh_co_map.fbx@7262b",
+    "value": {
+      "depends": []
+    }
+  },
+  "040fd627-1083-443a-949a-b57358edc256@47bdc": {
+    "url": "db://assets/Game/folder/xanh_co_map/xanh_co_map.fbx@47bdc",
+    "value": {
+      "depends": []
+    }
+  },
+  "040fd627-1083-443a-949a-b57358edc256@5cd0c": {
+    "url": "db://assets/Game/folder/xanh_co_map/xanh_co_map.fbx@5cd0c",
+    "value": {
+      "depends": []
+    }
+  },
+  "040fd627-1083-443a-949a-b57358edc256@dabdf": {
+    "url": "db://assets/Game/folder/xanh_co_map/xanh_co_map.fbx@dabdf",
+    "value": {
+      "depends": []
+    }
+  },
+  "040fd627-1083-443a-949a-b57358edc256@8b58c": {
+    "url": "db://assets/Game/folder/xanh_co_map/xanh_co_map.fbx@8b58c",
+    "value": {
+      "depends": []
+    }
+  },
+  "040fd627-1083-443a-949a-b57358edc256@6741b": {
+    "url": "db://assets/Game/folder/xanh_co_map/xanh_co_map.fbx@6741b",
+    "value": {
+      "depends": []
+    }
+  },
+  "040fd627-1083-443a-949a-b57358edc256@7b358": {
+    "url": "db://assets/Game/folder/xanh_co_map/xanh_co_map.fbx@7b358",
+    "value": {
+      "depends": []
+    }
+  },
+  "040fd627-1083-443a-949a-b57358edc256@8b00e": {
+    "url": "db://assets/Game/folder/xanh_co_map/xanh_co_map.fbx@8b00e",
+    "value": {
+      "depends": []
+    }
+  },
+  "040fd627-1083-443a-949a-b57358edc256@a73ea": {
+    "url": "db://assets/Game/folder/xanh_co_map/xanh_co_map.fbx@a73ea",
+    "value": {
+      "depends": []
+    }
+  },
+  "040fd627-1083-443a-949a-b57358edc256@c5e85": {
+    "url": "db://assets/Game/folder/xanh_co_map/xanh_co_map.fbx@c5e85",
+    "value": {
+      "depends": []
+    }
+  },
+  "040fd627-1083-443a-949a-b57358edc256@2db2e": {
+    "url": "db://assets/Game/folder/xanh_co_map/xanh_co_map.fbx@2db2e",
+    "value": {
+      "depends": []
+    }
+  },
+  "040fd627-1083-443a-949a-b57358edc256@75c66": {
+    "url": "db://assets/Game/folder/xanh_co_map/xanh_co_map.fbx@75c66",
+    "value": {
+      "depends": []
+    }
+  },
+  "040fd627-1083-443a-949a-b57358edc256@58b99": {
+    "url": "db://assets/Game/folder/xanh_co_map/xanh_co_map.fbx@58b99",
+    "value": {
+      "depends": []
+    }
+  },
+  "040fd627-1083-443a-949a-b57358edc256@4a89c": {
+    "url": "db://assets/Game/folder/xanh_co_map/xanh_co_map.fbx@4a89c",
+    "value": {
+      "depends": []
+    }
+  },
+  "040fd627-1083-443a-949a-b57358edc256@f0b11": {
+    "url": "db://assets/Game/folder/xanh_co_map/xanh_co_map.fbx@f0b11",
+    "value": {
+      "depends": []
+    }
+  },
+  "040fd627-1083-443a-949a-b57358edc256@26dda": {
+    "url": "db://assets/Game/folder/xanh_co_map/xanh_co_map.fbx@26dda",
+    "value": {
+      "depends": []
+    }
+  },
+  "040fd627-1083-443a-949a-b57358edc256@5baf3": {
+    "url": "db://assets/Game/folder/xanh_co_map/xanh_co_map.fbx@5baf3",
+    "value": {
+      "depends": []
+    }
+  },
+  "4ead8419-0056-46d0-85f9-8063fd6fae57@6c48a": {
+    "url": "db://assets/Game/folder/xanh_co_map/xanh_co_resize2.psd@6c48a",
+    "value": {
+      "depends": [
+        "4ead8419-0056-46d0-85f9-8063fd6fae57"
+      ]
+    }
+  },
+  "07408532-756a-444b-9637-08d921ef9367": {
+    "url": "db://assets/Game/Mesh/tactic_playableads_pack/Infantry_rig.fbx",
+    "value": {}
+  },
+  "040fd627-1083-443a-949a-b57358edc256@4f959": {
+    "url": "db://assets/Game/folder/xanh_co_map/xanh_co_map.fbx@4f959",
+    "value": {
+      "depends": []
+    }
+  },
+  "040fd627-1083-443a-949a-b57358edc256@920fb": {
+    "url": "db://assets/Game/folder/xanh_co_map/xanh_co_map.fbx@920fb",
+    "value": {
+      "depends": []
+    }
+  },
+  "040fd627-1083-443a-949a-b57358edc256@d0f09": {
+    "url": "db://assets/Game/folder/xanh_co_map/xanh_co_map.fbx@d0f09",
+    "value": {
+      "depends": []
+    }
+  },
+  "040fd627-1083-443a-949a-b57358edc256@9caa8": {
+    "url": "db://assets/Game/folder/xanh_co_map/xanh_co_map.fbx@9caa8",
+    "value": {
+      "depends": []
+    }
+  },
+  "040fd627-1083-443a-949a-b57358edc256@bc16f": {
+    "url": "db://assets/Game/folder/xanh_co_map/xanh_co_map.fbx@bc16f",
+    "value": {
+      "depends": []
+    }
+  },
+  "040fd627-1083-443a-949a-b57358edc256@ee73b": {
+    "url": "db://assets/Game/folder/xanh_co_map/xanh_co_map.fbx@ee73b",
+    "value": {
+      "depends": []
+    }
+  },
+  "040fd627-1083-443a-949a-b57358edc256@e8807": {
+    "url": "db://assets/Game/folder/xanh_co_map/xanh_co_map.fbx@e8807",
+    "value": {
+      "depends": []
+    }
+  },
+  "040fd627-1083-443a-949a-b57358edc256@b5794": {
+    "url": "db://assets/Game/folder/xanh_co_map/xanh_co_map.fbx@b5794",
+    "value": {
+      "depends": []
+    }
+  },
+  "040fd627-1083-443a-949a-b57358edc256@791a6": {
+    "url": "db://assets/Game/folder/xanh_co_map/xanh_co_map.fbx@791a6",
+    "value": {
+      "depends": []
+    }
+  },
+  "040fd627-1083-443a-949a-b57358edc256@3a9a6": {
+    "url": "db://assets/Game/folder/xanh_co_map/xanh_co_map.fbx@3a9a6",
+    "value": {
+      "depends": []
+    }
+  },
+  "040fd627-1083-443a-949a-b57358edc256@dc2a1": {
+    "url": "db://assets/Game/folder/xanh_co_map/xanh_co_map.fbx@dc2a1",
+    "value": {
+      "depends": []
+    }
+  },
+  "040fd627-1083-443a-949a-b57358edc256@4ab80": {
+    "url": "db://assets/Game/folder/xanh_co_map/xanh_co_map.fbx@4ab80",
+    "value": {
+      "depends": []
+    }
+  },
+  "040fd627-1083-443a-949a-b57358edc256@30da5": {
+    "url": "db://assets/Game/folder/xanh_co_map/xanh_co_map.fbx@30da5",
+    "value": {
+      "depends": []
+    }
+  },
+  "040fd627-1083-443a-949a-b57358edc256@7a45b": {
+    "url": "db://assets/Game/folder/xanh_co_map/xanh_co_map.fbx@7a45b",
+    "value": {
+      "depends": []
+    }
+  },
+  "040fd627-1083-443a-949a-b57358edc256@9dffc": {
+    "url": "db://assets/Game/folder/xanh_co_map/xanh_co_map.fbx@9dffc",
+    "value": {
+      "depends": []
+    }
+  },
+  "040fd627-1083-443a-949a-b57358edc256@1b0ff": {
+    "url": "db://assets/Game/folder/xanh_co_map/xanh_co_map.fbx@1b0ff",
+    "value": {
+      "depends": []
+    }
+  },
+  "040fd627-1083-443a-949a-b57358edc256@787dc": {
+    "url": "db://assets/Game/folder/xanh_co_map/xanh_co_map.fbx@787dc",
+    "value": {
+      "depends": []
+    }
+  },
+  "040fd627-1083-443a-949a-b57358edc256@e57a3": {
+    "url": "db://assets/Game/folder/xanh_co_map/xanh_co_map.fbx@e57a3",
+    "value": {
+      "depends": []
+    }
+  },
+  "040fd627-1083-443a-949a-b57358edc256@1eae6": {
+    "url": "db://assets/Game/folder/xanh_co_map/xanh_co_map.fbx@1eae6",
+    "value": {
+      "depends": []
+    }
+  },
+  "040fd627-1083-443a-949a-b57358edc256@d9de2": {
+    "url": "db://assets/Game/folder/xanh_co_map/xanh_co_map.fbx@d9de2",
+    "value": {
+      "depends": []
+    }
+  },
+  "040fd627-1083-443a-949a-b57358edc256@291df": {
+    "url": "db://assets/Game/folder/xanh_co_map/xanh_co_map.fbx@291df",
+    "value": {
+      "depends": []
+    }
+  },
+  "040fd627-1083-443a-949a-b57358edc256@6a333": {
+    "url": "db://assets/Game/folder/xanh_co_map/xanh_co_map.fbx@6a333",
+    "value": {
+      "depends": [
+        "040fd627-1083-443a-949a-b57358edc256@291df"
+      ]
+    }
+  },
+  "040fd627-1083-443a-949a-b57358edc256@bbfd6": {
+    "url": "db://assets/Game/folder/xanh_co_map/xanh_co_map.fbx@bbfd6",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b"
+      ]
+    }
+  },
+  "040fd627-1083-443a-949a-b57358edc256@8f7c7": {
+    "url": "db://assets/Game/folder/xanh_co_map/xanh_co_map.fbx@8f7c7",
+    "value": {
+      "depends": [
+        "040fd627-1083-443a-949a-b57358edc256@bbfd6",
+        "040fd627-1083-443a-949a-b57358edc256@4c0c8",
+        "040fd627-1083-443a-949a-b57358edc256@cdb29",
+        "040fd627-1083-443a-949a-b57358edc256@e4ef8",
+        "040fd627-1083-443a-949a-b57358edc256@cdff4",
+        "040fd627-1083-443a-949a-b57358edc256@c9c87",
+        "040fd627-1083-443a-949a-b57358edc256@64df3",
+        "040fd627-1083-443a-949a-b57358edc256@87740",
+        "040fd627-1083-443a-949a-b57358edc256@beec4",
+        "040fd627-1083-443a-949a-b57358edc256@2510b",
+        "040fd627-1083-443a-949a-b57358edc256@0df8e",
+        "040fd627-1083-443a-949a-b57358edc256@8c64b",
+        "040fd627-1083-443a-949a-b57358edc256@c94f4",
+        "040fd627-1083-443a-949a-b57358edc256@6aa6a",
+        "040fd627-1083-443a-949a-b57358edc256@0a919",
+        "040fd627-1083-443a-949a-b57358edc256@7bdeb",
+        "040fd627-1083-443a-949a-b57358edc256@969f8",
+        "040fd627-1083-443a-949a-b57358edc256@e757f",
+        "040fd627-1083-443a-949a-b57358edc256@7b4e8",
+        "040fd627-1083-443a-949a-b57358edc256@9b83f",
+        "040fd627-1083-443a-949a-b57358edc256@43d1f",
+        "040fd627-1083-443a-949a-b57358edc256@35e9d",
+        "040fd627-1083-443a-949a-b57358edc256@01d19",
+        "040fd627-1083-443a-949a-b57358edc256@7a094",
+        "040fd627-1083-443a-949a-b57358edc256@bc9d0",
+        "040fd627-1083-443a-949a-b57358edc256@7f8a8",
+        "040fd627-1083-443a-949a-b57358edc256@dbc45",
+        "040fd627-1083-443a-949a-b57358edc256@56699",
+        "040fd627-1083-443a-949a-b57358edc256@dcbe6",
+        "040fd627-1083-443a-949a-b57358edc256@78a71",
+        "040fd627-1083-443a-949a-b57358edc256@ebf0e",
+        "040fd627-1083-443a-949a-b57358edc256@0ea00",
+        "040fd627-1083-443a-949a-b57358edc256@b9b0b",
+        "040fd627-1083-443a-949a-b57358edc256@12eba",
+        "040fd627-1083-443a-949a-b57358edc256@591d3",
+        "040fd627-1083-443a-949a-b57358edc256@f0644",
+        "040fd627-1083-443a-949a-b57358edc256@13933",
+        "040fd627-1083-443a-949a-b57358edc256@983c8",
+        "040fd627-1083-443a-949a-b57358edc256@083b5",
+        "040fd627-1083-443a-949a-b57358edc256@7262b",
+        "040fd627-1083-443a-949a-b57358edc256@47bdc",
+        "040fd627-1083-443a-949a-b57358edc256@5cd0c",
+        "040fd627-1083-443a-949a-b57358edc256@dabdf",
+        "040fd627-1083-443a-949a-b57358edc256@8b58c",
+        "040fd627-1083-443a-949a-b57358edc256@6741b",
+        "040fd627-1083-443a-949a-b57358edc256@7b358",
+        "040fd627-1083-443a-949a-b57358edc256@8b00e",
+        "040fd627-1083-443a-949a-b57358edc256@a73ea",
+        "040fd627-1083-443a-949a-b57358edc256@c5e85",
+        "040fd627-1083-443a-949a-b57358edc256@2db2e",
+        "040fd627-1083-443a-949a-b57358edc256@75c66",
+        "040fd627-1083-443a-949a-b57358edc256@58b99",
+        "040fd627-1083-443a-949a-b57358edc256@4a89c",
+        "040fd627-1083-443a-949a-b57358edc256@f0b11",
+        "040fd627-1083-443a-949a-b57358edc256@26dda",
+        "040fd627-1083-443a-949a-b57358edc256@5baf3",
+        "040fd627-1083-443a-949a-b57358edc256@4f959",
+        "040fd627-1083-443a-949a-b57358edc256@920fb",
+        "040fd627-1083-443a-949a-b57358edc256@d0f09",
+        "040fd627-1083-443a-949a-b57358edc256@9caa8",
+        "040fd627-1083-443a-949a-b57358edc256@bc16f",
+        "040fd627-1083-443a-949a-b57358edc256@18762",
+        "040fd627-1083-443a-949a-b57358edc256@ee73b",
+        "040fd627-1083-443a-949a-b57358edc256@e8807",
+        "040fd627-1083-443a-949a-b57358edc256@b5794",
+        "040fd627-1083-443a-949a-b57358edc256@791a6",
+        "040fd627-1083-443a-949a-b57358edc256@3a9a6",
+        "040fd627-1083-443a-949a-b57358edc256@dc2a1",
+        "040fd627-1083-443a-949a-b57358edc256@4ab80",
+        "040fd627-1083-443a-949a-b57358edc256@30da5",
+        "040fd627-1083-443a-949a-b57358edc256@7a45b",
+        "040fd627-1083-443a-949a-b57358edc256@83389",
+        "040fd627-1083-443a-949a-b57358edc256@1b0ff",
+        "040fd627-1083-443a-949a-b57358edc256@787dc",
+        "040fd627-1083-443a-949a-b57358edc256@e57a3",
+        "040fd627-1083-443a-949a-b57358edc256@98301",
+        "040fd627-1083-443a-949a-b57358edc256@1eae6",
+        "040fd627-1083-443a-949a-b57358edc256@9dffc",
+        "040fd627-1083-443a-949a-b57358edc256@d9de2"
+      ]
+    }
+  },
+  "edeef1b5-86e4-45bb-9ca7-f64e63455594@cf5ee": {
+    "url": "db://assets/Game/Mesh/tactic_playableads_pack/Char_run.fbx@cf5ee",
+    "value": {
+      "depends": []
+    }
+  },
+  "edeef1b5-86e4-45bb-9ca7-f64e63455594@a87a0": {
+    "url": "db://assets/Game/Mesh/tactic_playableads_pack/Char_run.fbx@a87a0",
+    "value": {
+      "depends": [
+        "edeef1b5-86e4-45bb-9ca7-f64e63455594@cf5ee"
+      ]
+    }
+  },
+  "266f64a8-2af3-4689-bd55-622cf5bd0406@b4251": {
+    "url": "db://assets/Game/Mesh/tactic_playableads_pack/Char_die.fbx@b4251",
+    "value": {
+      "depends": []
+    }
+  },
+  "a2058c3e-a938-4168-a9d0-0b96c42f9f89@1f586": {
+    "url": "db://assets/Game/Mesh/tactic_playableads_pack/Char_idle.fbx@1f586",
+    "value": {
+      "depends": []
+    }
+  },
+  "266f64a8-2af3-4689-bd55-622cf5bd0406@51b6f": {
+    "url": "db://assets/Game/Mesh/tactic_playableads_pack/Char_die.fbx@51b6f",
+    "value": {
+      "depends": [
+        "266f64a8-2af3-4689-bd55-622cf5bd0406@b4251"
+      ]
+    }
+  },
+  "a2058c3e-a938-4168-a9d0-0b96c42f9f89@3eec8": {
+    "url": "db://assets/Game/Mesh/tactic_playableads_pack/Char_idle.fbx@3eec8",
+    "value": {
+      "depends": [
+        "a2058c3e-a938-4168-a9d0-0b96c42f9f89@1f586"
+      ]
+    }
+  },
+  "07408532-756a-444b-9637-08d921ef9367@88349": {
+    "url": "db://assets/Game/Mesh/tactic_playableads_pack/Infantry_rig.fbx@88349",
+    "value": {
+      "depends": []
+    }
+  },
+  "07408532-756a-444b-9637-08d921ef9367@2b866": {
+    "url": "db://assets/Game/Mesh/tactic_playableads_pack/Infantry_rig.fbx@2b866",
+    "value": {
+      "depends": []
+    }
+  },
+  "07408532-756a-444b-9637-08d921ef9367@438fe": {
+    "url": "db://assets/Game/Mesh/tactic_playableads_pack/Infantry_rig.fbx@438fe",
+    "value": {
+      "depends": []
+    }
+  },
+  "07408532-756a-444b-9637-08d921ef9367@2c411": {
+    "url": "db://assets/Game/Mesh/tactic_playableads_pack/Infantry_rig.fbx@2c411",
+    "value": {
+      "depends": [
+        "07408532-756a-444b-9637-08d921ef9367@88349"
+      ]
+    }
+  },
+  "07408532-756a-444b-9637-08d921ef9367@888a3": {
+    "url": "db://assets/Game/Mesh/tactic_playableads_pack/Infantry_rig.fbx@888a3",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b",
+        "07408532-756a-444b-9637-08d921ef9367@2c411"
+      ]
+    }
+  },
+  "07408532-756a-444b-9637-08d921ef9367@80e06": {
+    "url": "db://assets/Game/Mesh/tactic_playableads_pack/Infantry_rig.fbx@80e06",
+    "value": {
+      "depends": [
+        "07408532-756a-444b-9637-08d921ef9367@888a3",
+        "07408532-756a-444b-9637-08d921ef9367@2b866",
+        "07408532-756a-444b-9637-08d921ef9367@438fe"
+      ]
+    }
+  },
+  "c8510fb6-e99a-4138-b099-d84b54e0a3b9": {
+    "url": "db://assets/Game/folder/123456.png",
+    "value": {}
+  },
+  "c8510fb6-e99a-4138-b099-d84b54e0a3b9@6c48a": {
+    "url": "db://assets/Game/folder/123456.png@6c48a",
+    "value": {
+      "depends": [
+        "c8510fb6-e99a-4138-b099-d84b54e0a3b9"
+      ]
+    }
+  },
+  "a2054245-1177-4caf-8bee-b3904e199889": {
+    "url": "db://assets/Game/folder/123456.png",
+    "value": {}
+  },
+  "a2054245-1177-4caf-8bee-b3904e199889@6c48a": {
+    "url": "db://assets/Game/folder/123456.png@6c48a",
+    "value": {
+      "depends": [
+        "a2054245-1177-4caf-8bee-b3904e199889"
+      ]
+    }
+  },
+  "655bcda6-ddf3-45b1-8f96-ecf9be2ff28e": {
+    "url": "db://assets/Game/folder/123456 1.png",
+    "value": {}
+  },
+  "655bcda6-ddf3-45b1-8f96-ecf9be2ff28e@6c48a": {
+    "url": "db://assets/Game/folder/123456 1.png@6c48a",
+    "value": {
+      "depends": [
+        "655bcda6-ddf3-45b1-8f96-ecf9be2ff28e"
+      ]
+    }
+  },
+  "46782abc-8976-4bcd-899e-255fcb64ced1": {
+    "url": "db://assets/Game/folder/xanh_co_map/123456 1 (1).png",
+    "value": {}
+  },
+  "46782abc-8976-4bcd-899e-255fcb64ced1@6c48a": {
+    "url": "db://assets/Game/folder/xanh_co_map/123456 1 (1).png@6c48a",
+    "value": {
+      "depends": [
+        "46782abc-8976-4bcd-899e-255fcb64ced1"
+      ]
+    }
+  },
+  "46782abc-8976-4bcd-899e-255fcb64ced1@f9941": {
+    "url": "db://assets/Game/folder/xanh_co_map/123456 1 (1).png@f9941",
+    "value": {
+      "depends": [
+        "46782abc-8976-4bcd-899e-255fcb64ced1@6c48a"
+      ]
+    }
+  },
+  "2feba71a-b3ce-4886-a80b-e4134c9abf52": {
+    "url": "db://assets/Game/folder/Material/Map.mtl",
+    "value": {
+      "depends": [
+        "c8f66d17-351a-48da-a12c-0212d28575c4",
+        "aae1b72f-a220-438d-950f-4242e00c09ff@6c48a"
+      ]
+    }
+  },
+  "aae1b72f-a220-438d-950f-4242e00c09ff": {
+    "url": "db://assets/Game/folder/xanh_co_map/123456 1 (1).png",
+    "value": {
+      "depends": []
+    }
+  },
+  "aae1b72f-a220-438d-950f-4242e00c09ff@6c48a": {
+    "url": "db://assets/Game/folder/xanh_co_map/123456 1 (1).png@6c48a",
+    "value": {
+      "depends": [
+        "aae1b72f-a220-438d-950f-4242e00c09ff"
+      ]
+    }
+  },
+  "3cae5177-f4de-494c-8c86-d251671c0187": {
+    "url": "db://assets/Game/Mesh/mountain_below.fbx",
+    "value": {}
+  },
+  "3cae5177-f4de-494c-8c86-d251671c0187@99d6c": {
+    "url": "db://assets/Game/Mesh/mountain_below.fbx@99d6c",
+    "value": {
+      "depends": []
+    }
+  },
+  "3cae5177-f4de-494c-8c86-d251671c0187@6ec10": {
+    "url": "db://assets/Game/Mesh/mountain_below.fbx@6ec10",
+    "value": {
+      "depends": []
+    }
+  },
+  "3cae5177-f4de-494c-8c86-d251671c0187@3620d": {
+    "url": "db://assets/Game/Mesh/mountain_below.fbx@3620d",
+    "value": {
+      "depends": []
+    }
+  },
+  "3cae5177-f4de-494c-8c86-d251671c0187@cbffa": {
+    "url": "db://assets/Game/Mesh/mountain_below.fbx@cbffa",
+    "value": {
+      "depends": []
+    }
+  },
+  "3cae5177-f4de-494c-8c86-d251671c0187@3c0d1": {
+    "url": "db://assets/Game/Mesh/mountain_below.fbx@3c0d1",
+    "value": {
+      "depends": []
+    }
+  },
+  "3cae5177-f4de-494c-8c86-d251671c0187@6745b": {
+    "url": "db://assets/Game/Mesh/mountain_below.fbx@6745b",
+    "value": {
+      "depends": []
+    }
+  },
+  "3cae5177-f4de-494c-8c86-d251671c0187@b832b": {
+    "url": "db://assets/Game/Mesh/mountain_below.fbx@b832b",
+    "value": {
+      "depends": []
+    }
+  },
+  "3cae5177-f4de-494c-8c86-d251671c0187@f2dff": {
+    "url": "db://assets/Game/Mesh/mountain_below.fbx@f2dff",
+    "value": {
+      "depends": []
+    }
+  },
+  "3cae5177-f4de-494c-8c86-d251671c0187@1d4eb": {
+    "url": "db://assets/Game/Mesh/mountain_below.fbx@1d4eb",
+    "value": {
+      "depends": []
+    }
+  },
+  "3cae5177-f4de-494c-8c86-d251671c0187@c05bc": {
+    "url": "db://assets/Game/Mesh/mountain_below.fbx@c05bc",
+    "value": {
+      "depends": []
+    }
+  },
+  "3cae5177-f4de-494c-8c86-d251671c0187@9fa2a": {
+    "url": "db://assets/Game/Mesh/mountain_below.fbx@9fa2a",
+    "value": {
+      "depends": []
+    }
+  },
+  "3cae5177-f4de-494c-8c86-d251671c0187@014cb": {
+    "url": "db://assets/Game/Mesh/mountain_below.fbx@014cb",
+    "value": {
+      "depends": []
+    }
+  },
+  "3cae5177-f4de-494c-8c86-d251671c0187@a1eb8": {
+    "url": "db://assets/Game/Mesh/mountain_below.fbx@a1eb8",
+    "value": {
+      "depends": []
+    }
+  },
+  "3cae5177-f4de-494c-8c86-d251671c0187@d3099": {
+    "url": "db://assets/Game/Mesh/mountain_below.fbx@d3099",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b"
+      ]
+    }
+  },
+  "3cae5177-f4de-494c-8c86-d251671c0187@618c4": {
+    "url": "db://assets/Game/Mesh/mountain_below.fbx@618c4",
+    "value": {
+      "depends": [
+        "3cae5177-f4de-494c-8c86-d251671c0187@d3099",
+        "3cae5177-f4de-494c-8c86-d251671c0187@99d6c",
+        "3cae5177-f4de-494c-8c86-d251671c0187@6ec10",
+        "3cae5177-f4de-494c-8c86-d251671c0187@3620d",
+        "3cae5177-f4de-494c-8c86-d251671c0187@cbffa",
+        "3cae5177-f4de-494c-8c86-d251671c0187@3c0d1",
+        "3cae5177-f4de-494c-8c86-d251671c0187@6745b",
+        "3cae5177-f4de-494c-8c86-d251671c0187@b832b",
+        "3cae5177-f4de-494c-8c86-d251671c0187@f2dff",
+        "3cae5177-f4de-494c-8c86-d251671c0187@1d4eb",
+        "3cae5177-f4de-494c-8c86-d251671c0187@c05bc",
+        "3cae5177-f4de-494c-8c86-d251671c0187@9fa2a",
+        "3cae5177-f4de-494c-8c86-d251671c0187@014cb",
+        "3cae5177-f4de-494c-8c86-d251671c0187@a1eb8"
+      ]
+    }
+  }
+}

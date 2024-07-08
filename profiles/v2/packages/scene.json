@@ -1,0 +1,120 @@
+{
+  "__version__": "1.0.0",
+  "builder": {
+    "taskOptionsMap": {},
+    "__version__": "1.3.6"
+  },
+  "gizmos-infos": {
+    "is2D": false,
+    "is3DIcon": false,
+    "iconSize": 2,
+    "gridVisible": true,
+    "gridColor": [
+      166,
+      166,
+      166,
+      255
+    ],
+    "transformToolName": "position",
+    "pivot": "pivot",
+    "coordinate": "local"
+  },
+  "": {
+    "sculpt_brush_rotate": 0
+  },
+  "snap-configs": {
+    "position": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "rotation": 1,
+    "scale": 1,
+    "isPositionSnapEnabled": false,
+    "isRotationSnapEnabled": false,
+    "isScaleSnapEnabled": false
+  },
+  "rect-snap-configs": {
+    "enableSnapping": true,
+    "snapThreshold": 4
+  },
+  "camera-infos": {
+    "f4eebca5-c82f-43fe-8f51-acde438a336b": {
+      "position": {
+        "x": -0.1132301705986157,
+        "y": 0.4127775916055751,
+        "z": 0.06100628403540304
+      },
+      "rotation": {
+        "x": 0.3730263799718679,
+        "y": 0.6123761498366624,
+        "z": 0.40034466995933793,
+        "w": -0.5705882198090971
+      },
+      "viewCenter": {
+        "x": 0.02248945773778739,
+        "y": 0.10209285250587319,
+        "z": 0.07060700900940411
+      }
+    },
+    "f46876e4-e81b-4931-b493-6d367be385e7": {
+      "position": {
+        "x": 39.44444444444445,
+        "y": 39.44444444444445,
+        "z": 39.44444444444445
+      },
+      "rotation": {
+        "x": -0.22423167172638503,
+        "y": 0.292224403988425,
+        "z": 0.09287979954266036,
+        "w": 0.9250396737142228
+      },
+      "viewCenter": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      }
+    }
+  },
+  "camera-uuids": [
+    "f4eebca5-c82f-43fe-8f51-acde438a336b"
+  ],
+  "camera": {
+    "fov": 45,
+    "far": 10000,
+    "near": 0.01,
+    "color": [
+      48,
+      48,
+      48,
+      255
+    ],
+    "wheelSpeed": 0.01,
+    "wanderSpeed": 10,
+    "enableAcceleration": true,
+    "far2D": 10000,
+    "near2D": 1,
+    "wheelSpeed2D": 6,
+    "size": "__default_design__",
+    "iso": 0,
+    "aperture": 19,
+    "shutter": 7
+  },
+  "float-window": {
+    "position": {
+      "cc": {
+        "Camera": {
+          "dock": false,
+          "top": null,
+          "bottom": 10,
+          "left": null,
+          "right": 10
+        }
+      }
+    }
+  },
+  "game-view": {
+    "scaleValue": 26,
+    "sliderValue": 9
+  }
+}

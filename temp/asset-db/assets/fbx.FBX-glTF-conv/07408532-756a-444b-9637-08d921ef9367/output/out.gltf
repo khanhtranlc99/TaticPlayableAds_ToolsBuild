@@ -1,0 +1,6727 @@
+{
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 1138,
+      "max": [
+        0.007510251831263304,
+        0.025361957028508186,
+        0.012525285594165325
+      ],
+      "min": [
+        -0.007422270718961954,
+        0.00022404432820621878,
+        -0.0042205979116261005
+      ],
+      "name": "Char_base_level_1/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 1138,
+      "name": "Char_base_level_1/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 1138,
+      "name": "Char_base_level_1/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 32,
+      "componentType": 5123,
+      "count": 1138,
+      "name": "Char_base_level_1/JOINTS_0",
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 40,
+      "componentType": 5126,
+      "count": 1138,
+      "name": "Char_base_level_1/WEIGHTS_0",
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 56,
+      "componentType": 5123,
+      "count": 1138,
+      "name": "Char_base_level_1/JOINTS_1",
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 64,
+      "componentType": 5126,
+      "count": 1138,
+      "name": "Char_base_level_1/WEIGHTS_1",
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 80,
+      "componentType": 5123,
+      "count": 1138,
+      "name": "Char_base_level_1/JOINTS_2",
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 88,
+      "componentType": 5126,
+      "count": 1138,
+      "name": "Char_base_level_1/WEIGHTS_2",
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5123,
+      "count": 2883,
+      "name": "Char_base_level_1/INDICES",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 58,
+      "name": "/InverseBindMatrices",
+      "type": "MAT4"
+    }
+  ],
+  "asset": {
+    "copyright": "Copyright (c) 2018-2020 Chukong Technologies Inc.",
+    "generator": "FBX-glTF-conv",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 118352,
+      "byteStride": 104,
+      "name": "Char_base_level_1",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 5766,
+      "byteOffset": 118352,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 3712,
+      "byteOffset": 124118
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 127830,
+      "uri": "out.bin"
+    }
+  ],
+  "extras": {
+    "FBX-glTF-conv": {
+      "animationFrameRate": 30.0,
+      "fbxFileHeaderInfo": {
+        "creationTimeStamp": {
+          "day": 29,
+          "hour": 15,
+          "millisecond": 465,
+          "minute": 34,
+          "month": 2,
+          "second": 0,
+          "year": 2024
+        },
+        "creator": "FBX SDK/FBX Plugins version 2020.3.1",
+        "sceneInfo": {
+          "author": "",
+          "comment": "",
+          "keywords": "",
+          "original": {
+            "applicationName": "Maya",
+            "applicationVendor": "Autodesk",
+            "applicationVersion": "2023",
+            "fileName": "E:\\Ngoc Anh\\Tasks\\Tactic Wars\\3D\\Anim\\Infatry_rig.fbx"
+          },
+          "revision": "",
+          "subject": "",
+          "title": "",
+          "url": "D:\\test\\assets\\Game\\Mesh\\tactic_playableads_pack\\Infantry_rig.fbx"
+        }
+      }
+    }
+  },
+  "images": [
+    {
+      "extras": {
+        "FBX-glTF-conv": {
+          "fileName": "D:\\test\\temp\\asset-db\\assets\\fbx.FBX-glTF-conv\\07408532-756a-444b-9637-08d921ef9367\\output\\.fbm\\5F9B1A32\\Infantry_rig.fbm/unit_color_orange.png",
+          "relativeFileName": "..\\..\\..\\..\\temp\\asset-db\\assets\\fbx.FBX-glTF-conv\\07408532-756a-444b-9637-08d921ef9367\\output\\.fbm\\5F9B1A32\\Infantry_rig.fbm\\unit_color_orange.png"
+        }
+      },
+      "name": "unit_color_2",
+      "uri": "unit_color_orange.png"
+    }
+  ],
+  "materials": [
+    {
+      "extras": {
+        "FBX-glTF-conv": {
+          "raw": {
+            "properties": {
+              "ambient": {
+                "value": [
+                  0.0,
+                  0.0,
+                  0.0
+                ]
+              },
+              "ambientFactor": {
+                "value": 1.0
+              },
+              "bump": {
+                "value": [
+                  0.0,
+                  0.0,
+                  0.0
+                ]
+              },
+              "bumpFactor": {
+                "value": 1.0
+              },
+              "diffuse": {
+                "texture": {
+                  "index": 0
+                },
+                "value": [
+                  1.0,
+                  1.0,
+                  1.0
+                ]
+              },
+              "diffuseFactor": {
+                "value": 0.800000011920929
+              },
+              "displacementColor": {
+                "value": [
+                  0.0,
+                  0.0,
+                  0.0
+                ]
+              },
+              "displacementFactor": {
+                "value": 1.0
+              },
+              "emissive": {
+                "value": [
+                  0.0,
+                  0.0,
+                  0.0
+                ]
+              },
+              "emissiveFactor": {
+                "value": 1.0
+              },
+              "normalMap": {
+                "value": [
+                  0.0,
+                  0.0,
+                  0.0
+                ]
+              },
+              "shadingModel": "Lambert",
+              "transparencyFactor": {
+                "value": 1.0
+              },
+              "transparentColor": {
+                "value": [
+                  0.0,
+                  0.0,
+                  0.0
+                ]
+              },
+              "vectorDisplacementColor": {
+                "value": [
+                  0.0,
+                  0.0,
+                  0.0
+                ]
+              },
+              "vectorDisplacementFactor": {
+                "value": 1.0
+              }
+            },
+            "type": "lambert"
+          }
+        }
+      },
+      "name": "unit_color_M"
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Char_base_level_1",
+      "primitives": [
+        {
+          "attributes": {
+            "JOINTS_0": 3,
+            "JOINTS_1": 5,
+            "JOINTS_2": 7,
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TEXCOORD_0": 2,
+            "WEIGHTS_0": 4,
+            "WEIGHTS_1": 6,
+            "WEIGHTS_2": 8
+          },
+          "indices": 9,
+          "material": 0
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "name": "Group"
+    },
+    {
+      "children": [
+        2,
+        4,
+        201,
+        417,
+        428
+      ],
+      "name": "MotionSystem"
+    },
+    {
+      "children": [
+        3
+      ],
+      "name": "MainSystem"
+    },
+    {
+      "name": "Main"
+    },
+    {
+      "children": [
+        5,
+        51,
+        84,
+        115,
+        145,
+        158,
+        188
+      ],
+      "name": "FKSystem"
+    },
+    {
+      "children": [
+        6
+      ],
+      "name": "FKFollowRoot",
+      "translation": [
+        2.1504753344408927e-19,
+        0.00742572033777833,
+        -0.00019331010116729885
+      ]
+    },
+    {
+      "children": [
+        7,
+        49
+      ],
+      "name": "FKOffsetRoot_M",
+      "rotation": [
+        0.4784598648548126,
+        0.5206497311592102,
+        0.4784598648548126,
+        0.5206497311592102
+      ]
+    },
+    {
+      "children": [
+        8,
+        17
+      ],
+      "name": "FKExtraRoot_M"
+    },
+    {
+      "children": [
+        9,
+        11,
+        12
+      ],
+      "name": "FKRoot_M"
+    },
+    {
+      "children": [
+        10
+      ],
+      "name": "HipSwingerOffset_M",
+      "translation": [
+        0.0015815978404134512,
+        -2.011129327308958e-12,
+        -0.002596786245703697
+      ]
+    },
+    {
+      "name": "HipSwinger_M"
+    },
+    {
+      "name": "HipSwingerStabilizerTarget",
+      "translation": [
+        0.0015815978404134512,
+        -2.011129327308958e-12,
+        -0.002596786245703697
+      ]
+    },
+    {
+      "children": [
+        13,
+        16
+      ],
+      "name": "HipSwingReverse",
+      "translation": [
+        0.0031631956808269024,
+        -1.179611976071938e-18,
+        -1.369360384351549e-18
+      ]
+    },
+    {
+      "children": [
+        14
+      ],
+      "name": "HipSwingReversePart1",
+      "translation": [
+        -0.0010543985990807414,
+        0.0,
+        2.465190273714364e-34
+      ]
+    },
+    {
+      "children": [
+        15
+      ],
+      "name": "HipSwingReversePart2",
+      "translation": [
+        -0.0010543985990807414,
+        -6.938893748810864e-20,
+        0.0
+      ]
+    },
+    {
+      "name": "HipSwingReverseRoot",
+      "translation": [
+        -0.0010543985990807414,
+        1.387778801460961e-18,
+        1.369360384351549e-18
+      ]
+    },
+    {
+      "name": "HipSwingReverseXPart2",
+      "translation": [
+        -0.002108797198161483,
+        -2.7755574995243454e-19,
+        2.465190273714364e-34
+      ]
+    },
+    {
+      "children": [
+        18
+      ],
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "FKXRoot_M"
+    },
+    {
+      "children": [
+        19
+      ],
+      "name": "FKOffsetRootPart1_M",
+      "translation": [
+        0.0010543985990807414,
+        -4.163336249286518e-19,
+        -2.7387208204018863e-19
+      ]
+    },
+    {
+      "children": [
+        20
+      ],
+      "name": "FKInbetweenRootPart1_M"
+    },
+    {
+      "children": [
+        21
+      ],
+      "name": "FKExtraRootPart1_M"
+    },
+    {
+      "children": [
+        22
+      ],
+      "name": "FKRootPart1_M"
+    },
+    {
+      "children": [
+        23
+      ],
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "FKXRootPart1_M"
+    },
+    {
+      "children": [
+        24
+      ],
+      "name": "FKOffsetRootPart2_M",
+      "translation": [
+        0.0010543985990807414,
+        -6.245004761670689e-19,
+        -2.7387208204018863e-19
+      ]
+    },
+    {
+      "children": [
+        25
+      ],
+      "name": "FKInbetweenRootPart2_M"
+    },
+    {
+      "children": [
+        26
+      ],
+      "name": "FKExtraRootPart2_M"
+    },
+    {
+      "children": [
+        27
+      ],
+      "name": "FKRootPart2_M"
+    },
+    {
+      "children": [
+        28
+      ],
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "FKXRootPart2_M"
+    },
+    {
+      "children": [
+        29
+      ],
+      "name": "HipSwingerStabilizer"
+    },
+    {
+      "children": [
+        30,
+        47
+      ],
+      "name": "FKOffsetSpine1_M",
+      "rotation": [
+        4.9013156781864796e-32,
+        1.7771232328958794e-32,
+        0.016741588711738586,
+        0.9998598694801331
+      ],
+      "translation": [
+        0.0010543985990807414,
+        -2.7755574995243454e-19,
+        -8.216162202711717e-19
+      ]
+    },
+    {
+      "children": [
+        31,
+        32
+      ],
+      "name": "FKExtraSpine1_M"
+    },
+    {
+      "name": "FKSpine1_M"
+    },
+    {
+      "children": [
+        33
+      ],
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "FKXSpine1_M"
+    },
+    {
+      "children": [
+        34
+      ],
+      "name": "FKOffsetSpine1Part1_M",
+      "translation": [
+        0.0008692024275660515,
+        5.551114999048691e-19,
+        -2.2195646903755894e-19
+      ]
+    },
+    {
+      "children": [
+        35
+      ],
+      "name": "FKInbetweenSpine1Part1_M"
+    },
+    {
+      "children": [
+        36
+      ],
+      "name": "FKExtraSpine1Part1_M"
+    },
+    {
+      "children": [
+        37
+      ],
+      "name": "FKSpine1Part1_M"
+    },
+    {
+      "children": [
+        38
+      ],
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "FKXSpine1Part1_M"
+    },
+    {
+      "children": [
+        39
+      ],
+      "name": "FKOffsetSpine1Part2_M",
+      "translation": [
+        0.0008692024275660515,
+        4.163336249286518e-19,
+        -2.2195646903755894e-19
+      ]
+    },
+    {
+      "children": [
+        40
+      ],
+      "name": "FKInbetweenSpine1Part2_M"
+    },
+    {
+      "children": [
+        41
+      ],
+      "name": "FKExtraSpine1Part2_M"
+    },
+    {
+      "children": [
+        42
+      ],
+      "name": "FKSpine1Part2_M"
+    },
+    {
+      "children": [
+        43
+      ],
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "FKXSpine1Part2_M"
+    },
+    {
+      "children": [
+        44
+      ],
+      "name": "FKOffsetChest_M",
+      "rotation": [
+        -9.949755641574701e-32,
+        1.2866139787423122e-32,
+        0.05671999603509903,
+        0.9983901381492615
+      ],
+      "translation": [
+        0.0008692024275660515,
+        4.163336249286518e-19,
+        -6.755615081993548e-19
+      ]
+    },
+    {
+      "children": [
+        45
+      ],
+      "name": "FKExtraChest_M"
+    },
+    {
+      "children": [
+        46
+      ],
+      "name": "FKChest_M"
+    },
+    {
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "FKXChest_M"
+    },
+    {
+      "children": [
+        48
+      ],
+      "name": "InbetweenSpine1_M"
+    },
+    {
+      "name": "InbetweenSpine1Part0_M"
+    },
+    {
+      "children": [
+        50
+      ],
+      "name": "InbetweenRoot_M"
+    },
+    {
+      "name": "InbetweenRootPart0_M"
+    },
+    {
+      "children": [
+        52,
+        68
+      ],
+      "name": "FKParentConstraintToRoot_M",
+      "rotation": [
+        0.4784598648548126,
+        0.5206497311592102,
+        0.4784598648548126,
+        0.5206497311592102
+      ],
+      "translation": [
+        2.1504753344408927e-19,
+        0.00742572033777833,
+        -0.00019331010116729885
+      ]
+    },
+    {
+      "children": [
+        53
+      ],
+      "name": "FKOffsetHip_R",
+      "rotation": [
+        0.1968657672405243,
+        0.9784694910049438,
+        -0.03825688362121582,
+        0.048761896789073944
+      ],
+      "translation": [
+        -0.00104742671828717,
+        -0.00014736264711245894,
+        -0.0025529193226248026
+      ]
+    },
+    {
+      "children": [
+        54
+      ],
+      "name": "FKExtraHip_R"
+    },
+    {
+      "children": [
+        55
+      ],
+      "name": "FKHip_R"
+    },
+    {
+      "children": [
+        56
+      ],
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "FKXHip_R"
+    },
+    {
+      "children": [
+        57
+      ],
+      "name": "FKOffsetKnee_R",
+      "rotation": [
+        7.075762516782703e-18,
+        -1.0445576804725223e-18,
+        -0.3816167712211609,
+        0.924320638179779
+      ],
+      "translation": [
+        0.0024149571545422077,
+        0.0,
+        -1.6653344997146072e-18
+      ]
+    },
+    {
+      "children": [
+        58
+      ],
+      "name": "FKExtraKnee_R"
+    },
+    {
+      "children": [
+        59
+      ],
+      "name": "FKKnee_R"
+    },
+    {
+      "children": [
+        60
+      ],
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "FKXKnee_R"
+    },
+    {
+      "children": [
+        61
+      ],
+      "name": "FKOffsetAnkle_R",
+      "rotation": [
+        -0.06118229031562805,
+        0.02725951559841633,
+        0.15010371804237366,
+        0.9863987565040588
+      ],
+      "translation": [
+        0.0031225059647113085,
+        1.94289030136583e-18,
+        0.0
+      ]
+    },
+    {
+      "children": [
+        62
+      ],
+      "name": "FKExtraAnkle_R"
+    },
+    {
+      "children": [
+        63
+      ],
+      "name": "FKAnkle_R"
+    },
+    {
+      "children": [
+        64
+      ],
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "FKXAnkle_R"
+    },
+    {
+      "children": [
+        65
+      ],
+      "name": "FKOffsetToes_R",
+      "rotation": [
+        0.004411195870488882,
+        -0.004148820415139198,
+        0.6850986480712891,
+        0.7284250855445862
+      ],
+      "translation": [
+        0.0007276406395249069,
+        0.0014642722671851516,
+        6.42202965610815e-14
+      ]
+    },
+    {
+      "children": [
+        66
+      ],
+      "name": "FKExtraToes_R"
+    },
+    {
+      "children": [
+        67
+      ],
+      "name": "FKToes_R"
+    },
+    {
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "FKXToes_R"
+    },
+    {
+      "children": [
+        69
+      ],
+      "name": "FKOffsetHip_L",
+      "rotation": [
+        0.9784694910049438,
+        -0.1968657672405243,
+        -0.048761896789073944,
+        -0.03825688362121582
+      ],
+      "translation": [
+        -0.00104742671828717,
+        -0.00014736264711245894,
+        0.0025529193226248026
+      ]
+    },
+    {
+      "children": [
+        70
+      ],
+      "name": "FKExtraHip_L"
+    },
+    {
+      "children": [
+        71
+      ],
+      "name": "FKHip_L"
+    },
+    {
+      "children": [
+        72
+      ],
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "FKXHip_L"
+    },
+    {
+      "children": [
+        73
+      ],
+      "name": "FKOffsetKnee_L",
+      "rotation": [
+        9.06176112897658e-18,
+        3.765764554066035e-18,
+        -0.3816167712211609,
+        0.924320638179779
+      ],
+      "translation": [
+        -0.0024149571545422077,
+        1.6653344997146072e-18,
+        -1.6653344997146072e-18
+      ]
+    },
+    {
+      "children": [
+        74
+      ],
+      "name": "FKExtraKnee_L"
+    },
+    {
+      "children": [
+        75
+      ],
+      "name": "FKKnee_L"
+    },
+    {
+      "children": [
+        76
+      ],
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "FKXKnee_L"
+    },
+    {
+      "children": [
+        77
+      ],
+      "name": "FKOffsetAnkle_L",
+      "rotation": [
+        -0.06118229031562805,
+        0.02725951559841633,
+        0.15010371804237366,
+        0.9863987565040588
+      ],
+      "translation": [
+        -0.0031225059647113085,
+        -3.781697293434725e-18,
+        -2.2204459996194763e-18
+      ]
+    },
+    {
+      "children": [
+        78
+      ],
+      "name": "FKExtraAnkle_L"
+    },
+    {
+      "children": [
+        79
+      ],
+      "name": "FKAnkle_L"
+    },
+    {
+      "children": [
+        80
+      ],
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "FKXAnkle_L"
+    },
+    {
+      "children": [
+        81
+      ],
+      "name": "FKOffsetToes_L",
+      "rotation": [
+        0.004411634989082813,
+        -0.004149234388023615,
+        0.6850986480712891,
+        0.7284250855445862
+      ],
+      "translation": [
+        -0.0007276406395249069,
+        -0.0014642722671851516,
+        -7.606304366740424e-14
+      ]
+    },
+    {
+      "children": [
+        82
+      ],
+      "name": "FKExtraToes_L"
+    },
+    {
+      "children": [
+        83
+      ],
+      "name": "FKToes_L"
+    },
+    {
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "FKXToes_L"
+    },
+    {
+      "children": [
+        85,
+        107,
+        111
+      ],
+      "name": "FKParentConstraintToChest_M",
+      "rotation": [
+        0.5153979063034058,
+        0.48411259055137634,
+        0.5153979063034058,
+        0.48411259055137634
+      ],
+      "translation": [
+        -2.25440321133085e-18,
+        0.013181882910430431,
+        -0.0005927042802795768
+      ]
+    },
+    {
+      "children": [
+        86,
+        105
+      ],
+      "name": "FKOffsetNeck_M",
+      "rotation": [
+        -2.154529386899852e-34,
+        -8.85665786114689e-33,
+        -0.024319471791386604,
+        0.9997042417526245
+      ],
+      "translation": [
+        0.0028212701436132193,
+        -5.551114999048691e-19,
+        5.068838303042764e-18
+      ]
+    },
+    {
+      "children": [
+        87,
+        88
+      ],
+      "name": "FKExtraNeck_M"
+    },
+    {
+      "name": "FKNeck_M"
+    },
+    {
+      "children": [
+        89
+      ],
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "FKXNeck_M"
+    },
+    {
+      "children": [
+        90
+      ],
+      "name": "FKOffsetNeckPart1_M",
+      "translation": [
+        0.0001467962865717709,
+        -2.7755574995243454e-19,
+        -6.594145549014075e-20
+      ]
+    },
+    {
+      "children": [
+        91
+      ],
+      "name": "FKInbetweenNeckPart1_M"
+    },
+    {
+      "children": [
+        92
+      ],
+      "name": "FKExtraNeckPart1_M"
+    },
+    {
+      "children": [
+        93
+      ],
+      "name": "FKNeckPart1_M"
+    },
+    {
+      "children": [
+        94
+      ],
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "FKXNeckPart1_M"
+    },
+    {
+      "children": [
+        95
+      ],
+      "name": "FKOffsetNeckPart2_M",
+      "translation": [
+        0.0001467962865717709,
+        -2.7755574995243454e-19,
+        -6.594145549014075e-20
+      ]
+    },
+    {
+      "children": [
+        96
+      ],
+      "name": "FKInbetweenNeckPart2_M"
+    },
+    {
+      "children": [
+        97
+      ],
+      "name": "FKExtraNeckPart2_M"
+    },
+    {
+      "children": [
+        98
+      ],
+      "name": "FKNeckPart2_M"
+    },
+    {
+      "children": [
+        99
+      ],
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "FKXNeckPart2_M"
+    },
+    {
+      "children": [
+        100
+      ],
+      "name": "FKOffsetHead_M",
+      "rotation": [
+        -2.126598768687101e-34,
+        -3.075395911546441e-32,
+        -0.006914712954312563,
+        0.9999760985374451
+      ],
+      "translation": [
+        0.0001467962865717709,
+        -2.7755574995243454e-19,
+        -2.0262485745658547e-19
+      ]
+    },
+    {
+      "children": [
+        101
+      ],
+      "name": "FKGlobalStaticHead_M"
+    },
+    {
+      "children": [
+        102
+      ],
+      "name": "FKGlobalHead_M"
+    },
+    {
+      "children": [
+        103
+      ],
+      "name": "FKExtraHead_M"
+    },
+    {
+      "children": [
+        104
+      ],
+      "name": "FKHead_M"
+    },
+    {
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "FKXHead_M"
+    },
+    {
+      "children": [
+        106
+      ],
+      "name": "InbetweenNeck_M"
+    },
+    {
+      "name": "InbetweenNeckPart0_M"
+    },
+    {
+      "children": [
+        108
+      ],
+      "name": "FKOffsetScapula_R",
+      "rotation": [
+        0.02188681997358799,
+        0.7068143486976624,
+        -0.022031981498003006,
+        0.7067170739173889
+      ],
+      "translation": [
+        0.0017959889955818653,
+        0.00030121527379378676,
+        -0.0013771047815680504
+      ]
+    },
+    {
+      "children": [
+        109
+      ],
+      "name": "FKExtraScapula_R"
+    },
+    {
+      "children": [
+        110
+      ],
+      "name": "FKScapula_R"
+    },
+    {
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "FKXScapula_R"
+    },
+    {
+      "children": [
+        112
+      ],
+      "name": "FKOffsetScapula_L",
+      "rotation": [
+        0.7068143486976624,
+        -0.02188682183623314,
+        -0.7067170739173889,
+        -0.022031981498003006
+      ],
+      "translation": [
+        0.0017959889955818653,
+        0.00030121527379378676,
+        0.0013771047815680504
+      ]
+    },
+    {
+      "children": [
+        113
+      ],
+      "name": "FKExtraScapula_L"
+    },
+    {
+      "children": [
+        114
+      ],
+      "name": "FKScapula_L"
+    },
+    {
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "FKXScapula_L"
+    },
+    {
+      "children": [
+        116,
+        131
+      ],
+      "name": "FKParentConstraintToWrist_R",
+      "rotation": [
+        -0.4898645579814911,
+        0.5097123384475708,
+        0.5079756379127502,
+        -0.4921247661113739
+      ],
+      "translation": [
+        -0.005973266903311014,
+        0.009137019515037537,
+        -0.000182669740752317
+      ]
+    },
+    {
+      "children": [
+        117
+      ],
+      "name": "FKOffsetMiddleFinger1_R",
+      "rotation": [
+        -0.00023371279530692846,
+        0.02661222033202648,
+        -0.0046809581108391285,
+        0.999634861946106
+      ],
+      "translation": [
+        0.0010509889107197523,
+        -4.943961741097778e-18,
+        2.2204459996194763e-18
+      ]
+    },
+    {
+      "children": [
+        118
+      ],
+      "name": "SDKFKMiddleFinger1_R"
+    },
+    {
+      "children": [
+        119
+      ],
+      "name": "FKExtraMiddleFinger1_R"
+    },
+    {
+      "children": [
+        120
+      ],
+      "name": "FKMiddleFinger1_R"
+    },
+    {
+      "children": [
+        121
+      ],
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "FKXMiddleFinger1_R"
+    },
+    {
+      "children": [
+        122
+      ],
+      "name": "FKOffsetMiddleFinger2_R",
+      "rotation": [
+        0.00023107966990210116,
+        -0.008398140780627728,
+        0.0012281707022339106,
+        0.9999639391899109
+      ],
+      "translation": [
+        0.0009211034048348665,
+        -2.081668124643259e-19,
+        -2.2204459996194763e-18
+      ]
+    },
+    {
+      "children": [
+        123
+      ],
+      "name": "SDKFKMiddleFinger2_R"
+    },
+    {
+      "children": [
+        124
+      ],
+      "name": "FKExtraMiddleFinger2_R"
+    },
+    {
+      "children": [
+        125
+      ],
+      "name": "FKMiddleFinger2_R"
+    },
+    {
+      "children": [
+        126
+      ],
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "FKXMiddleFinger2_R"
+    },
+    {
+      "children": [
+        127
+      ],
+      "name": "FKOffsetMiddleFinger3_R",
+      "rotation": [
+        0.004012374673038721,
+        0.35701656341552734,
+        -0.0014147539623081684,
+        0.9340883493423462
+      ],
+      "translation": [
+        0.0009367364691570401,
+        3.4694470036524025e-19,
+        7.77156120546332e-18
+      ]
+    },
+    {
+      "children": [
+        128
+      ],
+      "name": "SDKFKMiddleFinger3_R"
+    },
+    {
+      "children": [
+        129
+      ],
+      "name": "FKExtraMiddleFinger3_R"
+    },
+    {
+      "children": [
+        130
+      ],
+      "name": "FKMiddleFinger3_R"
+    },
+    {
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "FKXMiddleFinger3_R"
+    },
+    {
+      "children": [
+        132
+      ],
+      "name": "FKOffsetThumbFinger1_R",
+      "rotation": [
+        -0.42563381791114807,
+        -0.0618877075612545,
+        0.43115538358688354,
+        0.7931650876998901
+      ],
+      "translation": [
+        0.0012569250538945198,
+        0.0013817071449011564,
+        3.859136995743029e-05
+      ]
+    },
+    {
+      "children": [
+        133
+      ],
+      "name": "FKExtraThumbFinger1_R"
+    },
+    {
+      "children": [
+        134
+      ],
+      "name": "FKThumbFinger1_R"
+    },
+    {
+      "children": [
+        135
+      ],
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "FKXThumbFinger1_R"
+    },
+    {
+      "children": [
+        136
+      ],
+      "name": "FKOffsetThumbFinger2_R",
+      "rotation": [
+        0.0005499534890986979,
+        0.007995239458978176,
+        -0.004590775817632675,
+        0.9999573230743408
+      ],
+      "translation": [
+        0.0007090654107742012,
+        4.857225753414575e-19,
+        -2.2204459996194763e-18
+      ]
+    },
+    {
+      "children": [
+        137
+      ],
+      "name": "SDKFKThumbFinger2_R"
+    },
+    {
+      "children": [
+        138
+      ],
+      "name": "FKExtraThumbFinger2_R"
+    },
+    {
+      "children": [
+        139
+      ],
+      "name": "FKThumbFinger2_R"
+    },
+    {
+      "children": [
+        140
+      ],
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "FKXThumbFinger2_R"
+    },
+    {
+      "children": [
+        141
+      ],
+      "name": "FKOffsetThumbFinger3_R",
+      "rotation": [
+        0.0023477543145418167,
+        0.029832808300852776,
+        0.01444221194833517,
+        0.9994478225708008
+      ],
+      "translation": [
+        0.0007297015399672091,
+        7.632783252938921e-19,
+        2.2204459996194763e-18
+      ]
+    },
+    {
+      "children": [
+        142
+      ],
+      "name": "SDKFKThumbFinger3_R"
+    },
+    {
+      "children": [
+        143
+      ],
+      "name": "FKExtraThumbFinger3_R"
+    },
+    {
+      "children": [
+        144
+      ],
+      "name": "FKThumbFinger3_R"
+    },
+    {
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "FKXThumbFinger3_R"
+    },
+    {
+      "children": [
+        146
+      ],
+      "name": "FKParentConstraintToScapula_R",
+      "rotation": [
+        -0.00012040634464938194,
+        0.7069440484046936,
+        0.7072694897651672,
+        2.7726811822503805e-05
+      ],
+      "translation": [
+        -0.0013771047815680504,
+        0.014955517835915089,
+        -0.00017975748050957918
+      ]
+    },
+    {
+      "children": [
+        147
+      ],
+      "name": "FKOffsetShoulder_R",
+      "rotation": [
+        -0.5688617825508118,
+        0.36001110076904297,
+        0.26643699407577515,
+        0.6897823214530945
+      ],
+      "translation": [
+        0.0017874601762741804,
+        -7.438494450277006e-17,
+        4.440891999238953e-18
+      ]
+    },
+    {
+      "children": [
+        148
+      ],
+      "name": "FKExtraShoulder_R"
+    },
+    {
+      "children": [
+        149
+      ],
+      "name": "FKShoulder_R"
+    },
+    {
+      "children": [
+        150
+      ],
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "FKXShoulder_R"
+    },
+    {
+      "children": [
+        151
+      ],
+      "name": "FKOffsetElbow_R",
+      "rotation": [
+        1.72018130993588e-17,
+        -1.4057636725318186e-17,
+        0.20934323966503143,
+        0.9778422117233276
+      ],
+      "translation": [
+        0.0035132323391735554,
+        4.440891999238953e-18,
+        2.7755574995243454e-19
+      ]
+    },
+    {
+      "children": [
+        152
+      ],
+      "name": "FKExtraElbow_R"
+    },
+    {
+      "children": [
+        153
+      ],
+      "name": "FKElbow_R"
+    },
+    {
+      "children": [
+        154
+      ],
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "FKXElbow_R"
+    },
+    {
+      "children": [
+        155
+      ],
+      "name": "FKOffsetWrist_R",
+      "rotation": [
+        0.6271868944168091,
+        0.08912970870733261,
+        0.044236037880182266,
+        0.772486686706543
+      ],
+      "translation": [
+        0.0030932838562875986,
+        6.661337998858429e-18,
+        5.828670697302337e-18
+      ]
+    },
+    {
+      "children": [
+        156
+      ],
+      "name": "FKExtraWrist_R"
+    },
+    {
+      "children": [
+        157
+      ],
+      "name": "FKWrist_R"
+    },
+    {
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "FKXWrist_R"
+    },
+    {
+      "children": [
+        159,
+        174
+      ],
+      "name": "FKParentConstraintToWrist_L",
+      "rotation": [
+        -0.4921247661113739,
+        -0.5079756379127502,
+        0.5097123384475708,
+        0.4898645281791687
+      ],
+      "translation": [
+        0.005973266437649727,
+        0.009137019515037537,
+        -0.00018266969709657133
+      ]
+    },
+    {
+      "children": [
+        160
+      ],
+      "name": "FKOffsetMiddleFinger1_L",
+      "rotation": [
+        -0.00023371279530692846,
+        0.02661222033202648,
+        -0.0046809581108391285,
+        0.999634861946106
+      ],
+      "translation": [
+        -0.0010509889107197523,
+        -4.2796018465129926e-12,
+        9.625156574544214e-13
+      ]
+    },
+    {
+      "children": [
+        161
+      ],
+      "name": "SDKFKMiddleFinger1_L"
+    },
+    {
+      "children": [
+        162
+      ],
+      "name": "FKExtraMiddleFinger1_L"
+    },
+    {
+      "children": [
+        163
+      ],
+      "name": "FKMiddleFinger1_L"
+    },
+    {
+      "children": [
+        164
+      ],
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "FKXMiddleFinger1_L"
+    },
+    {
+      "children": [
+        165
+      ],
+      "name": "FKOffsetMiddleFinger2_L",
+      "rotation": [
+        0.00023107966990210116,
+        -0.008398140780627728,
+        0.0012281707022339106,
+        0.9999639391899109
+      ],
+      "translation": [
+        -0.0009211034048348665,
+        -4.7579297272892784e-12,
+        1.0186629101002764e-12
+      ]
+    },
+    {
+      "children": [
+        166
+      ],
+      "name": "SDKFKMiddleFinger2_L"
+    },
+    {
+      "children": [
+        167
+      ],
+      "name": "FKExtraMiddleFinger2_L"
+    },
+    {
+      "children": [
+        168
+      ],
+      "name": "FKMiddleFinger2_L"
+    },
+    {
+      "children": [
+        169
+      ],
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "FKXMiddleFinger2_L"
+    },
+    {
+      "children": [
+        170
+      ],
+      "name": "FKOffsetMiddleFinger3_L",
+      "rotation": [
+        0.004012374673038721,
+        0.35701656341552734,
+        -0.0014147539623081684,
+        0.9340883493423462
+      ],
+      "translation": [
+        -0.0009367364691570401,
+        -4.516542088245368e-12,
+        9.91062809076182e-13
+      ]
+    },
+    {
+      "children": [
+        171
+      ],
+      "name": "SDKFKMiddleFinger3_L"
+    },
+    {
+      "children": [
+        172
+      ],
+      "name": "FKExtraMiddleFinger3_L"
+    },
+    {
+      "children": [
+        173
+      ],
+      "name": "FKMiddleFinger3_L"
+    },
+    {
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "FKXMiddleFinger3_L"
+    },
+    {
+      "children": [
+        175
+      ],
+      "name": "FKOffsetThumbFinger1_L",
+      "rotation": [
+        -0.42563381791114807,
+        -0.0618877075612545,
+        0.43115538358688354,
+        0.7931650876998901
+      ],
+      "translation": [
+        -0.0012569250538945198,
+        -0.0013817071449011564,
+        -3.8591399061260745e-05
+      ]
+    },
+    {
+      "children": [
+        176
+      ],
+      "name": "FKExtraThumbFinger1_L"
+    },
+    {
+      "children": [
+        177
+      ],
+      "name": "FKThumbFinger1_L"
+    },
+    {
+      "children": [
+        178
+      ],
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "FKXThumbFinger1_L"
+    },
+    {
+      "children": [
+        179
+      ],
+      "name": "FKOffsetThumbFinger2_L",
+      "rotation": [
+        0.0005499534890986979,
+        0.007995239458978176,
+        -0.004590775817632675,
+        0.9999573230743408
+      ],
+      "translation": [
+        -0.0007090654107742012,
+        4.59079475823021e-12,
+        -1.1176884938401965e-11
+      ]
+    },
+    {
+      "children": [
+        180
+      ],
+      "name": "SDKFKThumbFinger2_L"
+    },
+    {
+      "children": [
+        181
+      ],
+      "name": "FKExtraThumbFinger2_L"
+    },
+    {
+      "children": [
+        182
+      ],
+      "name": "FKThumbFinger2_L"
+    },
+    {
+      "children": [
+        183
+      ],
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "FKXThumbFinger2_L"
+    },
+    {
+      "children": [
+        184
+      ],
+      "name": "FKOffsetThumbFinger3_L",
+      "rotation": [
+        0.0023477543145418167,
+        0.029832808300852776,
+        0.01444221194833517,
+        0.9994478225708008
+      ],
+      "translation": [
+        -0.0007297015399672091,
+        4.565687671681529e-12,
+        -1.142338914433827e-11
+      ]
+    },
+    {
+      "children": [
+        185
+      ],
+      "name": "SDKFKThumbFinger3_L"
+    },
+    {
+      "children": [
+        186
+      ],
+      "name": "FKExtraThumbFinger3_L"
+    },
+    {
+      "children": [
+        187
+      ],
+      "name": "FKThumbFinger3_L"
+    },
+    {
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "FKXThumbFinger3_L"
+    },
+    {
+      "children": [
+        189
+      ],
+      "name": "FKParentConstraintToScapula_L",
+      "rotation": [
+        -2.7726811822503805e-05,
+        0.7072694897651672,
+        -0.7069440484046936,
+        -0.00012040634464938194
+      ],
+      "translation": [
+        0.0013771047815680504,
+        0.014955517835915089,
+        -0.00017975748050957918
+      ]
+    },
+    {
+      "children": [
+        190
+      ],
+      "name": "FKOffsetShoulder_L",
+      "rotation": [
+        -0.5688617825508118,
+        0.36001110076904297,
+        0.26643699407577515,
+        0.6897823214530945
+      ],
+      "translation": [
+        -0.0017874601762741804,
+        4.622691309365409e-16,
+        -1.3322675997716858e-17
+      ]
+    },
+    {
+      "children": [
+        191
+      ],
+      "name": "FKExtraShoulder_L"
+    },
+    {
+      "children": [
+        192
+      ],
+      "name": "FKShoulder_L"
+    },
+    {
+      "children": [
+        193
+      ],
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "FKXShoulder_L"
+    },
+    {
+      "children": [
+        194
+      ],
+      "name": "FKOffsetElbow_L",
+      "rotation": [
+        2.1789157426050265e-18,
+        -1.0177715456455545e-17,
+        0.20934323966503143,
+        0.9778422117233276
+      ],
+      "translation": [
+        -0.0035132323391735554,
+        -5.306866290642309e-16,
+        -2.1141421438204775e-15
+      ]
+    },
+    {
+      "children": [
+        195
+      ],
+      "name": "FKExtraElbow_L"
+    },
+    {
+      "children": [
+        196
+      ],
+      "name": "FKElbow_L"
+    },
+    {
+      "children": [
+        197
+      ],
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "FKXElbow_L"
+    },
+    {
+      "children": [
+        198
+      ],
+      "name": "FKOffsetWrist_L",
+      "rotation": [
+        0.6271868944168091,
+        0.08912970870733261,
+        0.044236037880182266,
+        0.772486686706543
+      ],
+      "translation": [
+        -0.0030932838562875986,
+        -4.662936491667421e-16,
+        -2.289279969950697e-15
+      ]
+    },
+    {
+      "children": [
+        199
+      ],
+      "name": "FKExtraWrist_L"
+    },
+    {
+      "children": [
+        200
+      ],
+      "name": "FKWrist_L"
+    },
+    {
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "FKXWrist_L"
+    },
+    {
+      "children": [
+        202,
+        283,
+        402,
+        404
+      ],
+      "name": "IKSystem"
+    },
+    {
+      "children": [
+        203,
+        212,
+        221,
+        240,
+        249,
+        258,
+        265,
+        271,
+        277
+      ],
+      "name": "IKJoints"
+    },
+    {
+      "children": [
+        204,
+        211
+      ],
+      "name": "IKParentConstraintHip_R",
+      "rotation": [
+        0.4784598648548126,
+        0.5206497311592102,
+        0.4784598648548126,
+        0.5206497311592102
+      ],
+      "translation": [
+        2.1504753344408927e-19,
+        0.00742572033777833,
+        -0.00019331010116729885
+      ]
+    },
+    {
+      "children": [
+        205
+      ],
+      "name": "IKXOffsetHip_R",
+      "rotation": [
+        0.1968657672405243,
+        0.9784694910049438,
+        -0.03825688362121582,
+        0.048761896789073944
+      ],
+      "translation": [
+        -0.00104742671828717,
+        -0.00014736264711245894,
+        -0.0025529193226248026
+      ]
+    },
+    {
+      "children": [
+        206,
+        207
+      ],
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "IKXHip_R"
+    },
+    {
+      "name": "IKX2Hip_R"
+    },
+    {
+      "children": [
+        208,
+        209
+      ],
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "IKXKnee_R",
+      "rotation": [
+        3.971995983616837e-18,
+        9.620644882667421e-18,
+        -0.38161665201187134,
+        0.9243206977844238
+      ],
+      "translation": [
+        0.002414956921711564,
+        -1.6653344997146072e-18,
+        -1.6653344997146072e-18
+      ]
+    },
+    {
+      "name": "IKX2Knee_R"
+    },
+    {
+      "children": [
+        210
+      ],
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "IKXAnkle_R",
+      "rotation": [
+        -0.061182282865047455,
+        0.02725953795015812,
+        0.15010371804237366,
+        0.9863987565040588
+      ],
+      "translation": [
+        0.003122505731880665,
+        4.076600003109374e-18,
+        5.551114999048691e-19
+      ]
+    },
+    {
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "IKXToes_R",
+      "rotation": [
+        0.004411192145198584,
+        -0.004148824140429497,
+        0.6850986480712891,
+        0.7284250855445862
+      ],
+      "translation": [
+        0.0007276406395249069,
+        0.0014642722671851516,
+        6.422251917553509e-14
+      ]
+    },
+    {
+      "name": "IKMessureFromHip_R",
+      "rotation": [
+        0.1968657672405243,
+        0.9784694910049438,
+        -0.03825688362121582,
+        0.048761896789073944
+      ],
+      "translation": [
+        -0.00104742671828717,
+        -0.00014736264711245894,
+        -0.0025529193226248026
+      ]
+    },
+    {
+      "children": [
+        213,
+        220
+      ],
+      "name": "IKParentConstraintShoulder_R",
+      "rotation": [
+        -0.00012040634464938194,
+        0.7069440484046936,
+        0.7072694897651672,
+        2.7726811822503805e-05
+      ],
+      "translation": [
+        -0.0013771047815680504,
+        0.014955517835915089,
+        -0.00017975748050957918
+      ]
+    },
+    {
+      "children": [
+        214
+      ],
+      "name": "IKXOffsetShoulder_R",
+      "rotation": [
+        -0.5688617825508118,
+        0.36001110076904297,
+        0.26643699407577515,
+        0.6897823214530945
+      ],
+      "translation": [
+        0.0017874601762741804,
+        -7.438494450277006e-17,
+        2.2204459996194763e-18
+      ]
+    },
+    {
+      "children": [
+        215,
+        216
+      ],
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "IKXShoulder_R"
+    },
+    {
+      "name": "IKX2Shoulder_R"
+    },
+    {
+      "children": [
+        217,
+        218
+      ],
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "IKXElbow_R",
+      "rotation": [
+        -2.5687964882658716e-17,
+        -1.2595583412102134e-17,
+        0.20934316515922546,
+        0.9778422117233276
+      ],
+      "translation": [
+        0.0035132321063429117,
+        -2.2204459996194763e-18,
+        8.326672498573036e-19
+      ]
+    },
+    {
+      "name": "IKX2Elbow_R"
+    },
+    {
+      "children": [
+        219
+      ],
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "IKXWrist_R",
+      "rotation": [
+        0.6271868944168091,
+        0.08912976086139679,
+        0.04423610121011734,
+        0.772486686706543
+      ],
+      "translation": [
+        0.0030932838562875986,
+        9.992007618673103e-18,
+        6.661337998858429e-18
+      ]
+    },
+    {
+      "name": "IKX2Wrist_R"
+    },
+    {
+      "name": "IKMessureFromShoulder_R",
+      "rotation": [
+        -0.5688617825508118,
+        0.36001110076904297,
+        0.26643699407577515,
+        0.6897823214530945
+      ],
+      "translation": [
+        0.0017874601762741804,
+        -7.3864528783466e-17,
+        2.2204459996194763e-18
+      ]
+    },
+    {
+      "children": [
+        222,
+        230
+      ],
+      "name": "IKParentConstraintRoot_M",
+      "rotation": [
+        0.4784598648548126,
+        0.5206497311592102,
+        0.4784598648548126,
+        0.5206497311592102
+      ],
+      "translation": [
+        2.1504753344408927e-19,
+        0.00742572033777833,
+        -0.00019331010116729885
+      ]
+    },
+    {
+      "children": [
+        223
+      ],
+      "name": "IKXOffsetRoot_M"
+    },
+    {
+      "children": [
+        224
+      ],
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "IKXRoot_M"
+    },
+    {
+      "children": [
+        225
+      ],
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "IKXRootPart1_M",
+      "translation": [
+        0.0010543985990807414,
+        6.938893748810864e-20,
+        -2.7387208204018863e-19
+      ]
+    },
+    {
+      "children": [
+        226
+      ],
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "IKXRootPart2_M",
+      "translation": [
+        0.0010543985990807414,
+        -5.551114999048691e-19,
+        -2.7387208204018863e-19
+      ]
+    },
+    {
+      "children": [
+        227
+      ],
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "IKXSpine1_M",
+      "rotation": [
+        -4.945166613323142e-32,
+        8.417743698913202e-33,
+        0.016741588711738586,
+        0.9998598694801331
+      ],
+      "translation": [
+        0.0010543985990807414,
+        -4.857225753414575e-19,
+        -8.216162202711717e-19
+      ]
+    },
+    {
+      "children": [
+        228
+      ],
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "IKXSpine1Part1_M",
+      "translation": [
+        0.0008692024275660515,
+        2.7755574995243454e-19,
+        -2.2841788699494034e-19
+      ]
+    },
+    {
+      "children": [
+        229
+      ],
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "IKXSpine1Part2_M",
+      "translation": [
+        0.0008692024275660515,
+        6.245004761670689e-19,
+        -2.2841788699494034e-19
+      ]
+    },
+    {
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "IKXChest_M",
+      "rotation": [
+        -5.009834084044928e-32,
+        1.2586123808745806e-32,
+        0.05671999603509903,
+        0.9983901381492615
+      ],
+      "translation": [
+        0.0008692024275660515,
+        6.938893748810864e-20,
+        1.2151475517896395e-18
+      ]
+    },
+    {
+      "children": [
+        231,
+        237
+      ],
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "IKfake0Spine_M"
+    },
+    {
+      "children": [
+        232
+      ],
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "IKSpRootPart1_M",
+      "translation": [
+        0.0010543985990807414,
+        -4.857225753414575e-19,
+        -2.7387208204018863e-19
+      ]
+    },
+    {
+      "children": [
+        233
+      ],
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "IKSpRootPart2_M",
+      "rotation": [
+        1.1257140660903556e-16,
+        -7.65299644518242e-18,
+        0.002528930315747857,
+        0.9999967813491821
+      ],
+      "translation": [
+        0.0010543985990807414,
+        -9.71445150682915e-19,
+        -9.827944176539635e-20
+      ]
+    },
+    {
+      "children": [
+        234
+      ],
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "IKSpSpine1_M",
+      "rotation": [
+        1.0587167378127457e-16,
+        1.3916145165435276e-16,
+        -0.005595033522695303,
+        0.9999843239784241
+      ],
+      "translation": [
+        0.0010543985990807414,
+        -9.71445150682915e-19,
+        -6.460236123081221e-19
+      ]
+    },
+    {
+      "children": [
+        235
+      ],
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "IKSpSpine1Part1_M",
+      "rotation": [
+        1.1620947929194179e-16,
+        -1.3673417286487715e-16,
+        0.0030650878325104713,
+        0.9999952912330627
+      ],
+      "translation": [
+        0.0008687151712365448,
+        2.9099579478497617e-05,
+        -7.890168901587891e-20
+      ]
+    },
+    {
+      "children": [
+        236
+      ],
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "IKSpSpine1Part2_M",
+      "translation": [
+        0.0008687151712365448,
+        2.9099579478497617e-05,
+        -1.754025373679214e-19
+      ]
+    },
+    {
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "IKSpChest_M",
+      "translation": [
+        0.0008687151712365448,
+        2.9099579478497617e-05,
+        -7.255084313441083e-19
+      ]
+    },
+    {
+      "children": [
+        238,
+        239
+      ],
+      "name": "IKFixedOrientRoot_M"
+    },
+    {
+      "name": "IKAcRootFollowOffset_M"
+    },
+    {
+      "name": "IKSpRootFollowOffset_M"
+    },
+    {
+      "children": [
+        241,
+        248
+      ],
+      "name": "IKParentConstraintHip_L",
+      "rotation": [
+        0.4784598648548126,
+        0.5206497311592102,
+        0.4784598648548126,
+        0.5206497311592102
+      ],
+      "translation": [
+        2.1504753344408927e-19,
+        0.00742572033777833,
+        -0.00019331010116729885
+      ]
+    },
+    {
+      "children": [
+        242
+      ],
+      "name": "IKXOffsetHip_L",
+      "rotation": [
+        0.9784694910049438,
+        -0.1968657672405243,
+        -0.048761896789073944,
+        -0.03825688362121582
+      ],
+      "translation": [
+        -0.00104742671828717,
+        -0.00014736264711245894,
+        0.0025529193226248026
+      ]
+    },
+    {
+      "children": [
+        243,
+        244
+      ],
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "IKXHip_L"
+    },
+    {
+      "name": "IKX2Hip_L"
+    },
+    {
+      "children": [
+        245,
+        246
+      ],
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "IKXKnee_L",
+      "rotation": [
+        -9.061760301795968e-18,
+        -3.765765794836954e-18,
+        -0.38161665201187134,
+        0.9243206977844238
+      ],
+      "translation": [
+        -0.002414956921711564,
+        5.551114999048691e-19,
+        -2.2204459996194763e-18
+      ]
+    },
+    {
+      "name": "IKX2Knee_L"
+    },
+    {
+      "children": [
+        247
+      ],
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "IKXAnkle_L",
+      "rotation": [
+        -0.061182282865047455,
+        0.02725953795015812,
+        0.15010371804237366,
+        0.9863987565040588
+      ],
+      "translation": [
+        -0.003122505731880665,
+        -4.6837534678554404e-18,
+        -1.6653344997146072e-18
+      ]
+    },
+    {
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "IKXToes_L",
+      "rotation": [
+        0.0044116307981312275,
+        -0.004149238113313913,
+        0.6850986480712891,
+        0.7284250855445862
+      ],
+      "translation": [
+        -0.0007276406395249069,
+        -0.0014642722671851516,
+        -7.606526628185784e-14
+      ]
+    },
+    {
+      "name": "IKMessureFromHip_L",
+      "rotation": [
+        0.9784694910049438,
+        -0.1968657672405243,
+        -0.048761896789073944,
+        -0.03825688362121582
+      ],
+      "translation": [
+        -0.00104742671828717,
+        -0.00014736264711245894,
+        0.0025529193226248026
+      ]
+    },
+    {
+      "children": [
+        250,
+        257
+      ],
+      "name": "IKParentConstraintShoulder_L",
+      "rotation": [
+        -2.7726811822503805e-05,
+        0.7072694897651672,
+        -0.7069440484046936,
+        -0.00012040634464938194
+      ],
+      "translation": [
+        0.0013771047815680504,
+        0.014955517835915089,
+        -0.00017975748050957918
+      ]
+    },
+    {
+      "children": [
+        251
+      ],
+      "name": "IKXOffsetShoulder_L",
+      "rotation": [
+        -0.5688617825508118,
+        0.36001110076904297,
+        0.26643699407577515,
+        0.6897823214530945
+      ],
+      "translation": [
+        -0.0017874601762741804,
+        4.618874896542436e-16,
+        -1.3322675997716858e-17
+      ]
+    },
+    {
+      "children": [
+        252,
+        253
+      ],
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "IKXShoulder_L"
+    },
+    {
+      "name": "IKX2Shoulder_L"
+    },
+    {
+      "children": [
+        254,
+        255
+      ],
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "IKXElbow_L",
+      "rotation": [
+        3.004579388632693e-17,
+        -7.759846673628344e-18,
+        0.20934316515922546,
+        0.9778422117233276
+      ],
+      "translation": [
+        -0.0035132321063429117,
+        -5.329070729958988e-16,
+        -2.112754492094638e-15
+      ]
+    },
+    {
+      "name": "IKX2Elbow_L"
+    },
+    {
+      "children": [
+        256
+      ],
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "IKXWrist_L",
+      "rotation": [
+        0.6271868944168091,
+        0.08912976086139679,
+        0.04423610121011734,
+        0.772486686706543
+      ],
+      "translation": [
+        -0.0030932838562875986,
+        -4.640732052350741e-16,
+        -2.290112603337848e-15
+      ]
+    },
+    {
+      "name": "IKX2Wrist_L"
+    },
+    {
+      "name": "IKMessureFromShoulder_L",
+      "rotation": [
+        -0.5688617825508118,
+        0.36001110076904297,
+        0.26643699407577515,
+        0.6897823214530945
+      ],
+      "translation": [
+        -0.0017874601762741804,
+        4.617486821300123e-16,
+        -1.1102230411687688e-17
+      ]
+    },
+    {
+      "children": [
+        259,
+        260,
+        261,
+        262,
+        263,
+        264
+      ],
+      "name": "IKSpSpineOffset_M",
+      "rotation": [
+        0.4784598648548126,
+        0.5206497311592102,
+        0.4784598648548126,
+        0.5206497311592102
+      ],
+      "translation": [
+        2.1504753344408927e-19,
+        0.00742572033777833,
+        -0.00019331010116729885
+      ]
+    },
+    {
+      "name": "IKSpRootPart1FollowOffset_M",
+      "translation": [
+        0.0010543985990807414,
+        -3.4694470036524025e-19,
+        -2.7387208204018863e-19
+      ]
+    },
+    {
+      "name": "IKSpRootPart2FollowOffset_M",
+      "translation": [
+        0.002108797198161483,
+        -9.020561744207152e-19,
+        -5.477441640803773e-19
+      ]
+    },
+    {
+      "name": "IKSpSpine1FollowOffset_M",
+      "rotation": [
+        1.4186975887283175e-34,
+        -8.472903771325538e-33,
+        0.016741588711738586,
+        0.9998598694801331
+      ],
+      "translation": [
+        0.0031631956808269024,
+        -1.179611976071938e-18,
+        -1.369360384351549e-18
+      ]
+    },
+    {
+      "name": "IKSpSpine1Part1FollowOffset_M",
+      "rotation": [
+        1.2897250806621069e-34,
+        -7.702639792114125e-33,
+        0.016741588711738586,
+        0.9998598694801331
+      ],
+      "translation": [
+        0.00403191102668643,
+        2.9099579478497617e-05,
+        -1.5913168275397138e-18
+      ]
+    },
+    {
+      "name": "IKSpSpine1Part2FollowOffset_M",
+      "rotation": [
+        1.2897250806621069e-34,
+        -7.702639792114125e-33,
+        0.016741588711738586,
+        0.9998598694801331
+      ],
+      "translation": [
+        0.00490062590688467,
+        5.8199158956995234e-05,
+        -1.813273374125455e-18
+      ]
+    },
+    {
+      "name": "IKSpChestFollowOffset_M",
+      "rotation": [
+        5.090927361812129e-34,
+        -6.91463172567705e-33,
+        0.07342668622732162,
+        0.9973006248474121
+      ],
+      "translation": [
+        0.005769341252744198,
+        8.729873661650345e-05,
+        -2.48883488232481e-18
+      ]
+    },
+    {
+      "children": [
+        266,
+        267,
+        268,
+        269,
+        270
+      ],
+      "name": "IKAcSpineOffset_M",
+      "rotation": [
+        0.4784598648548126,
+        0.5206497311592102,
+        0.4784598648548126,
+        0.5206497311592102
+      ],
+      "translation": [
+        2.1504753344408927e-19,
+        0.00742572033777833,
+        -0.00019331010116729885
+      ]
+    },
+    {
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "IKAcRootPart1_M",
+      "translation": [
+        0.0010543984826654196,
+        -1.340751945230756e-12,
+        -2.800127090162643e-19
+      ]
+    },
+    {
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "IKAcRootPart2_M",
+      "rotation": [
+        -1.2041576050727382e-32,
+        2.313291712879021e-16,
+        2.5882061891024932e-05,
+        1.0
+      ],
+      "translation": [
+        0.002108797198161483,
+        1.4933104752756776e-09,
+        -6.5873412129940025e-19
+      ]
+    },
+    {
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "IKAcSpine1_M",
+      "rotation": [
+        -1.5600543889579218e-32,
+        2.491931226152749e-16,
+        0.008097000420093536,
+        0.9999672174453735
+      ],
+      "translation": [
+        0.003163181943818927,
+        5.334474280971335e-06,
+        -1.2892028606824041e-18
+      ]
+    },
+    {
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "IKAcSpine1Part1_M",
+      "rotation": [
+        -5.335570621623889e-32,
+        1.197507519908446e-16,
+        0.016703713685274124,
+        0.9998604655265808
+      ],
+      "translation": [
+        0.0040320600382983685,
+        2.910636794695165e-05,
+        -1.609099763143532e-18
+      ]
+    },
+    {
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "IKAcSpine1Part2_M",
+      "rotation": [
+        -3.3130638246146205e-32,
+        -3.2238293671669365e-16,
+        0.016741586849093437,
+        0.9998598694801331
+      ],
+      "translation": [
+        0.004900774452835321,
+        5.82041175221093e-05,
+        -1.5472234479996918e-18
+      ]
+    },
+    {
+      "children": [
+        272,
+        273,
+        274,
+        275,
+        276
+      ],
+      "name": "IKAcSpineOffset3_M"
+    },
+    {
+      "name": "IKAcPociXformRootPart1_M",
+      "translation": [
+        -6.496516910982651e-20,
+        0.008476365357637405,
+        -0.0002822007518261671
+      ]
+    },
+    {
+      "name": "IKAcPociXformRootPart2_M",
+      "translation": [
+        -4.4368592869576035e-19,
+        0.009527010843157768,
+        -0.00037108996184542775
+      ]
+    },
+    {
+      "name": "IKAcPociXformSpine1_M",
+      "translation": [
+        -1.07178629488866e-18,
+        0.010578091256320477,
+        -0.0004546654818113893
+      ]
+    },
+    {
+      "name": "IKAcPociXformSpine1Part1_M",
+      "translation": [
+        -1.3811264081796564e-18,
+        0.011445879936218262,
+        -0.0005042286356911063
+      ]
+    },
+    {
+      "name": "IKAcPociXformSpine1Part2_M",
+      "translation": [
+        -1.3063281876992426e-18,
+        0.012313954532146454,
+        -0.0005484711145982146
+      ]
+    },
+    {
+      "children": [
+        278,
+        279,
+        280,
+        281,
+        282
+      ],
+      "name": "IKAcSpineOffset2_M",
+      "rotation": [
+        0.4784598648548126,
+        0.5206497311592102,
+        0.4784598648548126,
+        0.5206497311592102
+      ],
+      "translation": [
+        2.1504753344408927e-19,
+        0.00742572033777833,
+        -0.00019331010116729885
+      ]
+    },
+    {
+      "name": "IKAcRootPart1FollowOffset_M",
+      "translation": [
+        0.0010543985990807414,
+        0.0,
+        -2.7387208204018863e-19
+      ]
+    },
+    {
+      "name": "IKAcRootPart2FollowOffset_M",
+      "translation": [
+        0.002108797198161483,
+        -5.551114999048691e-19,
+        -5.477441640803773e-19
+      ]
+    },
+    {
+      "name": "IKAcSpine1FollowOffset_M",
+      "rotation": [
+        1.2285532270825285e-32,
+        2.517148134211167e-33,
+        0.016741588711738586,
+        0.9998598694801331
+      ],
+      "translation": [
+        0.0031631956808269024,
+        -1.0408341269451149e-18,
+        -1.369360384351549e-18
+      ]
+    },
+    {
+      "name": "IKAcSpine1Part1FollowOffset_M",
+      "rotation": [
+        1.2259738251348398e-32,
+        4.057676092633992e-33,
+        0.016741588711738586,
+        0.9998598694801331
+      ],
+      "translation": [
+        0.00403191102668643,
+        2.9099579478497617e-05,
+        -1.5913168275397138e-18
+      ]
+    },
+    {
+      "name": "IKAcSpine1Part2FollowOffset_M",
+      "rotation": [
+        -1.93458750619879e-34,
+        1.1553960422855157e-32,
+        0.016741586849093437,
+        0.9998598694801331
+      ],
+      "translation": [
+        0.00490062590688467,
+        5.8199158956995234e-05,
+        -1.813273374125455e-18
+      ]
+    },
+    {
+      "children": [
+        284
+      ],
+      "name": "IKHandle"
+    },
+    {
+      "children": [
+        285,
+        304,
+        307,
+        313,
+        316,
+        320,
+        324,
+        328,
+        332,
+        336,
+        341,
+        364,
+        383,
+        386,
+        392,
+        395,
+        396,
+        397,
+        398,
+        399,
+        400,
+        401
+      ],
+      "name": "IKHandleFollowMain"
+    },
+    {
+      "children": [
+        286
+      ],
+      "name": "IKOffsetLeg_R",
+      "translation": [
+        -0.0029416263569146395,
+        0.001261721714399755,
+        -8.057714148890227e-05
+      ]
+    },
+    {
+      "children": [
+        287
+      ],
+      "name": "IKExtraLeg_R"
+    },
+    {
+      "children": [
+        288
+      ],
+      "name": "IKLeg_R"
+    },
+    {
+      "children": [
+        289
+      ],
+      "name": "IKLegFootRockInnerPivot_R",
+      "rotation": [
+        0.0,
+        0.0060559906996786594,
+        0.0,
+        0.9999816417694092
+      ],
+      "translation": [
+        0.001354848500341177,
+        -0.001261721714399755,
+        0.0014640551526099443
+      ]
+    },
+    {
+      "children": [
+        290,
+        291
+      ],
+      "name": "IKLegFootRockOuterPivot_R",
+      "translation": [
+        -0.0025886876974254847,
+        0.0,
+        -3.1355863029602915e-05
+      ]
+    },
+    {
+      "name": "IKFKAlignedLeg_R",
+      "rotation": [
+        0.5,
+        -0.5,
+        -0.5,
+        0.5
+      ],
+      "translation": [
+        0.001251670764759183,
+        0.001261721714399755,
+        -0.0014490014873445034
+      ]
+    },
+    {
+      "children": [
+        292
+      ],
+      "name": "RollOffsetHeel_R",
+      "translation": [
+        0.0012627138057723641,
+        0.00034602725645527244,
+        -0.002360704354941845
+      ]
+    },
+    {
+      "children": [
+        293
+      ],
+      "name": "RollRollerHeel_R"
+    },
+    {
+      "children": [
+        294
+      ],
+      "name": "RollExtraHeel_R"
+    },
+    {
+      "children": [
+        295
+      ],
+      "name": "RollHeel_R"
+    },
+    {
+      "children": [
+        296
+      ],
+      "name": "RollOffsetToesEnd_R",
+      "translation": [
+        -2.9281094612088054e-05,
+        9.566146036377177e-05,
+        0.0038815976586192846
+      ]
+    },
+    {
+      "children": [
+        297
+      ],
+      "name": "RollRollerToesEnd_R"
+    },
+    {
+      "children": [
+        298
+      ],
+      "name": "RollExtraToesEnd_R"
+    },
+    {
+      "children": [
+        299
+      ],
+      "name": "RollToesEnd_R"
+    },
+    {
+      "children": [
+        300
+      ],
+      "name": "RollOffsetToes_R",
+      "translation": [
+        1.823795355448965e-05,
+        9.239235077984631e-05,
+        -0.0015056224074214697
+      ]
+    },
+    {
+      "children": [
+        301
+      ],
+      "name": "RollRollerToes_R"
+    },
+    {
+      "children": [
+        302
+      ],
+      "name": "RollExtraToes_R"
+    },
+    {
+      "children": [
+        303
+      ],
+      "name": "RollToes_R"
+    },
+    {
+      "name": "IKmessureConstrainToLeg_R",
+      "rotation": [
+        0.0,
+        -0.0060559906996786594,
+        0.0,
+        0.9999816417694092
+      ],
+      "translation": [
+        1.9475443393396352e-12,
+        0.0007276406395249069,
+        -0.0014642722671851516
+      ]
+    },
+    {
+      "children": [
+        305
+      ],
+      "name": "PoleOffsetLeg_R",
+      "translation": [
+        -0.00324084609746933,
+        0.004658205900341272,
+        0.005311769433319569
+      ]
+    },
+    {
+      "children": [
+        306
+      ],
+      "name": "PoleExtraLeg_R"
+    },
+    {
+      "name": "PoleLeg_R"
+    },
+    {
+      "children": [
+        308
+      ],
+      "name": "IKOffsetArm_R",
+      "translation": [
+        -0.005973266437649727,
+        0.009137019515037537,
+        -0.00018266969709657133
+      ]
+    },
+    {
+      "children": [
+        309
+      ],
+      "name": "IKExtraArm_R"
+    },
+    {
+      "children": [
+        310,
+        312
+      ],
+      "name": "IKArm_R"
+    },
+    {
+      "children": [
+        311
+      ],
+      "name": "IKFKAlignedOffsetArm_R",
+      "rotation": [
+        -0.4898645579814911,
+        0.5097123384475708,
+        0.5079756379127502,
+        -0.4921247661113739
+      ],
+      "translation": [
+        0.0,
+        1.1102229998097382e-18,
+        3.469446874405432e-20
+      ]
+    },
+    {
+      "name": "IKFKAlignedArm_R"
+    },
+    {
+      "name": "IKmessureConstrainToArm_R"
+    },
+    {
+      "children": [
+        314
+      ],
+      "name": "PoleOffsetArm_R",
+      "translation": [
+        -0.010506967082619667,
+        0.014585459604859352,
+        -0.0016014700522646308
+      ]
+    },
+    {
+      "children": [
+        315
+      ],
+      "name": "PoleExtraArm_R"
+    },
+    {
+      "name": "PoleArm_R"
+    },
+    {
+      "children": [
+        317
+      ],
+      "name": "IKOffsetcvSpine1_M",
+      "translation": [
+        -5.882454859609936e-20,
+        0.008476365357637405,
+        -0.00028220078092999756
+      ]
+    },
+    {
+      "children": [
+        318
+      ],
+      "name": "IKExtracvSpine1_M"
+    },
+    {
+      "children": [
+        319
+      ],
+      "name": "IKcvSpine1_M"
+    },
+    {
+      "name": "IKSpineLocator1_M"
+    },
+    {
+      "children": [
+        321
+      ],
+      "name": "IKOffsetcvSpine2_M",
+      "translation": [
+        -3.326966177115909e-19,
+        0.009527009911835194,
+        -0.00037109144614078104
+      ]
+    },
+    {
+      "children": [
+        322
+      ],
+      "name": "IKExtracvSpine2_M"
+    },
+    {
+      "children": [
+        323
+      ],
+      "name": "IKcvSpine2_M"
+    },
+    {
+      "name": "IKSpineLocator2_M"
+    },
+    {
+      "children": [
+        325
+      ],
+      "name": "IKOffsetcvSpine3_M",
+      "translation": [
+        -1.1543128638321568e-18,
+        0.010577655397355556,
+        -0.0004599821113515645
+      ]
+    },
+    {
+      "children": [
+        326
+      ],
+      "name": "IKExtracvSpine3_M"
+    },
+    {
+      "children": [
+        327
+      ],
+      "name": "IKcvSpine3_M"
+    },
+    {
+      "name": "IKSpineLocator3_M"
+    },
+    {
+      "children": [
+        329
+      ],
+      "name": "IKOffsetcvSpine4_M",
+      "translation": [
+        -1.3811153446389635e-18,
+        0.011445730924606323,
+        -0.000504222814925015
+      ]
+    },
+    {
+      "children": [
+        330
+      ],
+      "name": "IKExtracvSpine4_M"
+    },
+    {
+      "children": [
+        331
+      ],
+      "name": "IKcvSpine4_M"
+    },
+    {
+      "name": "IKSpineLocator4_M"
+    },
+    {
+      "children": [
+        333
+      ],
+      "name": "IKOffsetcvSpine5_M",
+      "translation": [
+        -1.6079179288433468e-18,
+        0.01231380645185709,
+        -0.0005484635476022959
+      ]
+    },
+    {
+      "children": [
+        334
+      ],
+      "name": "IKExtracvSpine5_M"
+    },
+    {
+      "children": [
+        335
+      ],
+      "name": "IKcvSpine5_M"
+    },
+    {
+      "name": "IKSpineLocator5_M"
+    },
+    {
+      "children": [
+        337
+      ],
+      "name": "IKOffsetSpine2_M",
+      "translation": [
+        -9.08498050236125e-19,
+        0.01030133105814457,
+        -0.00043454571277834475
+      ]
+    },
+    {
+      "children": [
+        338
+      ],
+      "name": "IKExtraSpine2_M"
+    },
+    {
+      "children": [
+        339
+      ],
+      "name": "IKSpine2_M"
+    },
+    {
+      "children": [
+        340
+      ],
+      "name": "IKSpine2LocalOrient1_M",
+      "rotation": [
+        0.4784598648548126,
+        0.5206497311592102,
+        0.4784598648548126,
+        0.5206497311592102
+      ],
+      "translation": [
+        -1.232595136857182e-34,
+        2.2204459996194763e-18,
+        -1.3877787497621727e-19
+      ]
+    },
+    {
+      "name": "IKSpine2LocalOrient2_M"
+    },
+    {
+      "children": [
+        342
+      ],
+      "name": "IKOffsetConstrainedSpine1_M",
+      "translation": [
+        2.1504753344408927e-19,
+        0.00742572033777833,
+        -0.00019331010116729885
+      ]
+    },
+    {
+      "children": [
+        343,
+        349
+      ],
+      "name": "IKhybridOffsetSpine1_M",
+      "rotation": [
+        0.4784598648548126,
+        0.5206497311592102,
+        0.4784598648548126,
+        0.5206497311592102
+      ],
+      "translation": [
+        0.0,
+        1.1102229998097382e-18,
+        -1.0408340623216295e-19
+      ]
+    },
+    {
+      "children": [
+        344
+      ],
+      "name": "IKOffsetSpine1_M",
+      "rotation": [
+        -0.4784598648548126,
+        -0.5206497311592102,
+        -0.4784598648548126,
+        0.5206497311592102
+      ],
+      "translation": [
+        0.0,
+        6.938893748810864e-20,
+        0.0
+      ]
+    },
+    {
+      "children": [
+        345
+      ],
+      "name": "IKExtraSpine1_M"
+    },
+    {
+      "children": [
+        346,
+        347
+      ],
+      "name": "IKSpine1_M"
+    },
+    {
+      "name": "IKSpineLocator0_M"
+    },
+    {
+      "children": [
+        348
+      ],
+      "name": "IKSpine1LocalOrient1_M",
+      "rotation": [
+        0.4784598648548126,
+        0.5206497311592102,
+        0.4784598648548126,
+        0.5206497311592102
+      ],
+      "translation": [
+        -6.16297568428591e-35,
+        1.1102229998097382e-18,
+        -1.0408340623216295e-19
+      ]
+    },
+    {
+      "name": "IKSpine1LocalOrient2_M"
+    },
+    {
+      "children": [
+        350
+      ],
+      "name": "IKhybridFollowSpine1_M"
+    },
+    {
+      "children": [
+        351
+      ],
+      "name": "IKhybridExtraSpine1_M"
+    },
+    {
+      "children": [
+        352
+      ],
+      "name": "IKhybridSpine1_M"
+    },
+    {
+      "children": [
+        353
+      ],
+      "name": "IKhybridOffsetSpine2_M",
+      "rotation": [
+        -1.8419038449489325e-32,
+        -1.7407618130786874e-32,
+        0.004023398272693157,
+        0.9999918937683105
+      ],
+      "translation": [
+        0.0028857106808573008,
+        2.0504342046478996e-06,
+        -1.1235455707555172e-18
+      ]
+    },
+    {
+      "children": [
+        354
+      ],
+      "name": "IKhybridExtraSpine2_M"
+    },
+    {
+      "children": [
+        355
+      ],
+      "name": "IKhybridSpine2_M"
+    },
+    {
+      "children": [
+        356
+      ],
+      "name": "IKhybridOffsetSpine3_M",
+      "rotation": [
+        1.4697101692440106e-35,
+        -1.1554644780972527e-33,
+        0.012718619778752327,
+        0.9999191164970398
+      ],
+      "translation": [
+        0.002884223125874996,
+        6.204175588209182e-05,
+        5.512653168516506e-19
+      ]
+    },
+    {
+      "children": [
+        357
+      ],
+      "name": "IKhybridExtraSpine3_M"
+    },
+    {
+      "children": [
+        358
+      ],
+      "name": "IKhybridSpine3_M"
+    },
+    {
+      "children": [
+        359
+      ],
+      "name": "IKOffsetSpine3_M",
+      "rotation": [
+        -0.48710930347442627,
+        -0.5125665664672852,
+        -0.48710930347442627,
+        0.5125665664672852
+      ],
+      "translation": [
+        0.0,
+        6.938893748810864e-20,
+        -1.232595136857182e-34
+      ]
+    },
+    {
+      "children": [
+        360
+      ],
+      "name": "IKExtraSpine3_M"
+    },
+    {
+      "children": [
+        361,
+        362
+      ],
+      "name": "IKSpine3_M"
+    },
+    {
+      "name": "IKSpineLocator6_M"
+    },
+    {
+      "children": [
+        363
+      ],
+      "name": "IKSpine3LocalOrient1_M",
+      "rotation": [
+        0.5153979063034058,
+        0.48411259055137634,
+        0.5153979063034058,
+        0.48411259055137634
+      ],
+      "translation": [
+        0.0,
+        2.2204459996194763e-18,
+        2.7755574995243454e-19
+      ]
+    },
+    {
+      "name": "IKSpine3LocalOrient2_M"
+    },
+    {
+      "children": [
+        365
+      ],
+      "name": "IKOffsetLeg_L",
+      "translation": [
+        0.0029416263569146395,
+        0.001261721714399755,
+        -8.057713421294466e-05
+      ]
+    },
+    {
+      "children": [
+        366
+      ],
+      "name": "IKExtraLeg_L"
+    },
+    {
+      "children": [
+        367
+      ],
+      "name": "IKLeg_L"
+    },
+    {
+      "children": [
+        368
+      ],
+      "name": "IKLegFootRockInnerPivot_L",
+      "rotation": [
+        0.0,
+        -0.0060559906996786594,
+        0.0,
+        0.9999816417694092
+      ],
+      "translation": [
+        -0.001354848500341177,
+        -0.001261721714399755,
+        0.0014640550361946225
+      ]
+    },
+    {
+      "children": [
+        369,
+        370
+      ],
+      "name": "IKLegFootRockOuterPivot_L",
+      "translation": [
+        0.0025886876974254847,
+        0.0,
+        -3.1355863029602915e-05
+      ]
+    },
+    {
+      "name": "IKFKAlignedLeg_L",
+      "rotation": [
+        -0.5,
+        -0.5,
+        0.5,
+        0.5
+      ],
+      "translation": [
+        -0.001251670764759183,
+        0.001261721714399755,
+        -0.0014490014873445034
+      ]
+    },
+    {
+      "children": [
+        371
+      ],
+      "name": "RollOffsetHeel_L",
+      "translation": [
+        -0.0012627138057723641,
+        0.00034602725645527244,
+        -0.002360704354941845
+      ]
+    },
+    {
+      "children": [
+        372
+      ],
+      "name": "RollRollerHeel_L"
+    },
+    {
+      "children": [
+        373
+      ],
+      "name": "RollExtraHeel_L"
+    },
+    {
+      "children": [
+        374
+      ],
+      "name": "RollHeel_L"
+    },
+    {
+      "children": [
+        375
+      ],
+      "name": "RollOffsetToesEnd_L",
+      "translation": [
+        2.9281080060172826e-05,
+        9.566146763972938e-05,
+        0.0038815976586192846
+      ]
+    },
+    {
+      "children": [
+        376
+      ],
+      "name": "RollRollerToesEnd_L"
+    },
+    {
+      "children": [
+        377
+      ],
+      "name": "RollExtraToesEnd_L"
+    },
+    {
+      "children": [
+        378
+      ],
+      "name": "RollToesEnd_L"
+    },
+    {
+      "children": [
+        379
+      ],
+      "name": "RollOffsetToes_L",
+      "translation": [
+        -1.823793900257442e-05,
+        9.239235077984631e-05,
+        -0.0015056224074214697
+      ]
+    },
+    {
+      "children": [
+        380
+      ],
+      "name": "RollRollerToes_L"
+    },
+    {
+      "children": [
+        381
+      ],
+      "name": "RollExtraToes_L"
+    },
+    {
+      "children": [
+        382
+      ],
+      "name": "RollToes_L"
+    },
+    {
+      "name": "IKmessureConstrainToLeg_L",
+      "rotation": [
+        0.0,
+        0.0060559906996786594,
+        0.0,
+        0.9999816417694092
+      ],
+      "translation": [
+        -2.479683125500287e-13,
+        0.0007276406395249069,
+        -0.0014642722671851516
+      ]
+    },
+    {
+      "children": [
+        384
+      ],
+      "name": "PoleOffsetLeg_L",
+      "translation": [
+        0.00324084609746933,
+        0.004658205900341272,
+        0.005311769433319569
+      ]
+    },
+    {
+      "children": [
+        385
+      ],
+      "name": "PoleExtraLeg_L"
+    },
+    {
+      "name": "PoleLeg_L"
+    },
+    {
+      "children": [
+        387
+      ],
+      "name": "IKOffsetArm_L",
+      "translation": [
+        0.005973266437649727,
+        0.009137019515037537,
+        -0.00018266969709657133
+      ]
+    },
+    {
+      "children": [
+        388
+      ],
+      "name": "IKExtraArm_L"
+    },
+    {
+      "children": [
+        389,
+        391
+      ],
+      "name": "IKArm_L"
+    },
+    {
+      "children": [
+        390
+      ],
+      "name": "IKFKAlignedOffsetArm_L",
+      "rotation": [
+        -0.4921247661113739,
+        -0.5079756379127502,
+        0.5097123384475708,
+        0.4898645281791687
+      ]
+    },
+    {
+      "name": "IKFKAlignedArm_L"
+    },
+    {
+      "name": "IKmessureConstrainToArm_L"
+    },
+    {
+      "children": [
+        393
+      ],
+      "name": "PoleOffsetArm_L",
+      "translation": [
+        0.010506967082619667,
+        0.014585459604859352,
+        -0.0016014700522646308
+      ]
+    },
+    {
+      "children": [
+        394
+      ],
+      "name": "PoleExtraArm_L"
+    },
+    {
+      "name": "PoleArm_L"
+    },
+    {
+      "name": "IKScalerRoot_M"
+    },
+    {
+      "name": "IKScalerRootPart1_M"
+    },
+    {
+      "name": "IKScalerRootPart2_M"
+    },
+    {
+      "name": "IKScalerSpine1_M"
+    },
+    {
+      "name": "IKScalerSpine1Part1_M"
+    },
+    {
+      "name": "IKScalerSpine1Part2_M"
+    },
+    {
+      "name": "IKScalerChest_M"
+    },
+    {
+      "children": [
+        403
+      ],
+      "name": "IKCurve"
+    },
+    {
+      "name": "IKSpineCurve_M"
+    },
+    {
+      "children": [
+        405,
+        407,
+        408,
+        410,
+        411,
+        413,
+        414,
+        416
+      ],
+      "name": "IKMessure"
+    },
+    {
+      "children": [
+        406
+      ],
+      "name": "IKmessureLoc1Leg_R",
+      "translation": [
+        -0.0025529193226248026,
+        0.006369599141180515,
+        -0.0002518452238291502
+      ]
+    },
+    {
+      "name": "IKmessureLoc2Leg_R",
+      "translation": [
+        -0.00038870685966685414,
+        -0.0051078773103654385,
+        0.00017126808234024793
+      ]
+    },
+    {
+      "name": "IKdistanceLeg_R"
+    },
+    {
+      "children": [
+        409
+      ],
+      "name": "IKmessureLoc1Arm_R",
+      "translation": [
+        -0.003164564957842231,
+        0.014955283142626286,
+        -0.00018013198859989643
+      ]
+    },
+    {
+      "name": "IKmessureLoc2Arm_R",
+      "translation": [
+        -0.0028087017126381397,
+        -0.005818264093250036,
+        -2.5377132715220796e-06
+      ]
+    },
+    {
+      "name": "IKdistanceArm_R"
+    },
+    {
+      "children": [
+        412
+      ],
+      "name": "IKmessureLoc1Leg_L",
+      "translation": [
+        0.0025529193226248026,
+        0.006369599141180515,
+        -0.0002518452238291502
+      ]
+    },
+    {
+      "name": "IKmessureLoc2Leg_L",
+      "translation": [
+        0.00038870685966685414,
+        -0.0051078773103654385,
+        0.00017126808234024793
+      ]
+    },
+    {
+      "name": "IKdistanceLeg_L"
+    },
+    {
+      "children": [
+        415
+      ],
+      "name": "IKmessureLoc1Arm_L",
+      "translation": [
+        0.003164564957842231,
+        0.014955283142626286,
+        -0.00018013198859989643
+      ]
+    },
+    {
+      "name": "IKmessureLoc2Arm_L",
+      "translation": [
+        0.0028087017126381397,
+        -0.005818264093250036,
+        -2.53770826930122e-06
+      ]
+    },
+    {
+      "name": "IKdistanceArm_L"
+    },
+    {
+      "children": [
+        418,
+        420,
+        422,
+        424,
+        426
+      ],
+      "name": "FKIKSystem"
+    },
+    {
+      "children": [
+        419
+      ],
+      "name": "FKIKParentConstraintLeg_R",
+      "rotation": [
+        0.4784598648548126,
+        0.5206497311592102,
+        0.4784598648548126,
+        0.5206497311592102
+      ],
+      "translation": [
+        2.1504753344408927e-19,
+        0.00742572033777833,
+        -0.00019331010116729885
+      ]
+    },
+    {
+      "name": "FKIKLeg_R",
+      "rotation": [
+        -0.4784598648548126,
+        -0.5206497311592102,
+        -0.4784598648548126,
+        0.5206497311592102
+      ],
+      "translation": [
+        -0.002375810407102108,
+        0.00032840025960467756,
+        -0.003976175561547279
+      ]
+    },
+    {
+      "children": [
+        421
+      ],
+      "name": "FKIKParentConstraintArm_R",
+      "rotation": [
+        -0.00012040634464938194,
+        0.7069440484046936,
+        0.7072694897651672,
+        2.7726811822503805e-05
+      ],
+      "translation": [
+        -0.0013771047815680504,
+        0.014955517835915089,
+        -0.00017975748050957918
+      ]
+    },
+    {
+      "name": "FKIKArm_R",
+      "rotation": [
+        -0.00012040634464938194,
+        0.7069440484046936,
+        0.7072694897651672,
+        -2.7726811822503805e-05
+      ],
+      "translation": [
+        0.002917869482189417,
+        0.0009314449271187186,
+        -0.0011504453141242266
+      ]
+    },
+    {
+      "children": [
+        423
+      ],
+      "name": "FKIKParentConstraintSpine_M",
+      "rotation": [
+        0.4784598648548126,
+        0.5206497311592102,
+        0.4784598648548126,
+        0.5206497311592102
+      ],
+      "translation": [
+        2.1504753344408927e-19,
+        0.00742572033777833,
+        -0.00019331010116729885
+      ]
+    },
+    {
+      "name": "FKIKSpine_M",
+      "rotation": [
+        -0.4784598648548126,
+        -0.5206497311592102,
+        -0.4784598648548126,
+        0.5206497311592102
+      ],
+      "translation": [
+        0.0015578664606437087,
+        -1.3877787497621727e-19,
+        0.0021664206869900227
+      ]
+    },
+    {
+      "children": [
+        425
+      ],
+      "name": "FKIKParentConstraintLeg_L",
+      "rotation": [
+        0.4784598648548126,
+        0.5206497311592102,
+        0.4784598648548126,
+        0.5206497311592102
+      ],
+      "translation": [
+        2.1504753344408927e-19,
+        0.00742572033777833,
+        -0.00019331010116729885
+      ]
+    },
+    {
+      "name": "FKIKLeg_L",
+      "rotation": [
+        -0.4784598648548126,
+        -0.5206497311592102,
+        -0.4784598648548126,
+        0.5206497311592102
+      ],
+      "translation": [
+        -0.002375810407102108,
+        0.00032840025960467756,
+        0.003976175561547279
+      ]
+    },
+    {
+      "children": [
+        427
+      ],
+      "name": "FKIKParentConstraintArm_L",
+      "rotation": [
+        -2.7726811822503805e-05,
+        0.7072694897651672,
+        -0.7069440484046936,
+        -0.00012040634464938194
+      ],
+      "translation": [
+        0.0013771047815680504,
+        0.014955517835915089,
+        -0.00017975748050957918
+      ]
+    },
+    {
+      "name": "FKIKArm_L",
+      "rotation": [
+        -2.7726811822503805e-05,
+        0.7072694897651672,
+        -0.7069440484046936,
+        0.00012040634464938194
+      ],
+      "translation": [
+        -0.002917869482189417,
+        -0.0009314449271187186,
+        0.0011504453141242266
+      ]
+    },
+    {
+      "children": [
+        429,
+        433,
+        437,
+        444,
+        448,
+        455,
+        462,
+        466,
+        473,
+        477,
+        484,
+        491,
+        492,
+        493,
+        494,
+        495,
+        496
+      ],
+      "name": "TwistSystem"
+    },
+    {
+      "children": [
+        430
+      ],
+      "name": "TwistFollowParentOffsetHead_M",
+      "rotation": [
+        0.503472089767456,
+        0.496503621339798,
+        0.503472089767456,
+        0.496503621339798
+      ],
+      "translation": [
+        2.8144352985070674e-18,
+        0.01599762961268425,
+        -0.00041626201709732413
+      ]
+    },
+    {
+      "children": [
+        431
+      ],
+      "name": "TwistFollowParentHead_M"
+    },
+    {
+      "children": [
+        432
+      ],
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "UnTwistHead_M",
+      "rotation": [
+        -7.370471748912075e-17,
+        9.635284325148385e-17,
+        -0.006914712954312563,
+        0.9999760985374451
+      ],
+      "translation": [
+        0.0004403888597153127,
+        -5.551114999048691e-19,
+        -3.392625706188837e-19
+      ]
+    },
+    {
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "TwistBalancerHead_M"
+    },
+    {
+      "children": [
+        434
+      ],
+      "name": "TwistFollowParentOffsetKnee_R",
+      "rotation": [
+        0.36224809288978577,
+        -0.6473245024681091,
+        -0.36907243728637695,
+        0.559939980506897
+      ],
+      "translation": [
+        -0.0025529193226248026,
+        0.006369599141180515,
+        -0.0002518452238291502
+      ]
+    },
+    {
+      "children": [
+        435
+      ],
+      "name": "TwistFollowParentKnee_R"
+    },
+    {
+      "children": [
+        436
+      ],
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "UnTwistKnee_R",
+      "rotation": [
+        -1.3506277693475788e-11,
+        3.271441104124584e-11,
+        -0.3816167712211609,
+        0.924320638179779
+      ],
+      "translation": [
+        0.002414956921711564,
+        -1.1102229998097382e-18,
+        -1.1102229998097382e-18
+      ]
+    },
+    {
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "TwistBalancerKnee_R"
+    },
+    {
+      "children": [
+        438
+      ],
+      "name": "TwistFollowParentOffsetHip_R",
+      "rotation": [
+        0.4784598648548126,
+        0.5206497311592102,
+        0.4784598648548126,
+        0.5206497311592102
+      ],
+      "translation": [
+        2.1504753344408927e-19,
+        0.00742572033777833,
+        -0.00019331010116729885
+      ]
+    },
+    {
+      "children": [
+        439
+      ],
+      "name": "TwistFollowParentHip_R"
+    },
+    {
+      "children": [
+        440,
+        441,
+        442,
+        443
+      ],
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "UnTwistHip_R",
+      "rotation": [
+        0.1968657672405243,
+        0.9784694910049438,
+        -0.03825688362121582,
+        0.048761896789073944
+      ],
+      "translation": [
+        -0.00104742671828717,
+        -0.00014736264711245894,
+        -0.0025529193226248026
+      ]
+    },
+    {
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "TwistBalancerHip_R"
+    },
+    {
+      "name": "TwisterHipPart0_R"
+    },
+    {
+      "name": "TwisterHipPart1_R"
+    },
+    {
+      "name": "TwisterHipPart2_R"
+    },
+    {
+      "children": [
+        445
+      ],
+      "name": "TwistFollowParentOffsetWrist_R",
+      "rotation": [
+        0.04703155532479286,
+        -0.09734361618757248,
+        -0.777520477771759,
+        0.6194950938224792
+      ],
+      "translation": [
+        -0.005267912521958351,
+        0.012145227752625942,
+        -0.0003295134229119867
+      ]
+    },
+    {
+      "children": [
+        446
+      ],
+      "name": "TwistFollowParentWrist_R"
+    },
+    {
+      "children": [
+        447
+      ],
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "UnTwistWrist_R",
+      "rotation": [
+        0.6271868944168091,
+        0.08912970870733261,
+        0.044236037880182266,
+        0.772486686706543
+      ],
+      "translation": [
+        0.0030932838562875986,
+        2.0317081827096398e-16,
+        9.620082466025334e-16
+      ]
+    },
+    {
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "TwistBalancerWrist_R"
+    },
+    {
+      "children": [
+        449
+      ],
+      "name": "TwistFollowParentOffsetElbow_R",
+      "rotation": [
+        -0.06636767089366913,
+        0.0853409618139267,
+        0.8899794220924377,
+        -0.44299980998039246
+      ],
+      "translation": [
+        -0.003164564957842231,
+        0.014955283142626286,
+        -0.00018013198859989643
+      ]
+    },
+    {
+      "children": [
+        450
+      ],
+      "name": "TwistFollowParentElbow_R"
+    },
+    {
+      "children": [
+        451,
+        452,
+        453,
+        454
+      ],
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "UnTwistElbow_R",
+      "rotation": [
+        -3.378045479499975e-16,
+        -7.941567169986036e-17,
+        0.20934323966503143,
+        0.9778422117233276
+      ],
+      "translation": [
+        0.0035132323391735554,
+        2.2426504885669925e-16,
+        8.851252894417471e-16
+      ]
+    },
+    {
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "TwistBalancerElbow_R"
+    },
+    {
+      "name": "TwisterElbowPart0_R"
+    },
+    {
+      "name": "TwisterElbowPart1_R"
+    },
+    {
+      "name": "TwisterElbowPart2_R"
+    },
+    {
+      "children": [
+        456
+      ],
+      "name": "TwistFollowParentOffsetShoulder_R",
+      "rotation": [
+        -0.00012040634464938194,
+        0.7069440484046936,
+        0.7072694897651672,
+        2.7726811822503805e-05
+      ],
+      "translation": [
+        -0.0013771047815680504,
+        0.014955517835915089,
+        -0.00017975748050957918
+      ]
+    },
+    {
+      "children": [
+        457
+      ],
+      "name": "TwistFollowParentShoulder_R"
+    },
+    {
+      "children": [
+        458,
+        459,
+        460,
+        461
+      ],
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "UnTwistShoulder_R",
+      "rotation": [
+        -0.5688617825508118,
+        0.36001110076904297,
+        0.26643699407577515,
+        0.6897823214530945
+      ],
+      "translation": [
+        0.0017874601762741804,
+        -7.497475074929997e-17,
+        4.440891999238953e-18
+      ]
+    },
+    {
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "TwistBalancerShoulder_R"
+    },
+    {
+      "name": "TwisterShoulderPart0_R"
+    },
+    {
+      "name": "TwisterShoulderPart1_R"
+    },
+    {
+      "name": "TwisterShoulderPart2_R"
+    },
+    {
+      "children": [
+        463
+      ],
+      "name": "TwistFollowParentOffsetKnee_L",
+      "rotation": [
+        -0.559939980506897,
+        -0.36907243728637695,
+        0.6473245024681091,
+        0.36224809288978577
+      ],
+      "translation": [
+        0.0025529193226248026,
+        0.006369599141180515,
+        -0.0002518452238291502
+      ]
+    },
+    {
+      "children": [
+        464
+      ],
+      "name": "TwistFollowParentKnee_L"
+    },
+    {
+      "children": [
+        465
+      ],
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "UnTwistKnee_L",
+      "rotation": [
+        5.142434394977968e-11,
+        5.952158210753566e-11,
+        -0.3816167712211609,
+        0.924320638179779
+      ],
+      "translation": [
+        -0.002414956921711564,
+        4.9960038093365514e-18,
+        -5.551114999048691e-19
+      ]
+    },
+    {
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "TwistBalancerKnee_L"
+    },
+    {
+      "children": [
+        467
+      ],
+      "name": "TwistFollowParentOffsetHip_L",
+      "rotation": [
+        0.4784598648548126,
+        0.5206497311592102,
+        0.4784598648548126,
+        0.5206497311592102
+      ],
+      "translation": [
+        2.1504753344408927e-19,
+        0.00742572033777833,
+        -0.00019331010116729885
+      ]
+    },
+    {
+      "children": [
+        468
+      ],
+      "name": "TwistFollowParentHip_L"
+    },
+    {
+      "children": [
+        469,
+        470,
+        471,
+        472
+      ],
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "UnTwistHip_L",
+      "rotation": [
+        0.9784694910049438,
+        -0.1968657672405243,
+        -0.048761896789073944,
+        -0.03825688362121582
+      ],
+      "translation": [
+        -0.00104742671828717,
+        -0.00014736264711245894,
+        0.0025529193226248026
+      ]
+    },
+    {
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "TwistBalancerHip_L"
+    },
+    {
+      "name": "TwisterHipPart0_L"
+    },
+    {
+      "name": "TwisterHipPart1_L"
+    },
+    {
+      "name": "TwisterHipPart2_L"
+    },
+    {
+      "children": [
+        474
+      ],
+      "name": "TwistFollowParentOffsetWrist_L",
+      "rotation": [
+        0.6194950938224792,
+        0.777520477771759,
+        -0.09734361618757248,
+        -0.04703155532479286
+      ],
+      "translation": [
+        0.005267912521958351,
+        0.012145227752625942,
+        -0.0003295134229119867
+      ]
+    },
+    {
+      "children": [
+        475
+      ],
+      "name": "TwistFollowParentWrist_L"
+    },
+    {
+      "children": [
+        476
+      ],
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "UnTwistWrist_L",
+      "rotation": [
+        0.6271868944168091,
+        0.08912970870733261,
+        0.044236037880182266,
+        0.772486686706543
+      ],
+      "translation": [
+        -0.0030932838562875986,
+        -4.696243415340236e-16,
+        -2.2895573732409228e-15
+      ]
+    },
+    {
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "TwistBalancerWrist_L"
+    },
+    {
+      "children": [
+        478
+      ],
+      "name": "TwistFollowParentOffsetElbow_L",
+      "rotation": [
+        0.44299980998039246,
+        0.8899794220924377,
+        -0.0853409618139267,
+        -0.06636767089366913
+      ],
+      "translation": [
+        0.003164564957842231,
+        0.014955283142626286,
+        -0.00018013198859989643
+      ]
+    },
+    {
+      "children": [
+        479
+      ],
+      "name": "TwistFollowParentElbow_L"
+    },
+    {
+      "children": [
+        480,
+        481,
+        482,
+        483
+      ],
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "UnTwistElbow_L",
+      "rotation": [
+        5.109324972452805e-16,
+        -5.966808188693855e-16,
+        0.20934323966503143,
+        0.9778422117233276
+      ],
+      "translation": [
+        -0.0035132323391735554,
+        -5.284661851325629e-16,
+        -2.1158076223530163e-15
+      ]
+    },
+    {
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "TwistBalancerElbow_L"
+    },
+    {
+      "name": "TwisterElbowPart0_L"
+    },
+    {
+      "name": "TwisterElbowPart1_L"
+    },
+    {
+      "name": "TwisterElbowPart2_L"
+    },
+    {
+      "children": [
+        485
+      ],
+      "name": "TwistFollowParentOffsetShoulder_L",
+      "rotation": [
+        -2.7726811822503805e-05,
+        0.7072694897651672,
+        -0.7069440484046936,
+        -0.00012040634464938194
+      ],
+      "translation": [
+        0.0013771047815680504,
+        0.014955517835915089,
+        -0.00017975748050957918
+      ]
+    },
+    {
+      "children": [
+        486
+      ],
+      "name": "TwistFollowParentShoulder_L"
+    },
+    {
+      "children": [
+        487,
+        488,
+        489,
+        490
+      ],
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "UnTwistShoulder_L",
+      "rotation": [
+        -0.5688617825508118,
+        0.36001110076904297,
+        0.26643699407577515,
+        0.6897823214530945
+      ],
+      "translation": [
+        -0.0017874601762741804,
+        4.318420663448311e-16,
+        -1.1102230411687688e-17
+      ]
+    },
+    {
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "TwistBalancerShoulder_L"
+    },
+    {
+      "name": "TwisterShoulderPart0_L"
+    },
+    {
+      "name": "TwisterShoulderPart1_L"
+    },
+    {
+      "name": "TwisterShoulderPart2_L"
+    },
+    {
+      "name": "FKIKMixKnee_R",
+      "translation": [
+        -0.002819740679115057,
+        0.00423888023942709,
+        0.0008530801860615611
+      ]
+    },
+    {
+      "name": "FKIKMixWrist_R",
+      "translation": [
+        -0.005973266437649727,
+        0.009137019515037537,
+        -0.00018266969709657133
+      ]
+    },
+    {
+      "name": "FKIKMixElbow_R",
+      "translation": [
+        -0.005267912521958351,
+        0.012145227752625942,
+        -0.0003295134229119867
+      ]
+    },
+    {
+      "name": "FKIKMixKnee_L",
+      "translation": [
+        0.002819740679115057,
+        0.00423888023942709,
+        0.0008530801860615611
+      ]
+    },
+    {
+      "name": "FKIKMixWrist_L",
+      "translation": [
+        0.005973266437649727,
+        0.009137019515037537,
+        -0.00018266969709657133
+      ]
+    },
+    {
+      "name": "FKIKMixElbow_L",
+      "translation": [
+        0.005267912521958351,
+        0.012145227752625942,
+        -0.0003295134229119867
+      ]
+    },
+    {
+      "children": [
+        498,
+        505,
+        548
+      ],
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "Root_M",
+      "rotation": [
+        0.4784598648548126,
+        0.5206497311592102,
+        0.4784598648548126,
+        0.5206497311592102
+      ],
+      "translation": [
+        2.1504753344408927e-19,
+        0.00742572033777833,
+        -0.00019331010116729885
+      ]
+    },
+    {
+      "children": [
+        499
+      ],
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "Hip_R",
+      "rotation": [
+        0.1968657672405243,
+        0.9784694910049438,
+        -0.03825688362121582,
+        0.048761896789073944
+      ],
+      "translation": [
+        -0.00104742671828717,
+        -0.00014736264711245894,
+        -0.0025529193226248026
+      ]
+    },
+    {
+      "children": [
+        500
+      ],
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "HipPart1_R",
+      "translation": [
+        0.0008049856405705214,
+        -5.551114999048691e-19,
+        5.697941847081917e-14
+      ]
+    },
+    {
+      "children": [
+        501
+      ],
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "HipPart2_R",
+      "translation": [
+        0.0008049856405705214,
+        -5.551114999048691e-19,
+        5.698275239249956e-14
+      ]
+    },
+    {
+      "children": [
+        502
+      ],
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "Knee_R",
+      "rotation": [
+        0.0,
+        -0.0,
+        -0.38161665201187134,
+        0.9243206977844238
+      ],
+      "translation": [
+        0.0008049856405705214,
+        -5.551114999048691e-19,
+        5.698052977804596e-14
+      ]
+    },
+    {
+      "children": [
+        503
+      ],
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "Ankle_R",
+      "rotation": [
+        -0.06118229404091835,
+        0.02725953608751297,
+        0.15010371804237366,
+        0.9863987565040588
+      ],
+      "translation": [
+        0.003122505731880665,
+        4.475586435671264e-18,
+        1.566496905065426e-13
+      ]
+    },
+    {
+      "children": [
+        504
+      ],
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "Toes_R",
+      "rotation": [
+        0.004411196336150169,
+        -0.004148819949477911,
+        0.6850986480712891,
+        0.7284250855445862
+      ],
+      "translation": [
+        0.0007276406395249069,
+        0.0014642722671851516,
+        1.579009140236995e-13
+      ]
+    },
+    {
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "ToesEnd_R",
+      "translation": [
+        0.0015085648046806455,
+        -6.529499057697583e-17,
+        1.7885027903119521e-09
+      ]
+    },
+    {
+      "children": [
+        506
+      ],
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "RootPart1_M",
+      "translation": [
+        0.0010543985990807414,
+        -2.7755574995243454e-19,
+        -3.974856490497319e-20
+      ]
+    },
+    {
+      "children": [
+        507
+      ],
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "RootPart2_M",
+      "translation": [
+        0.0010543985990807414,
+        -4.857225753414575e-19,
+        -3.974856490497319e-20
+      ]
+    },
+    {
+      "children": [
+        508
+      ],
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "Spine1_M",
+      "rotation": [
+        -1.2130765215228084e-32,
+        -1.1760316252090102e-32,
+        0.016741588711738586,
+        0.9998598694801331
+      ],
+      "translation": [
+        0.0010543985990807414,
+        -2.081668124643259e-19,
+        -5.874927257541762e-19
+      ]
+    },
+    {
+      "children": [
+        509
+      ],
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "Spine1Part1_M",
+      "translation": [
+        0.0008692024275660515,
+        6.938894007304805e-19,
+        -2.906295851030795e-20
+      ]
+    },
+    {
+      "children": [
+        510
+      ],
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "Spine1Part2_M",
+      "translation": [
+        0.0008692024275660515,
+        4.857225753414575e-19,
+        -2.906295851030795e-20
+      ]
+    },
+    {
+      "children": [
+        511,
+        516,
+        532
+      ],
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "Chest_M",
+      "rotation": [
+        -9.613009130032351e-34,
+        1.6920898817357152e-32,
+        0.05671999603509903,
+        0.9983901381492615
+      ],
+      "translation": [
+        0.0008692024275660515,
+        2.7755574995243454e-19,
+        -4.826680041344523e-19
+      ]
+    },
+    {
+      "children": [
+        512
+      ],
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "Neck_M",
+      "rotation": [
+        -1.4051279758160128e-34,
+        -5.7760809582492e-33,
+        -0.024319471791386604,
+        0.9997042417526245
+      ],
+      "translation": [
+        0.0028212701436132193,
+        -8.326672498573036e-19,
+        5.596783847462897e-18
+      ]
+    },
+    {
+      "children": [
+        513
+      ],
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "NeckPart1_M",
+      "translation": [
+        0.0001467962865717709,
+        -2.7755574995243454e-19,
+        -3.828887869832693e-20
+      ]
+    },
+    {
+      "children": [
+        514
+      ],
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "NeckPart2_M",
+      "translation": [
+        0.0001467962865717709,
+        -1.3877787497621727e-19,
+        -3.828887869832693e-20
+      ]
+    },
+    {
+      "children": [
+        515
+      ],
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "Head_M",
+      "rotation": [
+        1.2207206143494119e-32,
+        -1.721506480928249e-32,
+        -0.006914712954312563,
+        0.9999760985374451
+      ],
+      "translation": [
+        0.0001467962865717709,
+        -2.7755574995243454e-19,
+        -1.7497227420242311e-19
+      ]
+    },
+    {
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "HeadEnd_M",
+      "translation": [
+        0.008832658641040325,
+        -3.892719572736184e-17,
+        4.561490072863085e-19
+      ]
+    },
+    {
+      "children": [
+        517
+      ],
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "Scapula_R",
+      "rotation": [
+        0.02188681997358799,
+        0.7068143486976624,
+        -0.022031981498003006,
+        0.7067170739173889
+      ],
+      "translation": [
+        0.0017959889955818653,
+        0.00030121527379378676,
+        -0.0013771047815680504
+      ]
+    },
+    {
+      "children": [
+        518
+      ],
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "Shoulder_R",
+      "rotation": [
+        -0.5688617825508118,
+        0.36001110076904297,
+        0.26643699407577515,
+        0.6897823214530945
+      ],
+      "translation": [
+        0.0017874601762741804,
+        -7.441963976638298e-17,
+        2.2204459996194763e-18
+      ]
+    },
+    {
+      "children": [
+        519
+      ],
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "ShoulderPart1_R",
+      "translation": [
+        0.0011710773687809706,
+        7.549516646860403e-17,
+        -8.326672498573036e-19
+      ]
+    },
+    {
+      "children": [
+        520
+      ],
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "ShoulderPart2_R",
+      "translation": [
+        0.0011710773687809706,
+        7.549516646860403e-17,
+        0.0
+      ]
+    },
+    {
+      "children": [
+        521
+      ],
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "Elbow_R",
+      "rotation": [
+        -3.004579388632693e-17,
+        7.759845019267119e-18,
+        0.20934323966503143,
+        0.9778422117233276
+      ],
+      "translation": [
+        0.0011710773687809706,
+        7.105427198782324e-17,
+        0.0
+      ]
+    },
+    {
+      "children": [
+        522
+      ],
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "ElbowPart1_R",
+      "translation": [
+        0.0010310945799574256,
+        6.550315554120848e-17,
+        8.46545043041792e-17
+      ]
+    },
+    {
+      "children": [
+        523
+      ],
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "ElbowPart2_R",
+      "translation": [
+        0.0010310945799574256,
+        6.994405002198927e-17,
+        8.354428233834523e-17
+      ]
+    },
+    {
+      "children": [
+        524,
+        528
+      ],
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "Wrist_R",
+      "rotation": [
+        0.6271868944168091,
+        0.08912971615791321,
+        0.044236037880182266,
+        0.772486686706543
+      ],
+      "translation": [
+        0.0010310945799574256,
+        -1.6526367774272188e-10,
+        8.437694881272071e-17
+      ]
+    },
+    {
+      "children": [
+        525
+      ],
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "MiddleFinger1_R",
+      "rotation": [
+        -0.00023371279530692846,
+        0.02661222033202648,
+        -0.0046809581108391285,
+        0.999634861946106
+      ],
+      "translation": [
+        0.0010509889107197523,
+        -4.9960038093365514e-18,
+        2.2204459996194763e-18
+      ]
+    },
+    {
+      "children": [
+        526
+      ],
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "MiddleFinger2_R",
+      "rotation": [
+        0.00023107966990210116,
+        -0.008398140780627728,
+        0.0012281707022339106,
+        0.9999639391899109
+      ],
+      "translation": [
+        0.0009211034048348665,
+        -3.4694470036524025e-19,
+        -4.440891999238953e-18
+      ]
+    },
+    {
+      "children": [
+        527
+      ],
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "MiddleFinger3_R",
+      "rotation": [
+        0.004012374673038721,
+        0.35701656341552734,
+        -0.0014147539623081684,
+        0.9340883493423462
+      ],
+      "translation": [
+        0.0009367364691570401,
+        2.7755574995243454e-19,
+        7.77156120546332e-18
+      ]
+    },
+    {
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "MiddleFinger4_R",
+      "translation": [
+        0.001462634070776403,
+        1.0408340623216295e-19,
+        1.0408341269451149e-18
+      ]
+    },
+    {
+      "children": [
+        529
+      ],
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "ThumbFinger1_R",
+      "rotation": [
+        -0.42563381791114807,
+        -0.0618877075612545,
+        0.43115538358688354,
+        0.7931650876998901
+      ],
+      "translation": [
+        0.0012569250538945198,
+        0.0013817071449011564,
+        3.859136995743029e-05
+      ]
+    },
+    {
+      "children": [
+        530
+      ],
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "ThumbFinger2_R",
+      "rotation": [
+        0.0005499534890986979,
+        0.007995239458978176,
+        -0.004590775817632675,
+        0.9999573230743408
+      ],
+      "translation": [
+        0.0007090654107742012,
+        -1.3877787497621727e-19,
+        -3.3306689994292145e-18
+      ]
+    },
+    {
+      "children": [
+        531
+      ],
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "ThumbFinger3_R",
+      "rotation": [
+        0.0023477543145418167,
+        0.029832808300852776,
+        0.01444221194833517,
+        0.9994478225708008
+      ],
+      "translation": [
+        0.0007297015399672091,
+        1.2490009523341379e-18,
+        2.2204459996194763e-18
+      ]
+    },
+    {
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "ThumbFinger4_R",
+      "translation": [
+        0.0006039590807631612,
+        1.2490009523341379e-18,
+        0.0
+      ]
+    },
+    {
+      "children": [
+        533
+      ],
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "Scapula_L",
+      "rotation": [
+        0.7068143486976624,
+        -0.02188682183623314,
+        -0.7067170739173889,
+        -0.022031981498003006
+      ],
+      "translation": [
+        0.0017959889955818653,
+        0.00030121527379378676,
+        0.0013771047815680504
+      ]
+    },
+    {
+      "children": [
+        534
+      ],
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "Shoulder_L",
+      "rotation": [
+        -0.5688617825508118,
+        0.36001110076904297,
+        0.26643699407577515,
+        0.6897823214530945
+      ],
+      "translation": [
+        -0.0017874601762741804,
+        4.621997271744252e-16,
+        -1.1102230411687688e-17
+      ]
+    },
+    {
+      "children": [
+        535
+      ],
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "ShoulderPart1_L",
+      "translation": [
+        -0.0011710773687809706,
+        -1.4432898790731443e-16,
+        -5.873079757915431e-16
+      ]
+    },
+    {
+      "children": [
+        536
+      ],
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "ShoulderPart2_L",
+      "translation": [
+        -0.0011710773687809706,
+        -1.4876988900554012e-16,
+        -5.873079757915431e-16
+      ]
+    },
+    {
+      "children": [
+        537
+      ],
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "Elbow_L",
+      "rotation": [
+        -1.5749202880015652e-17,
+        7.27249419058864e-18,
+        0.20934323966503143,
+        0.9778422117233276
+      ],
+      "translation": [
+        -0.0011710773687809706,
+        -1.4210854397564648e-16,
+        -5.867528515737363e-16
+      ]
+    },
+    {
+      "children": [
+        538
+      ],
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "ElbowPart1_L",
+      "translation": [
+        -0.0010310945799574256,
+        -1.2989608911658299e-16,
+        -6.347700376228393e-16
+      ]
+    },
+    {
+      "children": [
+        539
+      ],
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "ElbowPart2_L",
+      "translation": [
+        -0.0010310945799574256,
+        -1.3211654628314073e-16,
+        -6.358802331188937e-16
+      ]
+    },
+    {
+      "children": [
+        540,
+        544
+      ],
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "Wrist_L",
+      "rotation": [
+        0.6271868944168091,
+        0.08912970870733261,
+        0.044236037880182266,
+        0.772486686706543
+      ],
+      "translation": [
+        -0.0010310945799574256,
+        -1.3211654628314073e-16,
+        -6.350475467921835e-16
+      ]
+    },
+    {
+      "children": [
+        541
+      ],
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "MiddleFinger1_L",
+      "rotation": [
+        -0.00023371279530692846,
+        0.02661222033202648,
+        -0.0046809581108391285,
+        0.999634861946106
+      ],
+      "translation": [
+        -0.0010509889107197523,
+        -4.2796014128321236e-12,
+        9.625133806298591e-13
+      ]
+    },
+    {
+      "children": [
+        542
+      ],
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "MiddleFinger2_L",
+      "rotation": [
+        0.00023107966990210116,
+        -0.008398140780627728,
+        0.0012281707022339106,
+        0.9999639391899109
+      ],
+      "translation": [
+        -0.0009211034048348665,
+        -4.7579297272892784e-12,
+        1.0186629101002764e-12
+      ]
+    },
+    {
+      "children": [
+        543
+      ],
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "MiddleFinger3_L",
+      "rotation": [
+        0.004012374673038721,
+        0.35701656341552734,
+        -0.0014147539623081684,
+        0.9340883493423462
+      ],
+      "translation": [
+        -0.0009367364691570401,
+        -4.516542088245368e-12,
+        9.91062809076182e-13
+      ]
+    },
+    {
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "MiddleFinger4_L",
+      "translation": [
+        -0.001462634070776403,
+        -2.522675297822463e-11,
+        1.7582038255858912e-12
+      ]
+    },
+    {
+      "children": [
+        545
+      ],
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "ThumbFinger1_L",
+      "rotation": [
+        -0.42563381791114807,
+        -0.0618877075612545,
+        0.43115538358688354,
+        0.7931650876998901
+      ],
+      "translation": [
+        -0.0012569250538945198,
+        -0.0013817071449011564,
+        -3.8591399061260745e-05
+      ]
+    },
+    {
+      "children": [
+        546
+      ],
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "ThumbFinger2_L",
+      "rotation": [
+        0.0005499534890986979,
+        0.007995239458978176,
+        -0.004590775817632675,
+        0.9999573230743408
+      ],
+      "translation": [
+        -0.0007090654107742012,
+        4.590793457187603e-12,
+        -1.1176885805763703e-11
+      ]
+    },
+    {
+      "children": [
+        547
+      ],
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "ThumbFinger3_L",
+      "rotation": [
+        0.0023477543145418167,
+        0.029832808300852776,
+        0.01444221194833517,
+        0.9994478225708008
+      ],
+      "translation": [
+        -0.0007297015399672091,
+        4.565686804319791e-12,
+        -1.142338914433827e-11
+      ]
+    },
+    {
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "ThumbFinger4_L",
+      "translation": [
+        -0.0006039590807631612,
+        3.2800303272073617e-12,
+        -9.691228722297218e-12
+      ]
+    },
+    {
+      "children": [
+        549
+      ],
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "Hip_L",
+      "rotation": [
+        0.9784694910049438,
+        -0.1968657672405243,
+        -0.048761896789073944,
+        -0.03825688362121582
+      ],
+      "translation": [
+        -0.00104742671828717,
+        -0.00014736264711245894,
+        0.0025529193226248026
+      ]
+    },
+    {
+      "children": [
+        550
+      ],
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "HipPart1_L",
+      "translation": [
+        -0.0008049856405705214,
+        1.0157386000006485e-12,
+        -5.698108543165936e-14
+      ]
+    },
+    {
+      "children": [
+        551
+      ],
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "HipPart2_L",
+      "translation": [
+        -0.0008049856405705214,
+        1.0157408768252107e-12,
+        -5.698275239249956e-14
+      ]
+    },
+    {
+      "children": [
+        552
+      ],
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "Knee_L",
+      "rotation": [
+        1.216552724855214e-17,
+        -6.899435734327224e-18,
+        -0.38161665201187134,
+        0.9243206977844238
+      ],
+      "translation": [
+        -0.0008049856405705214,
+        1.0157408768252107e-12,
+        -5.698052977804596e-14
+      ]
+    },
+    {
+      "children": [
+        553
+      ],
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "Ankle_L",
+      "rotation": [
+        -0.06118229404091835,
+        0.02725953608751297,
+        0.15010371804237366,
+        0.9863987565040588
+      ],
+      "translation": [
+        -0.003122505731880665,
+        3.940006741004476e-12,
+        -4.661393341633124e-13
+      ]
+    },
+    {
+      "children": [
+        554
+      ],
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "Toes_L",
+      "rotation": [
+        0.004411635920405388,
+        -0.00414923345670104,
+        0.6850986480712891,
+        0.7284250855445862
+      ],
+      "translation": [
+        -0.0007276406395249069,
+        -0.0014642722671851516,
+        -6.486034176108116e-14
+      ]
+    },
+    {
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "ToesEnd_L",
+      "translation": [
+        -0.0015085648046806455,
+        -9.71445150682915e-19,
+        2.0562294922310542e-11
+      ]
+    },
+    {
+      "children": [
+        556
+      ],
+      "name": "Infantry"
+    },
+    {
+      "children": [
+        557
+      ],
+      "name": "level_1"
+    },
+    {
+      "mesh": 0,
+      "name": "Char_base_level_1",
+      "skin": 0
+    }
+  ],
+  "samplers": [
+    {}
+  ],
+  "scenes": [
+    {
+      "nodes": [
+        0,
+        497,
+        555
+      ]
+    }
+  ],
+  "skins": [
+    {
+      "inverseBindMatrices": 10,
+      "joints": [
+        497,
+        498,
+        499,
+        500,
+        501,
+        502,
+        503,
+        504,
+        505,
+        506,
+        507,
+        508,
+        509,
+        510,
+        511,
+        512,
+        513,
+        514,
+        515,
+        516,
+        517,
+        518,
+        519,
+        520,
+        521,
+        522,
+        523,
+        524,
+        525,
+        526,
+        527,
+        528,
+        529,
+        530,
+        531,
+        532,
+        533,
+        534,
+        535,
+        536,
+        537,
+        538,
+        539,
+        540,
+        541,
+        542,
+        543,
+        544,
+        545,
+        546,
+        547,
+        548,
+        549,
+        550,
+        551,
+        552,
+        553,
+        554
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "name": "unit_color_2",
+      "sampler": 0,
+      "source": 0
+    }
+  ]
+}
